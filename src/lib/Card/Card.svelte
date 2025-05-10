@@ -1,4 +1,19 @@
 <script lang="ts">
+  import VanillaTilt from "vanilla-tilt";
+  import { onMount } from "svelte";
+
+  let tiltRef: HTMLElement | null = $state(null);
+
+  onMount(() => {
+    if (tiltRef) {
+      VanillaTilt.init(tiltRef, {
+        max: 25,
+        speed: 400,
+        glare: true,
+        "max-glare": 0.5,
+      });
+    }
+  });
   import SvgTemplate from "./SVGTemplate.svelte";
 
   const purple = "#B9019B";
@@ -8,7 +23,10 @@
   };
 </script>
 
-<div class="w-[500px] h-[700px] relative font-jersey overflow-clip rounded-xl">
+<div
+  bind:this={tiltRef}
+  class="w-[500px] h-[700px] relative font-jersey overflow-clip rounded-xl scale-90 hover:scale-100 transition-all"
+>
   <span class="absolute vertical-text"> GEORGE WASHINGTON</span>
 
   <div
