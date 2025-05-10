@@ -1,0 +1,3990 @@
+[
+  {
+    "imageName": "Marco Polo.png",
+    "name": "Marco Polo",
+    "details": {
+      "field": "Exploration/Writing",
+      "reason": "Venetian merchant traveler whose detailed accounts of his journeys to Asia ('The Travels of Marco Polo') opened European eyes to Eastern cultures, trade possibilities, and geography, challenging existing worldviews."
+    }
+  },
+  {
+    "imageName": "Nelson Mandela.png",
+    "name": "Nelson Mandela",
+    "details": {
+      "field": "Politics/Leadership",
+      "reason": "Led the fight against apartheid in South Africa, enduring decades of imprisonment to emerge as a global symbol of resistance and reconciliation."
+    }
+  },
+  {
+    "imageName": "Gertrude Stein.png",
+    "name": "Gertrude Stein",
+    "details": {
+      "field": "Literature/Art Patronage",
+      "reason": "American modernist writer known for her experimental, repetitive prose and stream-of-consciousness style, her Paris salon was a hub for avant-garde artists, challenging literary and artistic conventions."
+    }
+  },
+  {
+    "imageName": "Frances Allen.png",
+    "name": "Frances Allen",
+    "details": {
+      "field": "Computer Science",
+      "reason": "American computer scientist (first female Turing Award winner) who pioneered work in optimizing compilers and parallelization, challenging the efficiency and performance limitations of early computing systems."
+    }
+  },
+  {
+    "imageName": "Peter Abelard.png",
+    "name": "Peter Abelard",
+    "details": {
+      "field": "Philosophy/Theology",
+      "reason": "Medieval philosopher and theologian whose application of logic to theology (Sic et Non) and controversial affair with Héloïse challenged traditional authority and societal norms."
+    }
+  },
+  {
+    "imageName": "Baruch Spinoza.png",
+    "name": "Baruch Spinoza",
+    "details": {
+      "field": "Philosophy",
+      "reason": "Dutch philosopher whose rationalist and pantheistic views (equating God with Nature) and critiques of religious dogma led to his excommunication from the Jewish community, challenging established religious and philosophical thought of his time."
+    }
+  },
+  {
+    "imageName": "Abraham Lincoln.png",
+    "name": "Abraham Lincoln",
+    "details": {
+      "field": "Politics/Leadership",
+      "reason": "Preserved the United States during its Civil War and issued the Emancipation Proclamation, fundamentally altering the nation by ending slavery."
+    }
+  },
+  {
+    "imageName": "Ibn Battuta.png",
+    "name": "Ibn Battuta",
+    "details": {
+      "field": "Exploration/Scholarship",
+      "reason": "Moroccan scholar and explorer who undertook extensive travels (the Rihla) across the Islamic world and beyond, documenting diverse cultures and societies, challenging geographical and cultural isolation."
+    }
+  },
+  {
+    "imageName": "Rumi (Jalāl ad-Dīn Muhammad Rūmī).png",
+    "name": "Rumi (Jalāl ad-Dīn Muhammad Rūmī)",
+    "details": {
+      "field": "Poetry/Mysticism (Sufism)",
+      "reason": "A 13th-century Persian poet, Hanafi faqih, Islamic scholar, Maturidi theologian, and Sufi mystic whose ecstatic poetry expressed profound spiritual insights and challenged rigid religious dogma, promoting universal love and divine union."
+    }
+  },
+  {
+    "imageName": "Carl Jung.png",
+    "name": "Carl Jung",
+    "details": {
+      "field": "Psychology (Analytical Psychology)",
+      "reason": "Founded analytical psychology, introducing concepts like the collective unconscious, archetypes, and psychological types, challenging Freudian psychoanalysis and expanding the study of the human psyche."
+    }
+  },
+  {
+    "imageName": "Sappho.png",
+    "name": "Sappho",
+    "details": {
+      "field": "Literature (Poetry)",
+      "reason": "Ancient Greek lyric poet from Lesbos whose intimate and passionate poetry, often expressing love for women, challenged patriarchal literary norms and remains influential despite much of it being lost. (Note: Sappho was in Gen 1, this is a duplicate check test, should be removed if already present)."
+    }
+  },
+  {
+    "imageName": "Albert Einstein.png",
+    "name": "Albert Einstein",
+    "details": {
+      "field": "Science (Physics)",
+      "reason": "Developed the theory of relativity (both special and general), fundamentally transforming our understanding of space, time, gravity, and the universe, challenging Newtonian physics."
+    }
+  },
+  {
+    "imageName": "Isambard Kingdom Brunel.png",
+    "name": "Isambard Kingdom Brunel",
+    "details": {
+      "field": "Engineering",
+      "reason": "Visionary British civil and mechanical engineer who designed revolutionary railways, steamships (SS Great Western, SS Great Britain, SS Great Eastern), and bridges, pushing the boundaries of 19th-century technology and engineering."
+    }
+  },
+  {
+    "imageName": "Plato.png",
+    "name": "Plato",
+    "details": {
+      "field": "Philosophy",
+      "reason": "Ancient Greek philosopher whose extensive writings on metaphysics, ethics, politics, and epistemology profoundly shaped Western thought, challenging existing beliefs and establishing philosophical inquiry."
+    }
+  },
+  {
+    "imageName": "Trofim Lysenko.png",
+    "name": "Trofim Lysenko",
+    "details": {
+      "field": "Biology/Agronomy (Pseudoscience)"
+    }
+  },
+  {
+    "imageName": "Jan Hus.png",
+    "name": "Jan Hus",
+    "details": {
+      "field": "Religious Reform/Theology",
+      "reason": "Bohemian religious reformer who, inspired by John Wycliffe, challenged papal authority, indulgences, and Church corruption, advocating for reforms a century before Martin Luther. Burned at the stake for heresy, his actions sparked the Hussite Wars."
+    }
+  },
+  {
+    "imageName": "Russell Means.png",
+    "name": "Russell Means",
+    "details": {
+      "field": "Indigenous Rights Activism (AIM)/Politics",
+      "reason": "Oglala Lakota activist and prominent leader of the American Indian Movement (AIM), involved in major protests like the Wounded Knee occupation, fiercely challenging U.S. government policies and advocating for Native American sovereignty."
+    }
+  },
+  {
+    "imageName": "Ralph Waldo Emerson.png",
+    "name": "Ralph Waldo Emerson",
+    "details": {
+      "field": "Philosophy/Writing/Poetry",
+      "reason": "A leading figure of the Transcendentalist movement, his essays and lectures emphasized individualism, self-reliance, and intuition, challenging traditional religious doctrines and societal conventions."
+    }
+  },
+  {
+    "imageName": "J.R.R. Tolkien.png",
+    "name": "J.R.R. Tolkien",
+    "details": {
+      "field": "Literature (Fantasy)/Philology",
+      "reason": "Author of 'The Hobbit' and 'The Lord of the Rings,' he effectively created the modern high fantasy genre, challenging literary realism with deeply imagined worlds, mythology, and languages."
+    }
+  },
+  {
+    "imageName": "Robert Johnson.png",
+    "name": "Robert Johnson",
+    "details": {
+      "field": "Music (Blues)",
+      "reason": "American Delta blues musician whose landmark recordings, masterful guitar playing, and haunting vocals, though sparse, profoundly challenged and shaped the blues and rock music that followed."
+    }
+  },
+  {
+    "imageName": "Agnès Varda.png",
+    "name": "Agnès Varda",
+    "details": {
+      "field": "Film Direction/Screenwriting/Art",
+      "reason": "Belgian-born French filmmaker, a key figure of the French New Wave, whose innovative, often documentary-style films explored feminist themes, social issues, and personal memory, challenging traditional cinematic forms and patriarchal perspectives."
+    }
+  },
+  {
+    "imageName": "William Lloyd Garrison.png",
+    "name": "William Lloyd Garrison",
+    "details": {
+      "field": "Abolitionism/Journalism",
+      "reason": "A radical abolitionist and publisher of 'The Liberator,' he uncompromisingly challenged slavery and advocated for immediate emancipation, often alienating more moderate reformers."
+    }
+  },
+  {
+    "imageName": "Pericles.png",
+    "name": "Pericles",
+    "details": {
+      "field": "Politics/Leadership",
+      "reason": "Athenian statesman who championed radical democracy, oversaw the construction of the Acropolis, and fostered a cultural golden age, challenging oligarchic factions and expanding citizen participation."
+    }
+  },
+  {
+    "imageName": "Joan Baez.png",
+    "name": "Joan Baez",
+    "details": {
+      "field": "Music (Folk)/Activism",
+      "reason": "American folk singer and activist, a prominent voice in the civil rights, anti-war, and human rights movements, using her music and platform to challenge injustice and advocate for nonviolence."
+    }
+  },
+  {
+    "imageName": "Wilma Mankiller.png",
+    "name": "Wilma Mankiller",
+    "details": {
+      "field": "Politics/Indigenous Rights/Activism",
+      "reason": "The first female Principal Chief of the Cherokee Nation, she revitalized the tribe through community development, healthcare, and education initiatives, challenging patriarchal norms and advocating for tribal self-governance."
+    }
+  },
+  {
+    "imageName": "Alice Paul.png",
+    "name": "Alice Paul",
+    "details": {
+      "field": "Suffragist Movement/Women's Rights",
+      "reason": "A key leader in the American women's suffrage movement, she employed militant tactics (protests, hunger strikes) and challenged existing political structures to secure the 19th Amendment."
+    }
+  },
+  {
+    "imageName": "Edgar Allan Poe.png",
+    "name": "Edgar Allan Poe",
+    "details": {
+      "field": "Literature (Poetry/Short Stories)",
+      "reason": "American writer known for his macabre tales and detective fiction, his work explored dark psychological themes, challenged literary sentimentality, and influenced genres like horror and mystery."
+    }
+  },
+  {
+    "imageName": "Fannie Lou Hamer.png",
+    "name": "Fannie Lou Hamer",
+    "details": {
+      "field": "Civil Rights Activism/Voting Rights",
+      "reason": "African American voting rights activist and civil rights leader who co-founded the Mississippi Freedom Democratic Party, powerfully challenging segregationist Democrats and systemic disenfranchisement with her famous testimony: 'I'm sick and tired of being sick and tired.'"
+    }
+  },
+  {
+    "imageName": "Chief Joseph (Hinmatóowyalahtq̓it).png",
+    "name": "Chief Joseph (Hinmatóowyalahtq̓it)",
+    "details": {
+      "field": "Leadership/Indigenous Rights",
+      "reason": "Nez Perce leader who resisted U.S. government forced removal, leading his people on an epic retreat, and later became an eloquent advocate for justice and equality, challenging government policies."
+    }
+  },
+  {
+    "imageName": "Wernher von Braun.png",
+    "name": "Wernher von Braun",
+    "details": {
+      "field": "Engineering (Rocketry/Aerospace)",
+      "reason": "German, later American, aerospace engineer who was a leading figure in rocket technology development, from the V-2 rocket for Nazi Germany to the Saturn V rocket for NASA's Apollo program, a complex figure who dramatically challenged the boundaries of space exploration."
+    }
+  },
+  {
+    "imageName": "Mahatma Gandhi.png",
+    "name": "Mahatma Gandhi",
+    "details": {
+      "field": "Politics/Activism",
+      "reason": "Pioneered non-violent resistance (Satyagraha) to achieve Indian independence, profoundly challenging colonial power and inspiring global civil rights movements."
+    }
+  },
+  {
+    "imageName": "Judith Butler.png",
+    "name": "Judith Butler",
+    "details": {
+      "field": "Philosophy/Gender Theory/Queer Theory",
+      "reason": "American philosopher whose work on performativity, gender, and sexuality ('Gender Trouble') profoundly challenged traditional notions of identity, sex, and gender, becoming foundational for queer theory and feminist thought."
+    }
+  },
+  {
+    "imageName": "Lenny Bruce.png",
+    "name": "Lenny Bruce",
+    "details": {
+      "field": "Comedy/Satire/Social Commentary",
+      "reason": "American stand-up comedian whose controversial routines on religion, sex, race, and politics frequently led to arrests for obscenity, challenging societal hypocrisy and pushing the boundaries of free speech in entertainment."
+    }
+  },
+  {
+    "imageName": "Corazon Aquino.png",
+    "name": "Corazon Aquino",
+    "details": {
+      "field": "Politics/Leadership",
+      "reason": "A key figure in the 1986 People Power Revolution in the Philippines that toppled Ferdinand Marcos, she became president and restored democracy, challenging authoritarian rule."
+    }
+  },
+  {
+    "imageName": "Octavia Butler.png",
+    "name": "Octavia Butler",
+    "details": {
+      "field": "Literature (Science Fiction)",
+      "reason": "African American science fiction author whose works explored themes of race, power, gender, and humanity, challenging conventions of the genre and societal norms."
+    }
+  },
+  {
+    "imageName": "Martin Luther King Jr..png",
+    "name": "Martin Luther King Jr.",
+    "details": {
+      "field": "Civil Rights Leadership",
+      "reason": "Championed racial equality and justice through non-violent civil disobedience, disrupting entrenched segregation and profoundly changing American society."
+    }
+  },
+  {
+    "imageName": "Kwame Nkrumah.png",
+    "name": "Kwame Nkrumah",
+    "details": {
+      "field": "Politics/Pan-Africanism",
+      "reason": "Led Ghana to independence from British rule, becoming its first Prime Minister and President, a prominent advocate for Pan-African unity and challenging colonial and neocolonial influences in Africa."
+    }
+  },
+  {
+    "imageName": "Milton Friedman.png",
+    "name": "Milton Friedman",
+    "details": {
+      "field": "Economics",
+      "reason": "American economist and Nobel laureate who was a leading advocate for free-market capitalism and monetarism, challenging Keynesian economics and profoundly influencing conservative economic policies and neoliberalism globally."
+    }
+  },
+  {
+    "imageName": "Andy Warhol.png",
+    "name": "Andy Warhol",
+    "details": {
+      "field": "Art (Pop Art)",
+      "reason": "A leading figure in the Pop Art movement, his work explored celebrity culture, consumerism, and artistic reproduction, radically challenging traditional definitions of art and the artist's role."
+    }
+  },
+  {
+    "imageName": "Jean-Paul Sartre.png",
+    "name": "Jean-Paul Sartre",
+    "details": {
+      "field": "Philosophy/Literature/Activism",
+      "reason": "French existentialist philosopher, playwright, and novelist whose ideas on radical freedom, responsibility, and 'bad faith' challenged bourgeois values, religious belief, and influenced post-war intellectual and cultural life."
+    }
+  },
+  {
+    "imageName": "Tim Berners-Lee.png",
+    "name": "Tim Berners-Lee",
+    "details": {
+      "field": "Computer Science/Invention",
+      "reason": "Invented the World Wide Web, revolutionizing global communication and information access by challenging existing data sharing models and advocating for open, decentralized standards."
+    }
+  },
+  {
+    "imageName": "Max Horkheimer.png",
+    "name": "Max Horkheimer",
+    "details": {
+      "field": "Philosophy/Sociology",
+      "reason": "German philosopher and sociologist, a director of the Frankfurt School and co-author (with Adorno) of 'Dialectic of Enlightenment,' his critical theory challenged positivism, instrumental reason, and authoritarian tendencies in modern society."
+    }
+  },
+  {
+    "imageName": "Ibn Khaldun.png",
+    "name": "Ibn Khaldun",
+    "details": {
+      "field": "Historiography/Sociology/Economics",
+      "reason": "North African Arab scholar considered a forerunner of modern historiography, sociology, and economics. His 'Muqaddimah' introduced a scientific approach to history, challenging traditional narrative methods by analyzing social and economic forces."
+    }
+  },
+  {
+    "imageName": "Jagadish Chandra Bose.png",
+    "name": "Jagadish Chandra Bose",
+    "details": {
+      "field": "Physics/Biology/Botany/Archaeology",
+      "reason": "Bengali polymath who pioneered research in radio waves (microwaves), plant physiology (inventing the crescograph), and was an early science fiction writer, challenging disciplinary boundaries and Western scientific precedence."
+    }
+  },
+  {
+    "imageName": "Alexander Graham Bell.png",
+    "name": "Alexander Graham Bell",
+    "details": {
+      "field": "Invention",
+      "reason": "Credited with inventing the first practical telephone (though contested), fundamentally revolutionizing global communication and challenging previous limitations of distance."
+    }
+  },
+  {
+    "imageName": "Dolores Huerta.png",
+    "name": "Dolores Huerta",
+    "details": {
+      "field": "Labor Activism/Feminism",
+      "reason": "Co-founded the UFW with Cesar Chavez, a tireless organizer and negotiator who championed workers' and women's rights, challenging agribusiness power and patriarchal norms within the movement."
+    }
+  },
+  {
+    "imageName": "Fred Hoyle.png",
+    "name": "Fred Hoyle",
+    "details": {
+      "field": "Astronomy/Cosmology",
+      "reason": "British astronomer who formulated the theory of stellar nucleosynthesis (how elements are formed in stars) but controversially rejected the Big Bang theory (coining the term dismissively), challenging prevailing cosmological models."
+    }
+  },
+  {
+    "imageName": "Man Ray (Emmanuel Radnitzky).png",
+    "name": "Man Ray (Emmanuel Radnitzky)",
+    "details": {
+      "field": "Art (Dadaism/Surrealism)/Photography",
+      "reason": "American modernist artist who significantly contributed to Dada and Surrealism, experimenting with photography (rayographs), painting, and sculpture, challenging traditional artistic mediums and techniques."
+    }
+  },
+  {
+    "imageName": "William Booth.png",
+    "name": "William Booth",
+    "details": {
+      "field": "Social Reform/Religion",
+      "reason": "British Methodist preacher who, with his wife Catherine, founded The Salvation Army, challenging societal indifference to poverty, alcoholism, and homelessness with practical aid and evangelism."
+    }
+  },
+  {
+    "imageName": "Orson Welles.png",
+    "name": "Orson Welles",
+    "details": {
+      "field": "Film Direction/Acting/Radio",
+      "reason": "American filmmaker, actor, and writer whose innovative radio broadcast 'The War of the Worlds' and groundbreaking film 'Citizen Kane' (with its revolutionary cinematography and narrative structure) challenged the conventions of both mediums."
+    }
+  },
+  {
+    "imageName": "Abigail Adams.png",
+    "name": "Abigail Adams",
+    "details": {
+      "field": "Advocacy/Correspondence",
+      "reason": "Early American advocate for women's rights and abolition through her influential letters to her husband, President John Adams, famously urging him to 'Remember the Ladies,' challenging patriarchal norms."
+    }
+  },
+  {
+    "imageName": "Richard Stallman.png",
+    "name": "Richard Stallman",
+    "details": {
+      "field": "Computer Science/Activism (Free Software)",
+      "reason": "American software freedom activist and programmer who launched the GNU Project and founded the Free Software Foundation, challenging proprietary software and advocating for user freedoms with a radical philosophy."
+    }
+  },
+  {
+    "imageName": "Piet Mondrian.png",
+    "name": "Piet Mondrian",
+    "details": {
+      "field": "Art (De Stijl/Abstract Art)",
+      "reason": "Dutch painter, a founder of the De Stijl movement, whose neoplastic compositions of primary colors, black lines, and white space sought universal harmony, radically challenging traditional aesthetics and representation."
+    }
+  },
+  {
+    "imageName": "Duke Ellington.png",
+    "name": "Duke Ellington",
+    "details": {
+      "field": "Music (Jazz)",
+      "reason": "American composer, pianist, and bandleader who elevated jazz to an art form with sophisticated compositions, distinctive orchestrations, and by challenging racial barriers in the music industry."
+    }
+  },
+  {
+    "imageName": "William Harvey.png",
+    "name": "William Harvey",
+    "details": {
+      "field": "Medicine/Physiology",
+      "reason": "English physician who was the first to describe accurately the circulation of blood pumped by the heart, challenging centuries of Galenic physiological dogma."
+    }
+  },
+  {
+    "imageName": "Mary Shelley.png",
+    "name": "Mary Shelley",
+    "details": {
+      "field": "Literature",
+      "reason": "Authored 'Frankenstein,' a groundbreaking work that pioneered science fiction, explored themes of scientific hubris, creation, and responsibility, challenging Romantic literary conventions and societal anxieties about scientific progress."
+    }
+  },
+  {
+    "imageName": "John Locke.png",
+    "name": "John Locke",
+    "details": {
+      "field": "Philosophy",
+      "reason": "Enlightenment thinker whose ideas on natural rights (life, liberty, property), government by consent, and empiricism profoundly influenced democratic revolutions in America and France, challenging absolutism."
+    }
+  },
+  {
+    "imageName": "Stanley Kubrick.png",
+    "name": "Stanley Kubrick",
+    "details": {
+      "field": "Film Direction/Screenwriting",
+      "reason": "American filmmaker known for his diverse, visually stunning, and often controversial films that challenged cinematic conventions, explored complex philosophical themes, and pushed technical boundaries."
+    }
+  },
+  {
+    "imageName": "Jürgen Habermas.png",
+    "name": "Jürgen Habermas",
+    "details": {
+      "field": "Philosophy/Social Theory",
+      "reason": "German philosopher and social theorist in the tradition of critical theory, whose work on communicative rationality, the public sphere, and discourse ethics challenged earlier Frankfurt School pessimism and offered frameworks for democratic deliberation."
+    }
+  },
+  {
+    "imageName": "Muhammad Ali.png",
+    "name": "Muhammad Ali",
+    "details": {
+      "field": "Sports (Boxing)/Activism",
+      "reason": "Legendary boxer and social activist whose conversion to Islam, refusal to be drafted into the Vietnam War, and outspoken stance on racial injustice made him a globally controversial and transformative figure, challenging political and social norms."
+    }
+  },
+  {
+    "imageName": "Frédéric Chopin.png",
+    "name": "Frédéric Chopin",
+    "details": {
+      "field": "Music Composition/Piano",
+      "reason": "Polish Romantic composer whose innovative and expressive piano works (nocturnes, mazurkas, etudes) expanded the instrument's technical and emotional range, challenging Classical forms and influencing generations."
+    }
+  },
+  {
+    "imageName": "Jackie Robinson.png",
+    "name": "Jackie Robinson",
+    "details": {
+      "field": "Sports (Baseball)/Civil Rights",
+      "reason": "The first African American to play in Major League Baseball in the modern era, breaking the baseball color line and enduring immense racial hostility to challenge segregation in sports and American society."
+    }
+  },
+  {
+    "imageName": "Alfred Wegener.png",
+    "name": "Alfred Wegener",
+    "details": {
+      "field": "Geology/Meteorology",
+      "reason": "German polar researcher and meteorologist who proposed the theory of continental drift in 1912, initially met with widespread skepticism and ridicule from the scientific establishment, fundamentally challenging geological orthodoxy before its eventual acceptance."
+    }
+  },
+  {
+    "imageName": "Herbert Marcuse.png",
+    "name": "Herbert Marcuse",
+    "details": {
+      "field": "Philosophy/Social Theory",
+      "reason": "German-American philosopher and sociologist of the Frankfurt School, his critical theory ('One-Dimensional Man') critiqued advanced industrial society, consumerism, and 'repressive tolerance,' challenging both capitalism and Soviet communism, influencing New Left movements."
+    }
+  },
+  {
+    "imageName": "Igor Stravinsky.png",
+    "name": "Igor Stravinsky",
+    "details": {
+      "field": "Music",
+      "reason": "A revolutionary composer whose ballet 'The Rite of Spring' caused a scandal with its dissonant harmonies and primal rhythms, heralding a new, disruptive era in music."
+    }
+  },
+  {
+    "imageName": "Fritz Strassmann.png",
+    "name": "Fritz Strassmann",
+    "details": {
+      "field": "Chemistry (Analytical/Nuclear)",
+      "reason": "German chemist who, with Otto Hahn, identified barium as a product of neutron bombardment of uranium, leading to the discovery of nuclear fission, challenging fundamental physics."
+    }
+  },
+  {
+    "imageName": "Gloria Steinem.png",
+    "name": "Gloria Steinem",
+    "details": {
+      "field": "Feminism/Journalism/Activism",
+      "reason": "A leading voice of second-wave feminism, co-founder of Ms. magazine, she challenged patriarchal structures, media representation of women, and advocated for reproductive rights and equality."
+    }
+  },
+  {
+    "imageName": "Shirley Chisholm.png",
+    "name": "Shirley Chisholm",
+    "details": {
+      "field": "Politics/Activism",
+      "reason": "The first African American woman elected to the U.S. Congress and the first to seek a major party's nomination for President, unapologetically challenging racial and gender barriers in politics."
+    }
+  },
+  {
+    "imageName": "Jimi Hendrix.png",
+    "name": "Jimi Hendrix",
+    "details": {
+      "field": "Music (Rock)",
+      "reason": "American rock guitarist, singer, and songwriter whose revolutionary electric guitar techniques (feedback, distortion, wah-wah), virtuosic playing, and experimental sound challenged the sonic boundaries of rock music."
+    }
+  },
+  {
+    "imageName": "John Cage.png",
+    "name": "John Cage",
+    "details": {
+      "field": "Music Composition/Philosophy/Art",
+      "reason": "American avant-garde composer whose explorations of chance, silence (4'33\"), and unconventional instrumentation profoundly challenged the definitions of music, listening, and artistic intent."
+    }
+  },
+  {
+    "imageName": "Harvey Pekar.png",
+    "name": "Harvey Pekar",
+    "details": {
+      "field": "Comics/Writing",
+      "reason": "American underground comic book writer best known for his autobiographical series 'American Splendor,' challenging the superhero genre and traditional narrative forms by depicting the mundane realities, frustrations, and observations of everyday working-class life."
+    }
+  },
+  {
+    "imageName": "Srinivasa Ramanujan.png",
+    "name": "Srinivasa Ramanujan",
+    "details": {
+      "field": "Mathematics",
+      "reason": "A largely self-taught Indian mathematical genius whose profound and original contributions to number theory, continued fractions, and infinite series challenged and expanded Western mathematical understanding."
+    }
+  },
+  {
+    "imageName": "Queen Nzinga of Ndongo and Matamba (Nzinga Mbande).png",
+    "name": "Queen Nzinga of Ndongo and Matamba (Nzinga Mbande)",
+    "details": {
+      "field": "Politics/Military Leadership",
+      "reason": "17th-century queen of the Mbundu people in Angola who fiercely resisted Portuguese colonial expansion and slave trading for decades through shrewd diplomacy and military prowess, challenging colonial power and gender norms."
+    }
+  },
+  {
+    "imageName": "Linus Pauling.png",
+    "name": "Linus Pauling",
+    "details": {
+      "field": "Chemistry/Peace Activism",
+      "reason": "Only person to win two unshared Nobel Prizes (Chemistry and Peace), he made foundational discoveries in chemical bonding and later fiercely challenged nuclear weapons testing and proliferation."
+    }
+  },
+  {
+    "imageName": "Georges Lemaître.png",
+    "name": "Georges Lemaître",
+    "details": {
+      "field": "Physics/Astronomy/Cosmology",
+      "reason": "Belgian Catholic priest, astronomer, and physicist who first proposed the theory of the expansion of the universe (later confirmed by Hubble) and the 'primeval atom' hypothesis (Big Bang theory), challenging static universe models."
+    }
+  },
+  {
+    "imageName": "Oprah Winfrey.png",
+    "name": "Oprah Winfrey",
+    "details": {
+      "field": "Media/Philanthropy/Business",
+      "reason": "Transformed television talk shows, built a media empire, and became a leading philanthropist, challenging racial and gender barriers and using her platform to foster empathy and social change."
+    }
+  },
+  {
+    "imageName": "Jeff Bezos.png",
+    "name": "Jeff Bezos",
+    "details": {
+      "field": "Technology/Business (E-commerce/Cloud Computing)",
+      "reason": "Founder of Amazon, who revolutionized e-commerce and later cloud computing (AWS), fundamentally challenging traditional retail, publishing, and IT infrastructure."
+    }
+  },
+  {
+    "imageName": "Yuri Gagarin.png",
+    "name": "Yuri Gagarin",
+    "details": {
+      "field": "Space Exploration/Cosmonautics",
+      "reason": "Soviet cosmonaut who became the first human to journey into outer space (1961), a monumental achievement that dramatically challenged the perceived limits of human endeavor and intensified the Cold War space race."
+    }
+  },
+  {
+    "imageName": "Robert Kahn.png",
+    "name": "Robert Kahn",
+    "details": {
+      "field": "Computer Science (Internet)",
+      "reason": "American electrical engineer who, with Vint Cerf, co-designed the TCP/IP protocols, fundamental to the Internet's architecture, challenging existing networking limitations."
+    }
+  },
+  {
+    "imageName": "Henri Matisse.png",
+    "name": "Henri Matisse",
+    "details": {
+      "field": "Art (Fauvism/Modernism)",
+      "reason": "French artist, a leader of Fauvism, known for his radical use of color and fluid draughtsmanship, challenging traditional representation and academic art with an emphasis on expressive qualities."
+    }
+  },
+  {
+    "imageName": "Rigoberta Menchú Tum.png",
+    "name": "Rigoberta Menchú Tum",
+    "details": {
+      "field": "Indigenous Rights Activism",
+      "reason": "Guatemalan Quiché woman who became a prominent advocate for the rights of Indigenous peoples and victims of state violence during the Guatemalan Civil War, challenging oppression and bringing global attention to atrocities."
+    }
+  },
+  {
+    "imageName": "Ursula K. Le Guin.png",
+    "name": "Ursula K. Le Guin",
+    "details": {
+      "field": "Literature (Science Fiction/Fantasy)",
+      "reason": "Acclaimed author who explored profound themes of gender, society, anarchism, and Taoism in her science fiction and fantasy, challenging genre tropes and patriarchal assumptions."
+    }
+  },
+  {
+    "imageName": "Friedrich Nietzsche.png",
+    "name": "Friedrich Nietzsche",
+    "details": {
+      "field": "Philosophy",
+      "reason": "German philosopher who radically challenged traditional Western morality, religion ('God is dead'), and philosophy with concepts like the will to power and the Übermensch, a profound disruptor of thought."
+    }
+  },
+  {
+    "imageName": "Guglielmo Marconi.png",
+    "name": "Guglielmo Marconi",
+    "details": {
+      "field": "Invention (Radio)",
+      "reason": "Italian inventor and electrical engineer known for his pioneering work on long-distance radio transmission (Marconi's law), developing the first effective system of radio communication, challenging wired telegraphy."
+    }
+  },
+  {
+    "imageName": "Edward Snowden.png",
+    "name": "Edward Snowden",
+    "details": {
+      "field": "Whistleblowing/Activism/Intelligence",
+      "reason": "American whistleblower who, as an NSA contractor, leaked highly classified information revealing extensive global surveillance programs, challenging government overreach, sparking international debates on privacy and national security, and becoming a fugitive."
+    }
+  },
+  {
+    "imageName": "Betty Friedan.png",
+    "name": "Betty Friedan",
+    "details": {
+      "field": "Feminism/Writing",
+      "reason": "Author of 'The Feminine Mystique,' which ignited second-wave feminism in the U.S. by challenging the prevailing notion that women could only find fulfillment in domesticity."
+    }
+  },
+  {
+    "imageName": "Johann Sebastian Bach.png",
+    "name": "Johann Sebastian Bach",
+    "details": {
+      "field": "Music Composition",
+      "reason": "German Baroque composer whose profound mastery of counterpoint, harmony, and motivic organisation, though perhaps seen as old-fashioned by some contemporaries, set an unparalleled standard that challenged musicians for centuries and whose later rediscovery reshaped musical tastes."
+    }
+  },
+  {
+    "imageName": "Elvis Presley.png",
+    "name": "Elvis Presley",
+    "details": {
+      "field": "Music (Rock and Roll)/Culture",
+      "reason": "American singer and actor, the 'King of Rock and Roll,' whose fusion of country and rhythm and blues, energetic performances, and controversial charisma challenged racial barriers, conservative social norms, and transformed popular culture."
+    }
+  },
+  {
+    "imageName": "James Lovelock.png",
+    "name": "James Lovelock",
+    "details": {
+      "field": "Environmental Science/Chemistry/Invention",
+      "reason": "British independent scientist who proposed the Gaia hypothesis, viewing Earth as a self-regulating complex system, challenging traditional biological and Earth science perspectives and influencing environmental thought."
+    }
+  },
+  {
+    "imageName": "Dalai Lama (Tenzin Gyatso).png",
+    "name": "Dalai Lama (Tenzin Gyatso)",
+    "details": {
+      "field": "Spiritual Leadership/Activism",
+      "reason": "The 14th Dalai Lama, spiritual leader of Tibetan Buddhism, and Nobel Peace Prize laureate, advocating for Tibetan autonomy, nonviolence, and interfaith harmony, challenging Chinese rule and promoting compassion."
+    }
+  },
+  {
+    "imageName": "Alexander Fleming.png",
+    "name": "Alexander Fleming",
+    "details": {
+      "field": "Science (Microbiology)",
+      "reason": "Discovered penicillin, the world's first broadly effective antibiotic, revolutionizing medicine and saving countless lives by challenging the prior helplessness against bacterial infections."
+    }
+  },
+  {
+    "imageName": "Lorraine Hansberry.png",
+    "name": "Lorraine Hansberry",
+    "details": {
+      "field": "Theatre/Writing",
+      "reason": "Playwright and writer whose 'A Raisin in the Sun' was the first play by an African American woman produced on Broadway, challenging racial segregation and presenting authentic Black experiences."
+    }
+  },
+  {
+    "imageName": "Pauli Murray.png",
+    "name": "Pauli Murray",
+    "details": {
+      "field": "Law/Civil Rights/Feminism/Religion",
+      "reason": "African American civil rights activist, lawyer, feminist, and Episcopal priest whose legal arguments and activism challenged racial segregation ('Jane Crow') and sex discrimination, influencing landmark Supreme Court cases."
+    }
+  },
+  {
+    "imageName": "Rachel Holloway Lloyd.png",
+    "name": "Rachel Holloway Lloyd",
+    "details": {
+      "field": "Chemistry/Education",
+      "reason": "Second American woman to earn a Ph.D. in chemistry (first in Europe), she became the first woman professor at the University of Nebraska and a strong advocate for the state's sugar beet industry, challenging gender barriers in academia and science."
+    }
+  },
+  {
+    "imageName": "I. M. Pei (Ieoh Ming Pei).png",
+    "name": "I. M. Pei (Ieoh Ming Pei)",
+    "details": {
+      "field": "Architecture",
+      "reason": "Chinese-American architect renowned for his iconic modernist structures (e.g., Louvre Pyramid, Bank of China Tower, East Building of National Gallery of Art), which often challenged traditional architectural forms and integrated art, history, and culture in bold, sometimes controversial, designs."
+    }
+  },
+  {
+    "imageName": "George Berkeley.png",
+    "name": "George Berkeley",
+    "details": {
+      "field": "Philosophy (Idealism)",
+      "reason": "Irish philosopher whose theory of subjective idealism ('esse est percipi' - to be is to be perceived) radically challenged materialism and common-sense notions of reality."
+    }
+  },
+  {
+    "imageName": "Louis Pasteur.png",
+    "name": "Louis Pasteur",
+    "details": {
+      "field": "Science (Microbiology/Chemistry)",
+      "reason": "Developed the germ theory of disease, pasteurization, and vaccines for rabies and anthrax, revolutionizing medicine, public health, and challenging theories of spontaneous generation."
+    }
+  },
+  {
+    "imageName": "Thelonious Monk.png",
+    "name": "Thelonious Monk",
+    "details": {
+      "field": "Music (Jazz)",
+      "reason": "American jazz pianist and composer known for his unique improvisational style, dissonant harmonies, and angular melodies, challenging conventional jazz piano playing and composition."
+    }
+  },
+  {
+    "imageName": "Dietrich Bonhoeffer.png",
+    "name": "Dietrich Bonhoeffer",
+    "details": {
+      "field": "Theology/Activism",
+      "reason": "German Lutheran pastor, theologian, and anti-Nazi dissident who challenged the Nazi regime and the complicity of the German Church on ethical and religious grounds, leading to his execution."
+    }
+  },
+  {
+    "imageName": "Toni Morrison.png",
+    "name": "Toni Morrison",
+    "details": {
+      "field": "Literature",
+      "reason": "Nobel laureate whose powerful novels explored the complexities of Black American experience, particularly for women, challenging dominant narratives and literary forms."
+    }
+  },
+  {
+    "imageName": "Helen Keller.png",
+    "name": "Helen Keller",
+    "details": {
+      "field": "Disability Rights/Activism/Writing",
+      "reason": "American author, political activist, and lecturer who, despite being deaf and blind, became a global advocate for people with disabilities, women's suffrage, and pacifism, challenging societal perceptions and limitations."
+    }
+  },
+  {
+    "imageName": "Yuri Kochiyama.png",
+    "name": "Yuri Kochiyama",
+    "details": {
+      "field": "Activism (Civil Rights/Human Rights)",
+      "reason": "Japanese American activist who, after her family's internment during WWII, became a tireless advocate for Black liberation, Asian American rights, Puerto Rican independence, and political prisoners, challenging injustice across multiple fronts."
+    }
+  },
+  {
+    "imageName": "Auguste Rodin.png",
+    "name": "Auguste Rodin",
+    "details": {
+      "field": "Art (Sculpture)",
+      "reason": "French sculptor considered the progenitor of modern sculpture, his expressive and often controversial works (e.g., 'The Thinker,' 'The Kiss') challenged academic conventions with their realism and psychological depth."
+    }
+  },
+  {
+    "imageName": "Katherine Johnson.png",
+    "name": "Katherine Johnson",
+    "details": {
+      "field": "Mathematics/Aerospace",
+      "reason": "An African American mathematician whose critical calculations of orbital mechanics for NASA were instrumental to U.S. spaceflights, challenging racial and gender barriers in STEM."
+    }
+  },
+  {
+    "imageName": "Alfred Kinsey.png",
+    "name": "Alfred Kinsey",
+    "details": {
+      "field": "Sexology/Zoology/Biology",
+      "reason": "American biologist whose groundbreaking (and highly controversial) research and publications ('Kinsey Reports') on human sexual behavior in the mid-20th century challenged prevailing moral and social norms about sexuality."
+    }
+  },
+  {
+    "imageName": "Bob Dylan.png",
+    "name": "Bob Dylan",
+    "details": {
+      "field": "Music/Literature",
+      "reason": "Revolutionized folk and rock music with his poetic, politically charged lyrics and unconventional vocal style, challenging musical and cultural norms and inspiring generations."
+    }
+  },
+  {
+    "imageName": "Winston Churchill.png",
+    "name": "Winston Churchill",
+    "details": {
+      "field": "Politics/Leadership",
+      "reason": "His defiant leadership and powerful oratory rallied Britain against Nazism during World War II, challenging totalitarian aggression."
+    }
+  },
+  {
+    "imageName": "James Clerk Maxwell.png",
+    "name": "James Clerk Maxwell",
+    "details": {
+      "field": "Science (Physics)",
+      "reason": "Developed the classical theory of electromagnetic radiation, unifying electricity, magnetism, and light into a single framework, a monumental achievement that challenged previous understandings."
+    }
+  },
+  {
+    "imageName": "Auguste Comte.png",
+    "name": "Auguste Comte",
+    "details": {
+      "field": "Philosophy/Sociology",
+      "reason": "French philosopher who founded the discipline of sociology and the doctrine of positivism, advocating for a scientific understanding of society and human history, challenging metaphysical and theological explanations of the world."
+    }
+  },
+  {
+    "imageName": "Susan La Flesche Picotte.png",
+    "name": "Susan La Flesche Picotte",
+    "details": {
+      "field": "Medicine/Native American Rights",
+      "reason": "The first Native American woman to earn a medical degree in the U.S., she tirelessly served the Omaha tribe, challenging health disparities and advocating for her people's rights and well-being."
+    }
+  },
+  {
+    "imageName": "Giuseppe Garibaldi.png",
+    "name": "Giuseppe Garibaldi",
+    "details": {
+      "field": "Military Leadership/Politics",
+      "reason": "Italian general and nationalist, a key figure in the Risorgimento (Italian unification), his military expeditions and popular appeal challenged existing monarchies and foreign control in Italy."
+    }
+  },
+  {
+    "imageName": "Babe Didrikson Zaharias.png",
+    "name": "Babe Didrikson Zaharias",
+    "details": {
+      "field": "Sports (Golf/Track & Field/Basketball)",
+      "reason": "American athlete who excelled in multiple sports, winning Olympic gold medals and co-founding the LPGA, challenging gender stereotypes and limitations for women in professional athletics with her versatile talent and confident demeanor."
+    }
+  },
+  {
+    "imageName": "Confucius (Kong Fuzi).png",
+    "name": "Confucius (Kong Fuzi)",
+    "details": {
+      "field": "Philosophy",
+      "reason": "Chinese philosopher whose teachings on ethics, social order, education, and good governance profoundly influenced East Asian culture, challenging the chaotic norms of the Warring States period."
+    }
+  },
+  {
+    "imageName": "Gottfried Wilhelm Leibniz.png",
+    "name": "Gottfried Wilhelm Leibniz",
+    "details": {
+      "field": "Philosophy/Mathematics/Polymath",
+      "reason": "German polymath who independently developed calculus, made major contributions to philosophy (optimism, monads), and envisioned calculating machines, challenging existing frameworks in multiple disciplines."
+    }
+  },
+  {
+    "imageName": "Michael Faraday.png",
+    "name": "Michael Faraday",
+    "details": {
+      "field": "Science (Physics/Chemistry)",
+      "reason": "A largely self-taught experimental genius who discovered electromagnetic induction, diamagnetism, and electrolysis, profoundly advancing physics and chemistry and challenging formal academic structures."
+    }
+  },
+  {
+    "imageName": "Joan of Arc.png",
+    "name": "Joan of Arc",
+    "details": {
+      "field": "Military Leadership/Religious Figure",
+      "reason": "A peasant girl who, claiming divine guidance, led the French army to victories during the Hundred Years' War, defying gender roles and political norms."
+    }
+  },
+  {
+    "imageName": "Marcus Garvey.png",
+    "name": "Marcus Garvey",
+    "details": {
+      "field": "Pan-Africanism/Activism/Publishing",
+      "reason": "Jamaican political activist, publisher, and orator who founded the Universal Negro Improvement Association (UNIA), advocating for Black nationalism, self-reliance, and Pan-Africanism, challenging racial subordination and colonial mindsets."
+    }
+  },
+  {
+    "imageName": "Muddy Waters (McKinley Morganfield).png",
+    "name": "Muddy Waters (McKinley Morganfield)",
+    "details": {
+      "field": "Music (Blues)",
+      "reason": "American blues musician, the 'father of modern Chicago blues,' whose electrified sound and powerful vocals challenged acoustic blues traditions and profoundly influenced rock and roll."
+    }
+  },
+  {
+    "imageName": "Gilles Deleuze.png",
+    "name": "Gilles Deleuze",
+    "details": {
+      "field": "Philosophy",
+      "reason": "French philosopher whose complex and influential works (often with Félix Guattari) on desire, power, capitalism, and subjectivity challenged traditional philosophical frameworks and inspired diverse fields."
+    }
+  },
+  {
+    "imageName": "Søren Kierkegaard.png",
+    "name": "Søren Kierkegaard",
+    "details": {
+      "field": "Philosophy",
+      "reason": "Danish philosopher considered the father of existentialism, his work emphasized individual subjectivity, faith, and the 'leap of faith,' challenging Hegelian rationalism and the established Danish Church."
+    }
+  },
+  {
+    "imageName": "Little Richard (Richard Penniman).png",
+    "name": "Little Richard (Richard Penniman)",
+    "details": {
+      "field": "Music (Rock and Roll)",
+      "reason": "American musician, singer, and songwriter, a key architect of rock and roll, whose flamboyant stage presence, pounding piano, and high-energy vocals challenged musical and social conventions of the 1950s."
+    }
+  },
+  {
+    "imageName": "Christine de Pizan.png",
+    "name": "Christine de Pizan",
+    "details": {
+      "field": "Literature/Feminism",
+      "reason": "Late medieval author ('The Book of the City of Ladies') who challenged prevailing misogyny and advocated for women's education and intellectual equality, an early feminist voice."
+    }
+  },
+  {
+    "imageName": "Emiliano Zapata.png",
+    "name": "Emiliano Zapata",
+    "details": {
+      "field": "Revolutionary Leadership/Land Reform",
+      "reason": "Leading figure in the Mexican Revolution, his demands for land reform ('Tierra y Libertad') and advocacy for peasant rights challenged the landed aristocracy and federal government."
+    }
+  },
+  {
+    "imageName": "Sophie Germain.png",
+    "name": "Sophie Germain",
+    "details": {
+      "field": "Mathematics/Physics",
+      "reason": "French mathematician who made significant contributions to number theory (Germain's Theorem) and elasticity theory, overcoming immense societal barriers against women in science and academia. (Note: Germain was in Gen 2, this is a duplicate check test, should be removed if already present)."
+    }
+  },
+  {
+    "imageName": "John Wycliffe.png",
+    "name": "John Wycliffe",
+    "details": {
+      "field": "Theology/Religious Reform/Translation",
+      "reason": "English scholastic philosopher and theologian who challenged papal authority, criticized Church wealth and corruption, and initiated the first complete translation of the Bible into English, profoundly impacting the Lollard movement and prefiguring the Reformation."
+    }
+  },
+  {
+    "imageName": "Virginia Woolf.png",
+    "name": "Virginia Woolf",
+    "details": {
+      "field": "Literature",
+      "reason": "A pioneering modernist writer who utilized stream-of-consciousness and explored feminist themes, challenging literary conventions and patriarchal social norms."
+    }
+  },
+  {
+    "imageName": "Maria Montessori.png",
+    "name": "Maria Montessori",
+    "details": {
+      "field": "Education/Medicine",
+      "reason": "Developed the Montessori method of education, emphasizing child-led learning and hands-on activity, challenging traditional, rigid pedagogical approaches prevalent in the early 20th century."
+    }
+  },
+  {
+    "imageName": "Stephen Hawking.png",
+    "name": "Stephen Hawking",
+    "details": {
+      "field": "Science (Theoretical Physics/Cosmology)",
+      "reason": "Made groundbreaking contributions to our understanding of black holes and the origins of the universe, all while challenging the perceived limits of human capability in the face of severe physical disability."
+    }
+  },
+  {
+    "imageName": "Satyajit Ray.png",
+    "name": "Satyajit Ray",
+    "details": {
+      "field": "Film Direction/Writing/Music Composition",
+      "reason": "Acclaimed Indian filmmaker ('Apu Trilogy') who brought humanist realism and international recognition to Indian cinema, challenging prevailing commercial film tropes and cinematic language."
+    }
+  },
+  {
+    "imageName": "Martha Graham.png",
+    "name": "Martha Graham",
+    "details": {
+      "field": "Dance/Choreography",
+      "reason": "American modern dancer and choreographer whose innovative 'Graham technique' emphasized visceral emotion and dramatic intensity, radically challenging the conventions of classical ballet and shaping modern dance."
+    }
+  },
+  {
+    "imageName": "Marie Curie.png",
+    "name": "Marie Curie",
+    "details": {
+      "field": "Science (Physics/Chemistry)",
+      "reason": "Pioneered research on radioactivity, was the first woman to win a Nobel Prize, and the only person to win Nobel Prizes in two different scientific fields, shattering gender barriers in science."
+    }
+  },
+  {
+    "imageName": "Robert Metcalfe.png",
+    "name": "Robert Metcalfe",
+    "details": {
+      "field": "Computer Science/Engineering",
+      "reason": "American engineer who co-invented Ethernet, a foundational local area networking technology, challenging earlier, less efficient networking methods and enabling widespread computer connectivity."
+    }
+  },
+  {
+    "imageName": "Buckminster Fuller.png",
+    "name": "Buckminster Fuller",
+    "details": {
+      "field": "Architecture/Design/Invention/Futurism",
+      "reason": "American architect, designer, and inventor known for the geodesic dome, his visionary and often unconventional ideas about sustainable design, global cooperation ('Spaceship Earth'), and resource management challenged conventional thinking."
+    }
+  },
+  {
+    "imageName": "Bob Marley.png",
+    "name": "Bob Marley",
+    "details": {
+      "field": "Music (Reggae)/Activism",
+      "reason": "Jamaican singer-songwriter who popularized reggae music globally, his lyrics often carried messages of social justice, anti-colonialism, and Rastafarian spirituality, challenging oppression."
+    }
+  },
+  {
+    "imageName": "Ada Lovelace.png",
+    "name": "Ada Lovelace",
+    "details": {
+      "field": "Mathematics/Computing",
+      "reason": "Considered the first computer programmer for her work on Charles Babbage's Analytical Engine, she envisioned its potential beyond mere calculation, a visionary in a nascent field."
+    }
+  },
+  {
+    "imageName": "Max Planck.png",
+    "name": "Max Planck",
+    "details": {
+      "field": "Science (Physics)",
+      "reason": "Originated quantum theory by proposing that energy is radiated and absorbed in discrete 'quanta,' a revolutionary departure from classical physics that redefined energy and matter."
+    }
+  },
+  {
+    "imageName": "Guru Nanak.png",
+    "name": "Guru Nanak",
+    "details": {
+      "field": "Religion/Philosophy",
+      "reason": "Founder of Sikhism, he challenged the prevailing Hindu caste system, religious ritualism, and social inequalities in 15th-century India, advocating for monotheism, equality, and selfless service."
+    }
+  },
+  {
+    "imageName": "Leonard Peltier.png",
+    "name": "Leonard Peltier",
+    "details": {
+      "field": "Indigenous Rights Activism (AIM)",
+      "reason": "Native American activist and member of the American Indian Movement (AIM) convicted (controversially) for the 1975 deaths of two FBI agents, becoming a symbol of Indigenous resistance and alleged government persecution, challenging federal policies towards Native Americans."
+    }
+  },
+  {
+    "imageName": "Annie Oakley (Phoebe Ann Mosey).png",
+    "name": "Annie Oakley (Phoebe Ann Mosey)",
+    "details": {
+      "field": "Entertainment/Sharpshooting",
+      "reason": "American sharpshooter and exhibition shooter who became a renowned international star in Buffalo Bill's Wild West show, challenging Victorian gender roles and becoming an icon of female skill, independence, and capability."
+    }
+  },
+  {
+    "imageName": "Benjamin Banneker.png",
+    "name": "Benjamin Banneker",
+    "details": {
+      "field": "Mathematics/Astronomy/Surveying/Publishing",
+      "reason": "Largely self-taught African American polymath who authored successful almanacs, assisted in surveying Washington D.C., and corresponded with Thomas Jefferson challenging his views on Black intellectual inferiority."
+    }
+  },
+  {
+    "imageName": "Allen Ginsberg.png",
+    "name": "Allen Ginsberg",
+    "details": {
+      "field": "Poetry/Activism",
+      "reason": "American Beat poet whose seminal work 'Howl' challenged censorship, materialism, and societal conformity, becoming a voice for counterculture and advocating for free expression and LGBTQ+ rights."
+    }
+  },
+  {
+    "imageName": "Franz Liszt.png",
+    "name": "Franz Liszt",
+    "details": {
+      "field": "Music Composition/Piano Virtuosity",
+      "reason": "Hungarian composer and one of the greatest pianists of all time, he developed the symphonic poem, pushed boundaries of musical form and virtuosic technique, and challenged performance decorum with his 'Lisztomania'-inducing showmanship."
+    }
+  },
+  {
+    "imageName": "Averroes (Ibn Rushd).png",
+    "name": "Averroes (Ibn Rushd)",
+    "details": {
+      "field": "Philosophy/Theology/Law/Medicine",
+      "reason": "Andalusian philosopher whose extensive commentaries on Aristotle heavily influenced European scholasticism and Jewish philosophy, challenging traditional Islamic theological interpretations and advocating for reason."
+    }
+  },
+  {
+    "imageName": "Vincent van Gogh.png",
+    "name": "Vincent van Gogh",
+    "details": {
+      "field": "Art (Post-Impressionism)",
+      "reason": "Dutch Post-Impressionist painter whose emotionally evocative use of color and bold brushwork, though unappreciated in his lifetime, profoundly challenged artistic conventions and influenced 20th-century art."
+    }
+  },
+  {
+    "imageName": "Bram Stoker.png",
+    "name": "Bram Stoker",
+    "details": {
+      "field": "Literature",
+      "reason": "Authored 'Dracula,' a seminal work of Gothic horror that explored Victorian anxieties about sexuality, foreignness, and disease, challenging societal repression and establishing an enduring archetype."
+    }
+  },
+  {
+    "imageName": "Edward Jenner.png",
+    "name": "Edward Jenner",
+    "details": {
+      "field": "Medicine/Immunology",
+      "reason": "Pioneered the concept of vaccines and created the smallpox vaccine, the world's first vaccine, challenging the deadly scourge of smallpox and laying the foundation for immunology."
+    }
+  },
+  {
+    "imageName": "Mary Wollstonecraft.png",
+    "name": "Mary Wollstonecraft",
+    "details": {
+      "field": "Philosophy/Writing",
+      "reason": "An early feminist philosopher and writer who powerfully argued for women's rationality, education, and equal rights in 'A Vindication of the Rights of Woman,' challenging patriarchal society."
+    }
+  },
+  {
+    "imageName": "Greta Thunberg.png",
+    "name": "Greta Thunberg",
+    "details": {
+      "field": "Environmental Activism (Climate Change)",
+      "reason": "Swedish youth climate activist who initiated the 'School Strike for Climate' (Fridays for Future), directly challenging global leaders, policymakers, and societal inaction on climate change with blunt honesty and urgency."
+    }
+  },
+  {
+    "imageName": "John Snow.png",
+    "name": "John Snow",
+    "details": {
+      "field": "Medicine/Epidemiology",
+      "reason": "Challenged the prevailing miasma theory of disease by meticulously tracing a cholera outbreak to a contaminated water pump, pioneering epidemiological methods and revolutionizing public health understanding despite institutional resistance."
+    }
+  },
+  {
+    "imageName": "Johannes Gutenberg.png",
+    "name": "Johannes Gutenberg",
+    "details": {
+      "field": "Invention",
+      "reason": "Invented the movable-type printing press in Europe, revolutionizing information dissemination, education, and religious and political thought, profoundly challenging established authorities and societal structures."
+    }
+  },
+  {
+    "imageName": "Homi J. Bhabha.png",
+    "name": "Homi J. Bhabha",
+    "details": {
+      "field": "Physics (Nuclear)/Science Administration",
+      "reason": "Indian nuclear physicist known as the 'father of India's nuclear program,' he established key research institutions (TIFR, AEET) and challenged India's reliance on foreign expertise, shaping its scientific and technological independence."
+    }
+  },
+  {
+    "imageName": "Bill Hicks.png",
+    "name": "Bill Hicks",
+    "details": {
+      "field": "Comedy/Satire/Social Criticism",
+      "reason": "American stand-up comedian known for his dark, critical humor that fiercely challenged consumerism, corporate power, religion, and government policies, a 'menace' to complacency and conventional thought."
+    }
+  },
+  {
+    "imageName": "Phillis Wheatley.png",
+    "name": "Phillis Wheatley",
+    "details": {
+      "field": "Poetry/Literature",
+      "reason": "The first African American woman to publish a book of poetry ('Poems on Various Subjects, Religious and Moral,' 1773), her literary achievements challenged prevailing racist beliefs about the intellectual incapacity of Black people."
+    }
+  },
+  {
+    "imageName": "Nellie Bly (Elizabeth Cochran Seaman).png",
+    "name": "Nellie Bly (Elizabeth Cochran Seaman)",
+    "details": {
+      "field": "Journalism (Investigative)",
+      "reason": "Pioneering investigative journalist who went undercover to expose abuses in mental institutions and circumnavigated the globe, challenging journalistic norms and advocating for social reform."
+    }
+  },
+  {
+    "imageName": "Immanuel Kant.png",
+    "name": "Immanuel Kant",
+    "details": {
+      "field": "Philosophy",
+      "reason": "German philosopher whose 'critical philosophy' synthesized rationalism and empiricism, revolutionizing metaphysics, epistemology, ethics, and aesthetics, and challenging previous philosophical systems."
+    }
+  },
+  {
+    "imageName": "Aryabhata.png",
+    "name": "Aryabhata",
+    "details": {
+      "field": "Mathematics/Astronomy",
+      "reason": "Classical Indian mathematician and astronomer whose work 'Aryabhatiya' proposed a heliocentric model (sun at center, planets revolve), calculated π accurately, and made significant contributions to trigonometry, challenging existing cosmological and mathematical models."
+    }
+  },
+  {
+    "imageName": "Simone de Beauvoir.png",
+    "name": "Simone de Beauvoir",
+    "details": {
+      "field": "Philosophy/Writing",
+      "reason": "Existentialist philosopher and feminist whose groundbreaking work 'The Second Sex' was foundational for second-wave feminism, meticulously challenging patriarchal structures and the social construction of womanhood."
+    }
+  },
+  {
+    "imageName": "Sun Yat-sen.png",
+    "name": "Sun Yat-sen",
+    "details": {
+      "field": "Politics/Revolutionary Leadership",
+      "reason": "A Chinese revolutionary and first president of the Republic of China, he played an instrumental role in overthrowing the Qing dynasty, challenging imperial rule and advocating for the 'Three Principles of the People'."
+    }
+  },
+  {
+    "imageName": "Larry Page.png",
+    "name": "Larry Page",
+    "details": {
+      "field": "Technology/Business (Internet Search)",
+      "reason": "Co-founder of Google, whose PageRank algorithm revolutionized internet search, challenging existing search engines and transforming how information is accessed globally."
+    }
+  },
+  {
+    "imageName": "Margaret Sanger.png",
+    "name": "Margaret Sanger",
+    "details": {
+      "field": "Birth Control Activism/Nursing",
+      "reason": "American birth control activist, sex educator, and nurse who founded the American Birth Control League (later Planned Parenthood), challenging Comstock Laws, societal taboos, and advocating for women's reproductive autonomy."
+    }
+  },
+  {
+    "imageName": "Langston Hughes.png",
+    "name": "Langston Hughes",
+    "details": {
+      "field": "Literature (Poetry/Writing)",
+      "reason": "A leading figure of the Harlem Renaissance, he authentically captured the Black experience in America, challenging racial stereotypes and infusing jazz rhythms into poetry."
+    }
+  },
+  {
+    "imageName": "Clara Barton.png",
+    "name": "Clara Barton",
+    "details": {
+      "field": "Humanitarianism/Nursing",
+      "reason": "Founder of the American Red Cross, she pioneered disaster relief and nursing on battlefields during the Civil War, challenging conventions for women's roles and traditional medical care."
+    }
+  },
+  {
+    "imageName": "Anita Roddick.png",
+    "name": "Anita Roddick",
+    "details": {
+      "field": "Business/Activism/Ethical Consumerism",
+      "reason": "British businesswoman, founder of The Body Shop, who pioneered ethical consumerism and corporate social responsibility, challenging exploitative practices in the cosmetics industry and advocating for environmental and human rights causes."
+    }
+  },
+  {
+    "imageName": "Ella Baker.png",
+    "name": "Ella Baker",
+    "details": {
+      "field": "Civil Rights Activism/Community Organizing",
+      "reason": "Influential African American civil rights and human rights activist who emphasized grassroots organizing and participatory democracy, challenging hierarchical leadership structures within the movement and mentoring many young activists (e.g., SNCC)."
+    }
+  },
+  {
+    "imageName": "Edward Said.png",
+    "name": "Edward Said",
+    "details": {
+      "field": "Literary Theory/Post-colonial Studies",
+      "reason": "Palestinian-American literary theorist and public intellectual whose groundbreaking book 'Orientalism' challenged Western representations of the East, critiquing colonial discourse and profoundly influencing post-colonial studies."
+    }
+  },
+  {
+    "imageName": "Pythagoras of Samos.png",
+    "name": "Pythagoras of Samos",
+    "details": {
+      "field": "Mathematics/Philosophy/Mysticism",
+      "reason": "Ancient Greek philosopher and mathematician whose teachings (Pythagoreanism) emphasized the mystical significance of numbers and musical harmony, establishing a semi-secret society and challenging prevailing religious and intellectual norms. His theorem remains foundational."
+    }
+  },
+  {
+    "imageName": "Charlie Parker.png",
+    "name": "Charlie Parker",
+    "details": {
+      "field": "Music (Jazz)",
+      "reason": "American jazz saxophonist and composer, a principal architect of bebop, whose complex harmonies, rapid tempos, and virtuosic improvisation radically challenged earlier jazz styles and influenced generations."
+    }
+  },
+  {
+    "imageName": "Virginia Apgar.png",
+    "name": "Virginia Apgar",
+    "details": {
+      "field": "Medicine/Anesthesiology/Pediatrics",
+      "reason": "American physician who developed the Apgar score, a simple and effective method for assessing newborn health immediately after birth, revolutionizing neonatal care and significantly reducing infant mortality despite initial resistance."
+    }
+  },
+  {
+    "imageName": "Jim Thorpe (Wa-Tho-Huk).png",
+    "name": "Jim Thorpe (Wa-Tho-Huk)",
+    "details": {
+      "field": "Sports (Olympics/Football/Baseball)",
+      "reason": "Native American athlete, considered one of the most versatile athletes of all time, who won Olympic gold medals in pentathlon and decathlon, played professional football, baseball, and basketball, challenging racial prejudice and athletic boundaries."
+    }
+  },
+  {
+    "imageName": "Galileo Galilei.png",
+    "name": "Galileo Galilei",
+    "details": {
+      "field": "Science (Astronomy/Physics)",
+      "reason": "Championed the heliocentric model of the universe with telescopic evidence, facing persecution from the Church for challenging established doctrine and advocating for scientific inquiry."
+    }
+  },
+  {
+    "imageName": "Sergey Brin.png",
+    "name": "Sergey Brin",
+    "details": {
+      "field": "Technology/Business (Internet Search)",
+      "reason": "Co-founder of Google, who, with Larry Page, developed the PageRank algorithm and built a global search and technology giant, challenging how information is organized and accessed."
+    }
+  },
+  {
+    "imageName": "Indira Gandhi.png",
+    "name": "Indira Gandhi",
+    "details": {
+      "field": "Politics/Leadership",
+      "reason": "India's first female Prime Minister, a dominant and often controversial figure who implemented significant social and economic reforms, challenging traditional political power structures and Cold War alignments."
+    }
+  },
+  {
+    "imageName": "Mikhail Bakunin.png",
+    "name": "Mikhail Bakunin",
+    "details": {
+      "field": "Anarchism/Philosophy",
+      "reason": "Russian revolutionary anarchist and philosopher, a leading figure in 19th-century anarchism, who fiercely challenged both state power and Marxist authoritarianism, advocating for collectivist anarchism and radical freedom."
+    }
+  },
+  {
+    "imageName": "Akio Morita.png",
+    "name": "Akio Morita",
+    "details": {
+      "field": "Business/Technology/Innovation",
+      "reason": "Japanese businessman and co-founder of Sony Corporation, he spearheaded the development and global marketing of iconic consumer electronics (e.g., Walkman), challenging Western technological dominance and shaping modern lifestyles."
+    }
+  },
+  {
+    "imageName": "Catherine Booth.png",
+    "name": "Catherine Booth",
+    "details": {
+      "field": "Social Reform/Religion/Feminism",
+      "reason": "Co-founder of The Salvation Army, known as the 'Mother of The Salvation Army,' a powerful preacher and writer who challenged Victorian gender roles in religious ministry and advocated for social justice."
+    }
+  },
+  {
+    "imageName": "Cleisthenes.png",
+    "name": "Cleisthenes",
+    "details": {
+      "field": "Politics/Reform",
+      "reason": "Considered the 'father of Athenian democracy,' he enacted reforms that dismantled aristocratic power structures and empowered ordinary citizens, challenging the established political order."
+    }
+  },
+  {
+    "imageName": "Rosa Parks.png",
+    "name": "Rosa Parks",
+    "details": {
+      "field": "Civil Rights Activism",
+      "reason": "Her courageous act of defiance against segregation on a bus sparked the Montgomery Bus Boycott, galvanizing the Civil Rights Movement."
+    }
+  },
+  {
+    "imageName": "Hayao Miyazaki.png",
+    "name": "Hayao Miyazaki",
+    "details": {
+      "field": "Animation/Film Direction",
+      "reason": "Japanese animator, filmmaker, and co-founder of Studio Ghibli, whose acclaimed animated films often feature complex female protagonists, environmental themes, and pacifist messages, challenging animation norms and storytelling depth."
+    }
+  },
+  {
+    "imageName": "Septima Poinsette Clark.png",
+    "name": "Septima Poinsette Clark",
+    "details": {
+      "field": "Education/Civil Rights Activism",
+      "reason": "African American educator and civil rights activist who developed literacy and citizenship workshops (Citizenship Schools) that played a crucial role in empowering Black Southerners to register to vote and participate politically, challenging white supremacist voter suppression."
+    }
+  },
+  {
+    "imageName": "Peter Kropotkin.png",
+    "name": "Peter Kropotkin",
+    "details": {
+      "field": "Anarchism/Geography/Zoology",
+      "reason": "Russian activist, scientist, and philosopher, a leading theorist of anarcho-communism, who advocated for mutual aid as a key factor in evolution and societal organization, challenging Darwinian 'struggle for existence' interpretations and state socialism."
+    }
+  },
+  {
+    "imageName": "John Calvin.png",
+    "name": "John Calvin",
+    "details": {
+      "field": "Theology/Reformation",
+      "reason": "An influential French theologian and pastor during the Protestant Reformation, his systematic theology (Calvinism) challenged Catholic doctrines and profoundly shaped Protestant thought and societal organization in many parts of Europe and North America."
+    }
+  },
+  {
+    "imageName": "Al-Ghazali (Abū Ḥāmid Muḥammad ibn Muḥammad al-Ghazālī).png",
+    "name": "Al-Ghazali (Abū Ḥāmid Muḥammad ibn Muḥammad al-Ghazālī)",
+    "details": {
+      "field": "Theology/Philosophy/Mysticism (Sufism)",
+      "reason": "Persian theologian and mystic whose influential works ('The Incoherence of the Philosophers') critiqued Hellenistic philosophy within Islamic thought, yet integrated Sufism into mainstream Sunni orthodoxy, profoundly challenging and reshaping Islamic intellectual traditions."
+    }
+  },
+  {
+    "imageName": "Sylvia Earle.png",
+    "name": "Sylvia Earle",
+    "details": {
+      "field": "Oceanography/Marine Biology/Conservation",
+      "reason": "American marine biologist, oceanographer, and explorer, former chief scientist of NOAA, a pioneer in deep-sea exploration (Jim suit dive) and tireless advocate for marine protected areas ('Hope Spots'), challenging ocean exploitation."
+    }
+  },
+  {
+    "imageName": "Sergei Korolev.png",
+    "name": "Sergei Korolev",
+    "details": {
+      "field": "Engineering (Aerospace/Rocketry)",
+      "reason": "Lead Soviet rocket engineer and spacecraft designer (Chief Designer) during the Space Race, responsible for Sputnik and Vostok (Gagarin's flight), challenging US dominance and pushing space technology forward."
+    }
+  },
+  {
+    "imageName": "H.P. Lovecraft.png",
+    "name": "H.P. Lovecraft",
+    "details": {
+      "field": "Literature (Horror/Weird Fiction)",
+      "reason": "American author who created the Cthulhu Mythos, pioneering cosmic horror that challenged anthropocentric views by depicting humanity's insignificance in a vast, indifferent universe."
+    }
+  },
+  {
+    "imageName": "Nikolai Vavilov.png",
+    "name": "Nikolai Vavilov",
+    "details": {
+      "field": "Botany/Genetics/Agronomy",
+      "reason": "Russian botanist and geneticist who identified centers of origin for cultivated plants and established one of the world's largest seed banks, challenging agricultural limitations. Persecuted and imprisoned under Lysenkoism for defending Mendelian genetics."
+    }
+  },
+  {
+    "imageName": "Barbara Liskov.png",
+    "name": "Barbara Liskov",
+    "details": {
+      "field": "Computer Science",
+      "reason": "American computer scientist (Turing Award winner) whose work on programming language design (Liskov substitution principle, CLU, Argus) challenged existing paradigms and significantly advanced object-oriented programming and distributed systems."
+    }
+  },
+  {
+    "imageName": "Abdus Salam.png",
+    "name": "Abdus Salam",
+    "details": {
+      "field": "Physics (Theoretical)",
+      "reason": "Pakistani theoretical physicist who shared the 1979 Nobel Prize in Physics for his contribution to the electroweak unification theory, a prominent advocate for science in developing countries, challenged religious intolerance (as an Ahmadi Muslim in Pakistan)."
+    }
+  },
+  {
+    "imageName": "Wangari Maathai.png",
+    "name": "Wangari Maathai",
+    "details": {
+      "field": "Environmentalism/Activism/Politics",
+      "reason": "Founded the Green Belt Movement, empowering women and conserving the environment in Kenya, challenging deforestation, government corruption, and patriarchal norms; Nobel Peace Prize laureate."
+    }
+  },
+  {
+    "imageName": "Paul Gauguin.png",
+    "name": "Paul Gauguin",
+    "details": {
+      "field": "Art (Post-Impressionism/Primitivism)",
+      "reason": "French Post-Impressionist artist who, through his Synthetist style and depictions of Tahitian life, challenged Western artistic conventions and explored themes of 'primitivism,' albeit controversially."
+    }
+  },
+  {
+    "imageName": "C.V. Raman.png",
+    "name": "C.V. Raman",
+    "details": {
+      "field": "Physics",
+      "reason": "Indian physicist who won the Nobel Prize in Physics (1930) for his discovery of the Raman Effect (inelastic scattering of light), the first Asian and non-white individual to receive a Nobel in any science, challenging colonial scientific dominance."
+    }
+  },
+  {
+    "imageName": "Sacagawea.png",
+    "name": "Sacagawea",
+    "details": {
+      "field": "Exploration/Guidance/Diplomacy",
+      "reason": "Lemhi Shoshone woman who accompanied the Lewis and Clark Expedition as an interpreter and guide, her knowledge of terrain, languages, and peaceful presence were crucial to its success, challenging unknown territories and facilitating cross-cultural interaction."
+    }
+  },
+  {
+    "imageName": "Dizzy Gillespie.png",
+    "name": "Dizzy Gillespie",
+    "details": {
+      "field": "Music (Jazz)",
+      "reason": "American jazz trumpeter, bandleader, composer, and singer, a co-founder of bebop and pioneer of Afro-Cuban jazz, challenging traditional jazz structures and expanding its rhythmic and harmonic vocabulary."
+    }
+  },
+  {
+    "imageName": "Lao Tzu (Laozi).png",
+    "name": "Lao Tzu (Laozi)",
+    "details": {
+      "field": "Philosophy",
+      "reason": "Ancient Chinese philosopher traditionally credited with founding Taoism, advocating for harmony with nature (Tao), simplicity, and non-action (wu wei), challenging rigid social structures and Confucianism."
+    }
+  },
+  {
+    "imageName": "Isaac Newton.png",
+    "name": "Isaac Newton",
+    "details": {
+      "field": "Science (Physics/Mathematics)",
+      "reason": "Formulated the laws of motion and universal gravitation, providing a revolutionary new framework for understanding the physical world and challenging previous scientific paradigms."
+    }
+  },
+  {
+    "imageName": "Edwin Hubble.png",
+    "name": "Edwin Hubble",
+    "details": {
+      "field": "Astronomy/Cosmology",
+      "reason": "American astronomer who demonstrated that many 'nebulae' were actually distant galaxies and provided observational evidence for the expanding universe (Hubble's Law), fundamentally challenging humanity's understanding of the cosmos."
+    }
+  },
+  {
+    "imageName": "Noam Chomsky.png",
+    "name": "Noam Chomsky",
+    "details": {
+      "field": "Linguistics/Philosophy/Activism",
+      "reason": "Revolutionized the field of linguistics and became a prominent intellectual and political dissident, critiquing U.S. foreign policy, corporate media, and challenging established power structures."
+    }
+  },
+  {
+    "imageName": "Jacques Cousteau.png",
+    "name": "Jacques Cousteau",
+    "details": {
+      "field": "Oceanography/Filmmaking/Invention/Conservation",
+      "reason": "French naval officer, explorer, and filmmaker who co-developed the Aqua-Lung, pioneered marine conservation, and brought the wonders of the undersea world to global audiences, challenging public ignorance about the oceans."
+    }
+  },
+  {
+    "imageName": "Otto Hahn.png",
+    "name": "Otto Hahn",
+    "details": {
+      "field": "Chemistry (Radiochemistry)",
+      "reason": "German chemist, a pioneer in radioactivity and radiochemistry, who co-discovered nuclear fission (with Strassmann), a monumental discovery that challenged existing physics and ushered in the atomic age."
+    }
+  },
+  {
+    "imageName": "Margaret Thatcher.png",
+    "name": "Margaret Thatcher",
+    "details": {
+      "field": "Politics/Leadership",
+      "reason": "Britain's first female Prime Minister, she implemented radical free-market reforms ('Thatcherism'), privatized state-owned industries, and confronted trade unions, profoundly challenging the post-war political and economic consensus."
+    }
+  },
+  {
+    "imageName": "Vivien Thomas.png",
+    "name": "Vivien Thomas",
+    "details": {
+      "field": "Medicine/Surgical Technique",
+      "reason": "African American surgical technician who, despite lacking a formal medical degree due to racial barriers, developed groundbreaking surgical techniques for treating 'blue baby syndrome' and other conditions, challenging racial segregation in medicine."
+    }
+  },
+  {
+    "imageName": "Enrico Fermi.png",
+    "name": "Enrico Fermi",
+    "details": {
+      "field": "Physics (Nuclear)",
+      "reason": "Italian-American physicist who created the world's first nuclear reactor (Chicago Pile-1) and made significant contributions to quantum theory, nuclear and particle physics, challenging existing understanding of energy and matter."
+    }
+  },
+  {
+    "imageName": "Empedocles.png",
+    "name": "Empedocles",
+    "details": {
+      "field": "Philosophy/Science",
+      "reason": "Ancient Greek pre-Socratic philosopher who proposed the four classical elements (earth, air, fire, water) and forces of Love and Strife, challenging earlier monistic theories and influencing later scientific and philosophical thought."
+    }
+  },
+  {
+    "imageName": "James Watson.png",
+    "name": "James Watson",
+    "details": {
+      "field": "Molecular Biology/Genetics",
+      "reason": "American molecular biologist who, with Francis Crick, co-discovered the structure of DNA, profoundly challenging and reshaping biological sciences (a controversial figure in later years)."
+    }
+  },
+  {
+    "imageName": "Pierre Teilhard de Chardin.png",
+    "name": "Pierre Teilhard de Chardin",
+    "details": {
+      "field": "Paleontology/Philosophy/Theology",
+      "reason": "French Jesuit priest, paleontologist, and philosopher who sought to synthesize evolution, cosmology, and Christian theology (e.g., Omega Point), his unorthodox ideas challenged conservative elements within the Catholic Church and traditional interpretations of doctrine."
+    }
+  },
+  {
+    "imageName": "Max Weber.png",
+    "name": "Max Weber",
+    "details": {
+      "field": "Sociology/Economics/Political Science",
+      "reason": "German sociologist and political economist whose seminal ideas on bureaucracy, the Protestant ethic and the spirit of capitalism, and rationalization challenged Marxist historical materialism and provided new, influential frameworks for understanding modern society."
+    }
+  },
+  {
+    "imageName": "Robert Goddard.png",
+    "name": "Robert Goddard",
+    "details": {
+      "field": "Engineering/Physics (Rocketry)",
+      "reason": "American engineer and physicist who built and successfully launched the world's first liquid-fueled rocket, challenging conventional notions of flight and laying the groundwork for the space age despite initial skepticism."
+    }
+  },
+  {
+    "imageName": "Christopher Columbus.png",
+    "name": "Christopher Columbus",
+    "details": {
+      "field": "Exploration",
+      "reason": "His voyages initiated sustained European contact with the Americas, drastically altering world maps, power dynamics, and global interconnectedness, a profound disruption to the existing world order and indigenous societies."
+    }
+  },
+  {
+    "imageName": "Vint Cerf.png",
+    "name": "Vint Cerf",
+    "details": {
+      "field": "Computer Science (Internet)",
+      "reason": "American internet pioneer, recognized as one of 'the fathers of the Internet' for co-designing the TCP/IP protocols, challenging existing network architectures and enabling the global Internet."
+    }
+  },
+  {
+    "imageName": "Golda Meir.png",
+    "name": "Golda Meir",
+    "details": {
+      "field": "Politics/Leadership",
+      "reason": "One of Israel's founders and its first female Prime Minister, she led the nation through critical periods, challenging regional political dynamics and gender norms in leadership."
+    }
+  },
+  {
+    "imageName": "Lincoln Steffens.png",
+    "name": "Lincoln Steffens",
+    "details": {
+      "field": "Journalism (Muckraking)",
+      "reason": "Investigative journalist whose series 'The Shame of the Cities' exposed widespread municipal corruption, challenging civic complacency and inspiring urban reform movements."
+    }
+  },
+  {
+    "imageName": "Ella Fitzgerald.png",
+    "name": "Ella Fitzgerald",
+    "details": {
+      "field": "Music (Jazz)",
+      "reason": "American jazz singer, the 'First Lady of Song,' whose virtuosic vocal range, scat singing abilities, and interpretations of the Great American Songbook challenged the boundaries of vocal jazz and popular music."
+    }
+  },
+  {
+    "imageName": "Edwin Land.png",
+    "name": "Edwin Land",
+    "details": {
+      "field": "Invention/Science (Photography/Optics)",
+      "reason": "American scientist and inventor best known for co-founding Polaroid Corporation and inventing instant photography, challenging conventional photographic development processes and creating a new market."
+    }
+  },
+  {
+    "imageName": "Isadora Duncan.png",
+    "name": "Isadora Duncan",
+    "details": {
+      "field": "Dance",
+      "reason": "American pioneer of modern dance who rejected the rigidity of classical ballet for free-flowing, natural movement inspired by Greek art, challenging both dance conventions and societal constraints on women."
+    }
+  },
+  {
+    "imageName": "Banksy.png",
+    "name": "Banksy",
+    "details": {
+      "field": "Street Art/Activism",
+      "reason": "Anonymous British street artist whose satirical and subversive works critique society, consumerism, war, and politics, challenging art world norms and property laws."
+    }
+  },
+  {
+    "imageName": "Chien-Shiung Wu.png",
+    "name": "Chien-Shiung Wu",
+    "details": {
+      "field": "Physics",
+      "reason": "Chinese-American experimental physicist whose 'Wu experiment' disproved the law of conservation of parity, a fundamental concept in physics, challenging existing theories and gender bias (her male colleagues won Nobel)."
+    }
+  },
+  {
+    "imageName": "B.R. Ambedkar.png",
+    "name": "B.R. Ambedkar",
+    "details": {
+      "field": "Social Reform/Politics/Law",
+      "reason": "Architect of the Indian Constitution, championed the rights of Dalits (untouchables) and other marginalized groups, fiercely challenging the caste system and advocating for social equality."
+    }
+  },
+  {
+    "imageName": "Desmond Tutu.png",
+    "name": "Desmond Tutu",
+    "details": {
+      "field": "Anti-Apartheid Activism/Theology",
+      "reason": "South African Anglican Archbishop and theologian who was a leading voice against apartheid, advocating for nonviolent resistance and later chairing the Truth and Reconciliation Commission, challenging racial injustice and promoting forgiveness."
+    }
+  },
+  {
+    "imageName": "Eleanor of Aquitaine.png",
+    "name": "Eleanor of Aquitaine",
+    "details": {
+      "field": "Politics/Culture/Patronage",
+      "reason": "One of the wealthiest and most powerful women in medieval Europe, Queen of France then England, she influenced politics and fostered courtly love culture, challenging contemporary gender roles for women in power."
+    }
+  },
+  {
+    "imageName": "Theodor Adorno.png",
+    "name": "Theodor Adorno",
+    "details": {
+      "field": "Philosophy/Sociology/Musicology",
+      "reason": "German philosopher, sociologist, and composer, a leading member of the Frankfurt School, whose critical theory sharply critiqued fascism, capitalism, and the 'culture industry,' challenging mass conformity and instrumental reason."
+    }
+  },
+  {
+    "imageName": "Richard Wagner.png",
+    "name": "Richard Wagner",
+    "details": {
+      "field": "Music Composition/Opera",
+      "reason": "German composer who revolutionized opera with his concept of 'Gesamtkunstwerk' (total work of art), complex leitmotifs, and extended chromaticism, challenging existing operatic conventions and profoundly influencing Western music (a complex and controversial figure)."
+    }
+  },
+  {
+    "imageName": "Ida Noddack (née Tacke).png",
+    "name": "Ida Noddack (née Tacke)",
+    "details": {
+      "field": "Chemistry/Physics",
+      "reason": "German chemist who co-discovered the element rhenium and was the first to propose the idea of nuclear fission (1934), though her hypothesis was initially ignored, challenging prevailing scientific understanding of atomic structure."
+    }
+  },
+  {
+    "imageName": "Anaxagoras.png",
+    "name": "Anaxagoras",
+    "details": {
+      "field": "Philosophy/Science",
+      "reason": "Ancient Greek pre-Socratic philosopher who introduced the concept of 'Nous' (Mind or Reason) as the ordering force of the cosmos and proposed that the sun was a fiery rock, challenging mythological explanations and facing persecution for impiety."
+    }
+  },
+  {
+    "imageName": "Ernest Rutherford.png",
+    "name": "Ernest Rutherford",
+    "details": {
+      "field": "Physics (Nuclear)",
+      "reason": "New Zealand-born physicist, the 'father of nuclear physics,' who discovered the concept of radioactive half-life, differentiated alpha and beta radiation, and postulated the nuclear structure of the atom, challenging previous atomic models."
+    }
+  },
+  {
+    "imageName": "Ida Tarbell.png",
+    "name": "Ida Tarbell",
+    "details": {
+      "field": "Journalism (Muckraking)",
+      "reason": "Pioneering investigative journalist whose exposé 'The History of the Standard Oil Company' challenged monopolistic corporate power and led to significant antitrust actions."
+    }
+  },
+  {
+    "imageName": "Salvador Dalí.png",
+    "name": "Salvador Dalí",
+    "details": {
+      "field": "Art (Surrealism)/Painting",
+      "reason": "Spanish Surrealist artist renowned for his bizarre, dreamlike paintings and flamboyant persona, challenging rationalism, artistic convention, and perceptions of reality."
+    }
+  },
+  {
+    "imageName": "Billie Jean King.png",
+    "name": "Billie Jean King",
+    "details": {
+      "field": "Sports (Tennis)/Activism (Gender Equality)",
+      "reason": "American tennis legend who won 39 Grand Slam titles and famously defeated Bobby Riggs in the 'Battle of the Sexes,' powerfully challenging sexism in sports and advocating for equal pay and LGBTQ+ rights."
+    }
+  },
+  {
+    "imageName": "Henry David Thoreau.png",
+    "name": "Henry David Thoreau",
+    "details": {
+      "field": "Philosophy/Writing/Naturalism",
+      "reason": "Transcendentalist author of 'Walden' and 'Civil Disobedience,' he advocated for simple living, individualism, and resistance to unjust government, challenging societal materialism and conformity."
+    }
+  },
+  {
+    "imageName": "Vikram Sarabhai.png",
+    "name": "Vikram Sarabhai",
+    "details": {
+      "field": "Physics/Astronomy/Science Administration",
+      "reason": "Indian physicist and astronomer considered the 'father of India's space program,' he established the Indian Space Research Organisation (ISRO), challenging technological limitations and envisioning space technology for national development."
+    }
+  },
+  {
+    "imageName": "Vladimir Zworykin.png",
+    "name": "Vladimir Zworykin",
+    "details": {
+      "field": "Invention/Engineering (Television)",
+      "reason": "Russian-American inventor and engineer who played a key role in developing electronic television with his iconoscope and kinescope tubes, challenging mechanical systems and enabling practical television broadcasting."
+    }
+  },
+  {
+    "imageName": "The Beatles.png",
+    "name": "The Beatles",
+    "details": {
+      "field": "Music",
+      "reason": "Transformed popular music and youth culture globally, pushing boundaries in songwriting, recording techniques, artistic expression, and challenging societal conventions."
+    }
+  },
+  {
+    "imageName": "Helen Brooke Taussig.png",
+    "name": "Helen Brooke Taussig",
+    "details": {
+      "field": "Medicine/Pediatric Cardiology",
+      "reason": "American physician who, with Alfred Blalock and Vivien Thomas, developed the Blalock-Taussig shunt procedure to treat 'blue baby syndrome,' pioneering pediatric cardiology and challenging limitations in treating congenital heart defects."
+    }
+  },
+  {
+    "imageName": "René Descartes.png",
+    "name": "René Descartes",
+    "details": {
+      "field": "Philosophy/Mathematics",
+      "reason": "French philosopher, mathematician, and scientist, considered the 'father of modern philosophy,' whose 'Cogito, ergo sum' ('I think, therefore I am') and method of doubt challenged scholasticism and laid foundations for rationalism."
+    }
+  },
+  {
+    "imageName": "Zora Neale Hurston.png",
+    "name": "Zora Neale Hurston",
+    "details": {
+      "field": "Literature/Anthropology",
+      "reason": "A key figure of the Harlem Renaissance, she celebrated Black folk culture and dialect in her writing, challenging racial and gender norms as well as literary conventions."
+    }
+  },
+  {
+    "imageName": "B.B. King.png",
+    "name": "B.B. King",
+    "details": {
+      "field": "Music (Blues)",
+      "reason": "American blues guitarist, singer, and songwriter, whose distinctive vibrato, string bending, and soulful vocals ('King of the Blues') challenged and popularized electric blues globally."
+    }
+  },
+  {
+    "imageName": "George Gamow.png",
+    "name": "George Gamow",
+    "details": {
+      "field": "Physics (Theoretical)/Cosmology/Biology",
+      "reason": "Russian-American theoretical physicist and cosmologist who was an early advocate of the Big Bang theory, predicted cosmic microwave background radiation, and proposed a mechanism for DNA's genetic code, challenging existing paradigms in multiple fields."
+    }
+  },
+  {
+    "imageName": "Ray Kroc.png",
+    "name": "Ray Kroc",
+    "details": {
+      "field": "Business/Fast Food",
+      "reason": "American businessman who transformed McDonald's from a small chain into the world's largest fast-food franchise through aggressive expansion and standardization, radically challenging the restaurant industry and global eating habits."
+    }
+  },
+  {
+    "imageName": "Max Born.png",
+    "name": "Max Born",
+    "details": {
+      "field": "Physics (Quantum Mechanics)",
+      "reason": "German physicist and mathematician instrumental in developing quantum mechanics, particularly the probabilistic interpretation of the wave function (Born rule), challenging deterministic views of physics."
+    }
+  },
+  {
+    "imageName": "Alan Turing.png",
+    "name": "Alan Turing",
+    "details": {
+      "field": "Mathematics/Computer Science",
+      "reason": "Considered the father of theoretical computer science and artificial intelligence, his work was crucial in breaking Nazi codes during WWII. He challenged conventional thinking in logic and computation."
+    }
+  },
+  {
+    "imageName": "Arthur Schopenhauer.png",
+    "name": "Arthur Schopenhauer",
+    "details": {
+      "field": "Philosophy",
+      "reason": "German philosopher known for his philosophical pessimism and emphasis on the irrational 'will' as the driving force of existence, challenging the prevailing Hegelian idealism and influencing later existentialists and artists."
+    }
+  },
+  {
+    "imageName": "Mother Jones (Mary Harris Jones).png",
+    "name": "Mother Jones (Mary Harris Jones)",
+    "details": {
+      "field": "Labor Activism",
+      "reason": "A fearless labor organizer and advocate for miners and child workers, dubbed 'the most dangerous woman in America,' she relentlessly challenged exploitative industrial powers."
+    }
+  },
+  {
+    "imageName": "Georgia O'Keeffe.png",
+    "name": "Georgia O'Keeffe",
+    "details": {
+      "field": "Art (Painting)",
+      "reason": "A seminal American modernist painter, known for her large-format paintings of flowers and Southwestern landscapes, who challenged traditional artistic representation and gender norms in the art world."
+    }
+  },
+  {
+    "imageName": "John Muir.png",
+    "name": "John Muir",
+    "details": {
+      "field": "Environmentalism/Naturalism/Writing",
+      "reason": "Known as 'Father of the National Parks,' his advocacy led to the establishment of Yosemite and other national parks, challenging prevailing attitudes of resource exploitation and championing wilderness preservation."
+    }
+  },
+  {
+    "imageName": "Konstantin Tsiolkovsky.png",
+    "name": "Konstantin Tsiolkovsky",
+    "details": {
+      "field": "Science (Astronautics/Rocketry)",
+      "reason": "Russian and Soviet rocket scientist and pioneer of astronautic theory, whose Tsiolkovsky rocket equation and visionary concepts of spaceflight challenged the perceived limits of human travel beyond Earth."
+    }
+  },
+  {
+    "imageName": "Fela Kuti.png",
+    "name": "Fela Kuti",
+    "details": {
+      "field": "Music (Afrobeat)/Activism",
+      "reason": "Nigerian musician and composer, pioneer of Afrobeat music, and outspoken political activist who used his music to criticize corrupt military governments and advocate for human rights, challenging authoritarianism."
+    }
+  },
+  {
+    "imageName": "Caroline Herschel.png",
+    "name": "Caroline Herschel",
+    "details": {
+      "field": "Science (Astronomy)",
+      "reason": "German astronomer who discovered several comets and was the first woman to be paid for her scientific work, challenging gender norms and making significant contributions alongside her brother William."
+    }
+  },
+  {
+    "imageName": "Satyendra Nath Bose.png",
+    "name": "Satyendra Nath Bose",
+    "details": {
+      "field": "Physics (Theoretical)",
+      "reason": "Indian physicist whose work on quantum mechanics (Bose-Einstein statistics and the concept of bosons) provided a foundation for understanding elementary particles, challenging and advancing quantum theory in collaboration with Einstein."
+    }
+  },
+  {
+    "imageName": "Janis Joplin.png",
+    "name": "Janis Joplin",
+    "details": {
+      "field": "Music (Rock/Blues)",
+      "reason": "American rock and blues singer-songwriter with a raw, powerful vocal style and charismatic stage presence, challenging gender norms for female performers and expressing uninhibited emotion in rock music."
+    }
+  },
+  {
+    "imageName": "Philo Farnsworth.png",
+    "name": "Philo Farnsworth",
+    "details": {
+      "field": "Invention (Television)",
+      "reason": "American inventor who developed the first fully electronic television system, including the image dissector, challenging earlier mechanical television systems and laying the foundation for modern television."
+    }
+  },
+  {
+    "imageName": "Aristotle.png",
+    "name": "Aristotle",
+    "details": {
+      "field": "Philosophy/Science",
+      "reason": "Ancient Greek philosopher and scientist whose comprehensive work laid the foundations for Western logic, science, and philosophy, systematizing knowledge and challenging prior less rigorous approaches."
+    }
+  },
+  {
+    "imageName": "Patrice Lumumba.png",
+    "name": "Patrice Lumumba",
+    "details": {
+      "field": "Politics/Anti-colonialism",
+      "reason": "The first democratically elected Prime Minister of the Democratic Republic of the Congo, a key figure in its independence from Belgium, who fiercely challenged colonial interests and advocated for pan-Africanism."
+    }
+  },
+  {
+    "imageName": "Joseph Lister.png",
+    "name": "Joseph Lister",
+    "details": {
+      "field": "Medicine/Surgery",
+      "reason": "Pioneered antiseptic surgery using carbolic acid, dramatically reducing post-operative infections and challenging centuries of surgical practice based on ignorance of germ theory."
+    }
+  },
+  {
+    "imageName": "Soong Ching-ling.png",
+    "name": "Soong Ching-ling",
+    "details": {
+      "field": "Politics/Revolutionary Activity",
+      "reason": "Prominent Chinese political figure, wife of Sun Yat-sen, who broke with the Kuomintang after Chiang Kai-shek's anti-communist turn, later holding high office in the PRC, consistently challenging political norms and advocating for her vision of China's future."
+    }
+  },
+  {
+    "imageName": "Diogenes of Sinope.png",
+    "name": "Diogenes of Sinope",
+    "details": {
+      "field": "Philosophy (Cynicism)",
+      "reason": "Ancient Greek Cynic philosopher who famously lived a simple, unconventional life, challenging societal conventions, hypocrisy, and materialism through provocative public actions and witty pronouncements."
+    }
+  },
+  {
+    "imageName": "Voltaire (François-Marie Arouet).png",
+    "name": "Voltaire (François-Marie Arouet)",
+    "details": {
+      "field": "Philosophy/Writing",
+      "reason": "A leading figure of the Enlightenment who fiercely championed reason, freedom of speech, religious tolerance, and separation of church and state, often satirizing and critiquing intolerance and injustice."
+    }
+  },
+  {
+    "imageName": "Tim O'Reilly.png",
+    "name": "Tim O'Reilly",
+    "details": {
+      "field": "Technology Publishing/Open Source Advocacy",
+      "reason": "Founder of O'Reilly Media, a key popularizer of the open-source movement and the term 'Web 2.0,' challenging proprietary software models and shaping discourse around internet development."
+    }
+  },
+  {
+    "imageName": "Barbara McClintock.png",
+    "name": "Barbara McClintock",
+    "details": {
+      "field": "Genetics",
+      "reason": "American cytogeneticist who discovered transposable elements ('jumping genes'), her revolutionary findings were initially met with skepticism but eventually earned her a Nobel Prize, challenging established genetic dogma."
+    }
+  },
+  {
+    "imageName": "Solon.png",
+    "name": "Solon",
+    "details": {
+      "field": "Politics/Reform/Law",
+      "reason": "Athenian statesman and lawmaker whose reforms (Seisachtheia) cancelled debts, freed debt-slaves, and broadened political participation, challenging entrenched aristocratic privilege and preventing civil war."
+    }
+  },
+  {
+    "imageName": "William Fox Talbot.png",
+    "name": "William Fox Talbot",
+    "details": {
+      "field": "Invention (Photography)",
+      "reason": "English scientist and inventor who developed the calotype process (negative-positive photography), challenging the daguerreotype and enabling multiple prints from a single negative, a key innovation in photography."
+    }
+  },
+  {
+    "imageName": "Louis Armstrong.png",
+    "name": "Louis Armstrong",
+    "details": {
+      "field": "Music (Jazz)",
+      "reason": "A foundational figure in jazz, his innovative trumpet playing and distinctive vocal style transformed popular music, challenging existing musical conventions and racial barriers."
+    }
+  },
+  {
+    "imageName": "George Washington.png",
+    "name": "George Washington",
+    "details": {
+      "field": "Politics/Leadership",
+      "reason": "Led the American Revolution against colonial rule, establishing a new nation based on republican ideals, challenging established monarchical systems."
+    }
+  },
+  {
+    "imageName": "Nina Simone.png",
+    "name": "Nina Simone",
+    "details": {
+      "field": "Music (Jazz/Blues/Soul)/Activism",
+      "reason": "A powerful vocalist, pianist, and songwriter whose music became deeply intertwined with the Civil Rights Movement, challenging racial injustice and societal norms with fearless honesty."
+    }
+  },
+  {
+    "imageName": "Tecumseh.png",
+    "name": "Tecumseh",
+    "details": {
+      "field": "Leadership/Indigenous Confederacy",
+      "reason": "Shawnee chief and warrior who attempted to organize a confederation of Native American tribes to resist U.S. expansion in the early 19th century, challenging colonial ambitions with a vision of an independent Indigenous state."
+    }
+  },
+  {
+    "imageName": "Upton Sinclair.png",
+    "name": "Upton Sinclair",
+    "details": {
+      "field": "Literature/Journalism/Activism",
+      "reason": "Muckraking author whose novel 'The Jungle' exposed horrific conditions in the Chicago meatpacking industry, challenging corporate greed and leading to landmark food safety legislation."
+    }
+  },
+  {
+    "imageName": "Alexandra Kollontai.png",
+    "name": "Alexandra Kollontai",
+    "details": {
+      "field": "Feminism/Politics/Diplomacy",
+      "reason": "Russian revolutionary, Bolshevik leader, and diplomat, the first woman in modern history to become a cabinet minister, she advocated for radical changes in family structure, women's sexual liberation, and social welfare, challenging traditional morality and patriarchal norms."
+    }
+  },
+  {
+    "imageName": "test.png",
+    "name": "test",
+    "details": null
+  },
+  {
+    "imageName": "Ritwik Ghatak.png",
+    "name": "Ritwik Ghatak",
+    "details": {
+      "field": "Film Direction/Screenwriting",
+      "reason": "Indian filmmaker and theorist, contemporary of Satyajit Ray, whose intense and often epic films passionately explored themes of social displacement, Partition trauma, and cultural identity, challenging mainstream Indian cinema and Marxist orthodoxy."
+    }
+  },
+  {
+    "imageName": "Niccolò Machiavelli.png",
+    "name": "Niccolò Machiavelli",
+    "details": {
+      "field": "Political Philosophy/Writing",
+      "reason": "His work 'The Prince' offered a pragmatic and often amoral analysis of political power, challenging idealistic political theories and religious morality in governance."
+    }
+  },
+  {
+    "imageName": "Malcolm X.png",
+    "name": "Malcolm X",
+    "details": {
+      "field": "Civil Rights Activism/Oratory",
+      "reason": "A powerful and articulate advocate for Black empowerment and self-defense, challenging racial injustice and mainstream civil rights strategies with a confrontational and separatist message that evolved over time."
+    }
+  },
+  {
+    "imageName": "Sigmund Freud.png",
+    "name": "Sigmund Freud",
+    "details": {
+      "field": "Psychology (Psychoanalysis)",
+      "reason": "Developed psychoanalysis, radically challenging prevailing understandings of the human mind, consciousness, sexuality, and mental illness, and profoundly influencing 20th-century thought and culture."
+    }
+  },
+  {
+    "imageName": "Hildegard von Bingen.png",
+    "name": "Hildegard von Bingen",
+    "details": {
+      "field": "Theology/Music/Medicine/Writing",
+      "reason": "A medieval German abbess, composer, writer, mystic, and visionary whose broad intellectual, artistic, and spiritual pursuits challenged contemporary gender roles and church authority."
+    }
+  },
+  {
+    "imageName": "Henry Ford.png",
+    "name": "Henry Ford",
+    "details": {
+      "field": "Industry/Invention",
+      "reason": "Revolutionized manufacturing with the moving assembly line and made automobiles (Model T) affordable for the masses, transforming society, labor, and the landscape, challenging existing industrial practices."
+    }
+  },
+  {
+    "imageName": "Federico Fellini.png",
+    "name": "Federico Fellini",
+    "details": {
+      "field": "Film Direction/Screenwriting",
+      "reason": "Italian filmmaker known for his distinctive blend of surrealism, fantasy, and baroque imagery, whose films (e.g., 'La Dolce Vita,' '8½') challenged neorealism and explored themes of memory, dreams, and societal critique."
+    }
+  },
+  {
+    "imageName": "Carl Sagan.png",
+    "name": "Carl Sagan",
+    "details": {
+      "field": "Science Communication/Astronomy",
+      "reason": "Popularized astronomy and critical thinking through television and books, challenging public scientific illiteracy and advocating for space exploration and a cosmic perspective."
+    }
+  },
+  {
+    "imageName": "Samuel Hahnemann.png",
+    "name": "Samuel Hahnemann",
+    "details": {
+      "field": "Medicine (Homeopathy)",
+      "reason": "German physician who created homeopathy, a system of alternative medicine based on 'like cures like' and infinitesimal dilutions, challenging the often harsh and ineffective orthodox medical practices of his time (e.g., bloodletting), though homeopathy itself is widely regarded as pseudoscience today."
+    }
+  },
+  {
+    "imageName": "Otto von Bismarck.png",
+    "name": "Otto von Bismarck",
+    "details": {
+      "field": "Politics/Diplomacy",
+      "reason": "Prussian statesman who engineered the unification of Germany through 'Realpolitik' and skillful diplomacy (and war), fundamentally challenging and reshaping the European power balance."
+    }
+  },
+  {
+    "imageName": "Carl Linnaeus.png",
+    "name": "Carl Linnaeus",
+    "details": {
+      "field": "Botany/Zoology/Taxonomy",
+      "reason": "Swedish botanist, physician, and zoologist, considered the 'father of modern taxonomy,' who formalized binomial nomenclature, revolutionizing the classification of living organisms and challenging older, less systematic methods."
+    }
+  },
+  {
+    "imageName": "Francis Crick.png",
+    "name": "Francis Crick",
+    "details": {
+      "field": "Molecular Biology/Biophysics/Neuroscience",
+      "reason": "British molecular biologist who, with James Watson, co-discovered the helical structure of DNA, a monumental breakthrough that challenged existing biological understanding and revolutionized genetics."
+    }
+  },
+  {
+    "imageName": "Birutė Galdikas.png",
+    "name": "Birutė Galdikas",
+    "details": {
+      "field": "Primatology/Conservation/Anthropology",
+      "reason": "Lithuanian-Canadian primatologist, one of Leakey's 'Trimates,' whose long-term research on orangutans in Borneo challenged scientific understanding of these apes and advocated for their conservation against deforestation."
+    }
+  },
+  {
+    "imageName": "Socrates.png",
+    "name": "Socrates",
+    "details": {
+      "field": "Philosophy",
+      "reason": "Ancient Greek philosopher who relentlessly questioned authority, conventional wisdom, and definitions using the Socratic method, ultimately sentenced to death for 'corrupting the youth'."
+    }
+  },
+  {
+    "imageName": "Ingmar Bergman.png",
+    "name": "Ingmar Bergman",
+    "details": {
+      "field": "Film Direction/Screenwriting/Theatre",
+      "reason": "Swedish filmmaker and theatre director whose intense, symbolic, and introspective films explored profound themes of faith, doubt, mortality, and human relationships, challenging cinematic norms and audience expectations."
+    }
+  },
+  {
+    "imageName": "Emmeline Pankhurst.png",
+    "name": "Emmeline Pankhurst",
+    "details": {
+      "field": "Suffragette Movement",
+      "reason": "Led militant 'Deeds not Words' campaigns for women's suffrage in Britain, disrupting public order and challenging patriarchal systems to achieve political equality."
+    }
+  },
+  {
+    "imageName": "Akira Kurosawa.png",
+    "name": "Akira Kurosawa",
+    "details": {
+      "field": "Film Direction",
+      "reason": "A highly influential Japanese filmmaker whose epic samurai films and humanist dramas blended Japanese tradition with Western cinematic techniques, challenging global cinematic storytelling."
+    }
+  },
+  {
+    "imageName": "Rashi (Shlomo Yitzchaki).png",
+    "name": "Rashi (Shlomo Yitzchaki)",
+    "details": {
+      "field": "Biblical Commentary/Talmudic Scholarship",
+      "reason": "Medieval French rabbi renowned for his comprehensive commentaries on the Tanakh (Hebrew Bible) and Talmud, his concise and lucid explanations challenged previous complex exegesis and made these texts accessible to a wider audience, becoming foundational for Jewish study."
+    }
+  },
+  {
+    "imageName": "Alexander Hamilton.png",
+    "name": "Alexander Hamilton",
+    "details": {
+      "field": "Politics/Finance",
+      "reason": "Architect of the U.S. financial system, advocated for a strong central government, and challenged prevailing economic and political theories, laying a controversial but foundational framework for a new nation."
+    }
+  },
+  {
+    "imageName": "Fats Domino (Antoine Domino Jr.).png",
+    "name": "Fats Domino (Antoine Domino Jr.)",
+    "details": {
+      "field": "Music (Rock and Roll/R&B)",
+      "reason": "American pianist, singer, and songwriter, a pioneer of rock and roll, whose distinctive New Orleans R&B style and string of hits challenged racial barriers in popular music and influenced countless artists."
+    }
+  },
+  {
+    "imageName": "Ludwig van Beethoven.png",
+    "name": "Ludwig van Beethoven",
+    "details": {
+      "field": "Music",
+      "reason": "A pivotal composer who bridged the Classical and Romantic eras, pushing musical forms, emotional expression, and the role of the artist to unprecedented limits."
+    }
+  },
+  {
+    "imageName": "Epicurus.png",
+    "name": "Epicurus",
+    "details": {
+      "field": "Philosophy (Epicureanism)",
+      "reason": "Ancient Greek philosopher who founded Epicureanism, advocating for ataraxia (tranquility) and aponia (absence of pain) through simple pleasures and friendship, challenging prevailing social ambitions and religious fears."
+    }
+  },
+  {
+    "imageName": "Olaudah Equiano (Gustavus Vassa).png",
+    "name": "Olaudah Equiano (Gustavus Vassa)",
+    "details": {
+      "field": "Abolitionism/Writing",
+      "reason": "Formerly enslaved man in the British Empire whose autobiography, 'The Interesting Narrative of the Life of Olaudah Equiano,' vividly depicted the horrors of slavery and the slave trade, powerfully challenging its proponents and fueling the abolitionist movement."
+    }
+  },
+  {
+    "imageName": "Charlie Chaplin.png",
+    "name": "Charlie Chaplin",
+    "details": {
+      "field": "Film/Comedy",
+      "reason": "A cinematic genius and global icon who used comedy in his films for poignant social and political commentary, often challenging power structures and human folly."
+    }
+  },
+  {
+    "imageName": "Hokusai (Katsushika Hokusai).png",
+    "name": "Hokusai (Katsushika Hokusai)",
+    "details": {
+      "field": "Art (Ukiyo-e painting/printmaking)",
+      "reason": "Japanese ukiyo-e artist who, through works like 'The Great Wave off Kanagawa,' transformed the ukiyo-e genre, pushed the boundaries of woodblock printing, and profoundly influenced Western Impressionists, challenging traditional artistic subjects and techniques."
+    }
+  },
+  {
+    "imageName": "Masters and Johnson (William Masters & Virginia Johnson).png",
+    "name": "Masters and Johnson (William Masters & Virginia Johnson)",
+    "details": {
+      "field": "Sexology/Physiology",
+      "reason": "American research team who pioneered the scientific study of human sexual response, their direct observational research challenged societal taboos, medical ignorance, and misinformation about human sexuality."
+    }
+  },
+  {
+    "imageName": "Werner Heisenberg.png",
+    "name": "Werner Heisenberg",
+    "details": {
+      "field": "Physics (Quantum Mechanics)",
+      "reason": "German theoretical physicist who was a key pioneer of quantum mechanics, best known for formulating the uncertainty principle, profoundly challenging classical notions of measurement and reality."
+    }
+  },
+  {
+    "imageName": "Rudolf Diesel.png",
+    "name": "Rudolf Diesel",
+    "details": {
+      "field": "Engineering/Invention",
+      "reason": "German inventor and mechanical engineer famous for the invention of the Diesel engine, which challenged the efficiency and applications of existing internal combustion engines."
+    }
+  },
+  {
+    "imageName": "Bessie Smith.png",
+    "name": "Bessie Smith",
+    "details": {
+      "field": "Music (Blues)",
+      "reason": "American blues singer, nicknamed the 'Empress of the Blues,' whose powerful voice and candid lyrics about hardship, love, and female independence challenged racial and gender norms in the 1920s and 30s."
+    }
+  },
+  {
+    "imageName": "Gregor Mendel.png",
+    "name": "Gregor Mendel",
+    "details": {
+      "field": "Science (Genetics)",
+      "reason": "Through his meticulous experiments with pea plants, he discovered the fundamental laws of inheritance, laying the groundwork for modern genetics, though his work was initially ignored by the scientific community."
+    }
+  },
+  {
+    "imageName": "Charles Babbage.png",
+    "name": "Charles Babbage",
+    "details": {
+      "field": "Mathematics/Computing/Engineering",
+      "reason": "English mathematician and inventor who originated the concept of a programmable computer, designing the Analytical Engine, challenging the technological limits and conceptual thinking of his 19th-century era."
+    }
+  },
+  {
+    "imageName": "Mark Zuckerberg.png",
+    "name": "Mark Zuckerberg",
+    "details": {
+      "field": "Technology/Business (Social Media)",
+      "reason": "Co-founder and CEO of Facebook (Meta), who transformed social networking into a global phenomenon, profoundly challenging traditional media, communication, and social interaction (often controversially)."
+    }
+  },
+  {
+    "imageName": "Harvey Milk.png",
+    "name": "Harvey Milk",
+    "details": {
+      "field": "LGBTQ+ Rights Activism",
+      "reason": "One of the first openly gay elected officials in the US, championing LGBTQ+ rights and challenging systemic discrimination."
+    }
+  },
+  {
+    "imageName": "Harriet Tubman.png",
+    "name": "Harriet Tubman",
+    "details": {
+      "field": "Abolitionism",
+      "reason": "An escaped slave who became a leading 'conductor' on the Underground Railroad, risking her life repeatedly to lead hundreds of enslaved people to freedom."
+    }
+  },
+  {
+    "imageName": "Charles Drew.png",
+    "name": "Charles Drew",
+    "details": {
+      "field": "Medicine/Surgery/Medical Research",
+      "reason": "African American surgeon and medical researcher who developed improved techniques for blood storage and large-scale blood banks, revolutionizing transfusions, but challenged racially segregated blood donation policies during WWII."
+    }
+  },
+  {
+    "imageName": "Fidel Castro.png",
+    "name": "Fidel Castro",
+    "details": {
+      "field": "Politics/Revolutionary Leadership",
+      "reason": "Led the Cuban Revolution, establishing a communist state and challenging U.S. influence in Latin America, a highly controversial figure who defied global power structures for decades."
+    }
+  },
+  {
+    "imageName": "Maimonides (Moshe ben Maimon).png",
+    "name": "Maimonides (Moshe ben Maimon)",
+    "details": {
+      "field": "Philosophy/Theology/Medicine/Law (Jewish)",
+      "reason": "Medieval Sephardic Jewish philosopher, scholar, and physician whose works ('Guide for the Perplexed,' Mishneh Torah) systematically codified Jewish law and sought to reconcile Aristotelian philosophy with Jewish theology, challenging traditional interpretations and profoundly influencing Jewish and Western thought."
+    }
+  },
+  {
+    "imageName": "Frederick Sanger.png",
+    "name": "Frederick Sanger",
+    "details": {
+      "field": "Biochemistry",
+      "reason": "British biochemist, twice Nobel laureate in Chemistry, for determining the structure of proteins (insulin) and for developing methods for DNA sequencing, fundamentally challenging and enabling molecular biology."
+    }
+  },
+  {
+    "imageName": "Billie Holiday.png",
+    "name": "Billie Holiday",
+    "details": {
+      "field": "Music (Jazz/Blues)",
+      "reason": "An iconic jazz and blues singer whose emotive vocal delivery and poignant songs, particularly 'Strange Fruit,' challenged racial injustice and conveyed profound human suffering."
+    }
+  },
+  {
+    "imageName": "Madam C. J. Walker (Sarah Breedlove).png",
+    "name": "Madam C. J. Walker (Sarah Breedlove)",
+    "details": {
+      "field": "Business/Entrepreneurship/Hair Care",
+      "reason": "An African American entrepreneur who created a line of hair care products for Black women, becoming one of the first American women to become a self-made millionaire, challenging racial and gender barriers in business."
+    }
+  },
+  {
+    "imageName": "Chinua Achebe.png",
+    "name": "Chinua Achebe",
+    "details": {
+      "field": "Literature",
+      "reason": "Nigerian novelist whose groundbreaking 'Things Fall Apart' challenged colonial narratives by portraying African culture and the impact of colonialism from an African perspective."
+    }
+  },
+  {
+    "imageName": "Rosalind Franklin.png",
+    "name": "Rosalind Franklin",
+    "details": {
+      "field": "Science (Biophysics/Chemistry)",
+      "reason": "Her X-ray diffraction images ('Photo 51') were crucial to discovering DNA's double helix structure, a woman whose work challenged the male-dominated scientific establishment of her time."
+    }
+  },
+  {
+    "imageName": "William Shakespeare.png",
+    "name": "William Shakespeare",
+    "details": {
+      "field": "Literature/Theatre",
+      "reason": "Transformed the English language and drama with his unparalleled plays and poetry, exploring universal human themes and challenging theatrical conventions of his time."
+    }
+  },
+  {
+    "imageName": "Mark Twain (Samuel Clemens).png",
+    "name": "Mark Twain (Samuel Clemens)",
+    "details": {
+      "field": "Literature/Satire",
+      "reason": "American author and humorist whose satirical works like 'Adventures of Huckleberry Finn' sharply critiqued racism, hypocrisy, and societal norms of 19th-century America, challenging readers' complacency."
+    }
+  },
+  {
+    "imageName": "Karl Benz.png",
+    "name": "Karl Benz",
+    "details": {
+      "field": "Engineering/Invention (Automotive)",
+      "reason": "German engine designer and automobile engineer credited with inventing the first practical gasoline-powered automobile, the Benz Patent-Motorwagen, challenging traditional modes of transport."
+    }
+  },
+  {
+    "imageName": "Erwin Schrödinger.png",
+    "name": "Erwin Schrödinger",
+    "details": {
+      "field": "Physics (Quantum Mechanics)",
+      "reason": "Austrian physicist who developed the Schrödinger equation, a fundamental equation in quantum mechanics, and the famous 'Schrödinger's cat' thought experiment, challenging classical physics and interpretations of quantum theory."
+    }
+  },
+  {
+    "imageName": "The Wright Brothers (Orville & Wilbur).png",
+    "name": "The Wright Brothers (Orville & Wilbur)",
+    "details": {
+      "field": "Invention",
+      "reason": "Achieved the first sustained flight of a powered, controlled aircraft, ushering in the age of aviation and fundamentally transforming travel, warfare, and global connectivity, challenging the limits of human capability."
+    }
+  },
+  {
+    "imageName": "Thomas Paine.png",
+    "name": "Thomas Paine",
+    "details": {
+      "field": "Politics/Philosophy/Writing",
+      "reason": "Author of 'Common Sense' and 'The Rights of Man,' his radical pamphlets championed American independence and republican ideals, profoundly challenging monarchical rule and established social orders."
+    }
+  },
+  {
+    "imageName": "Murasaki Shikibu.png",
+    "name": "Murasaki Shikibu",
+    "details": {
+      "field": "Literature",
+      "reason": "Japanese noblewoman and author of 'The Tale of Genji' (early 11th century), considered the world's first novel, her psychologically nuanced depiction of courtly life challenged existing literary forms and offered profound insights into human nature."
+    }
+  },
+  {
+    "imageName": "Chuck Berry.png",
+    "name": "Chuck Berry",
+    "details": {
+      "field": "Music (Rock and Roll)",
+      "reason": "A pioneering guitarist, singer, and songwriter who was a principal architect of rock and roll, his music and stage presence challenged musical traditions and conservative social norms of the 1950s."
+    }
+  },
+  {
+    "imageName": "Adi Shankara.png",
+    "name": "Adi Shankara",
+    "details": {
+      "field": "Philosophy/Theology",
+      "reason": "An early 8th-century Indian philosopher and theologian who consolidated the doctrine of Advaita Vedanta, challenging other philosophical schools and revitalizing Hinduism with his rigorous intellectual arguments."
+    }
+  },
+  {
+    "imageName": "Yasujirō Ozu.png",
+    "name": "Yasujirō Ozu",
+    "details": {
+      "field": "Film Direction",
+      "reason": "Japanese filmmaker renowned for his distinctive minimalist style, low camera angles, and poignant depictions of family life and social change in modernizing Japan, challenging conventional cinematic language."
+    }
+  },
+  {
+    "imageName": "Rabindranath Tagore.png",
+    "name": "Rabindranath Tagore",
+    "details": {
+      "field": "Literature/Arts/Philosophy",
+      "reason": "Bengali polymath who reshaped literature and music, the first non-European Nobel laureate in Literature, he challenged traditionalism and advocated for humanism and cultural synthesis."
+    }
+  },
+  {
+    "imageName": "Rachel Carson.png",
+    "name": "Rachel Carson",
+    "details": {
+      "field": "Environmental Science/Writing",
+      "reason": "Her book 'Silent Spring' exposed the environmental dangers of pesticides, challenging the chemical industry and government policies, and launching the modern environmental movement."
+    }
+  },
+  {
+    "imageName": "Heraclitus of Ephesus.png",
+    "name": "Heraclitus of Ephesus",
+    "details": {
+      "field": "Philosophy",
+      "reason": "Ancient Greek pre-Socratic philosopher known for his doctrine of change being central to the universe ('everything flows,' 'you cannot step into the same river twice') and the 'unity of opposites,' challenging static views of reality."
+    }
+  },
+  {
+    "imageName": "Queen Liliʻuokalani.png",
+    "name": "Queen Liliʻuokalani",
+    "details": {
+      "field": "Politics/Leadership",
+      "reason": "The last reigning monarch of the Kingdom of Hawaii, she staunchly resisted U.S. annexation and fought for Hawaiian sovereignty, challenging American imperialism and colonialism."
+    }
+  },
+  {
+    "imageName": "E. O. Wilson (Edward O. Wilson).png",
+    "name": "E. O. Wilson (Edward O. Wilson)",
+    "details": {
+      "field": "Biology (Entomology/Sociobiology)/Conservation",
+      "reason": "American biologist, considered the 'father of sociobiology' and a leading expert on ants, his theories on the genetic basis of social behavior (including in humans) sparked intense controversy, challenging taboos and promoting biodiversity conservation."
+    }
+  },
+  {
+    "imageName": "Ayn Rand.png",
+    "name": "Ayn Rand",
+    "details": {
+      "field": "Philosophy/Literature",
+      "reason": "Russian-American writer and philosopher, founder of Objectivism, whose novels ('Atlas Shrugged,' 'The Fountainhead') and philosophy advocating radical individualism and laissez-faire capitalism became a powerful, albeit controversial, challenge to altruism, collectivism, and established ethical systems."
+    }
+  },
+  {
+    "imageName": "Rachel Ruysch.png",
+    "name": "Rachel Ruysch",
+    "details": {
+      "field": "Art (Painting)",
+      "reason": "A highly successful Dutch still-life painter during the 17th and 18th centuries, achieving international fame and financial independence in a male-dominated field, challenging gender norms for artists."
+    }
+  },
+  {
+    "imageName": "Paul Dirac.png",
+    "name": "Paul Dirac",
+    "details": {
+      "field": "Physics (Quantum Mechanics/Theoretical)",
+      "reason": "British theoretical physicist, a founder of quantum mechanics and quantum electrodynamics, who formulated the Dirac equation and predicted the existence of antimatter, challenging existing particle physics."
+    }
+  },
+  {
+    "imageName": "Hypatia of Alexandria.png",
+    "name": "Hypatia of Alexandria",
+    "details": {
+      "field": "Mathematics/Philosophy/Astronomy",
+      "reason": "A prominent female scholar and teacher in late Roman Egypt, she was a leading figure in Neoplatonism, challenging gender norms in academia and pagan intellectual traditions in an increasingly Christianized world."
+    }
+  },
+  {
+    "imageName": "Valentina Tereshkova.png",
+    "name": "Valentina Tereshkova",
+    "details": {
+      "field": "Space Exploration/Cosmonautics",
+      "reason": "Soviet cosmonaut who became the first woman to fly in space (1963), shattering gender barriers in space exploration and science, and becoming a global symbol of female achievement."
+    }
+  },
+  {
+    "imageName": "Jane Goodall.png",
+    "name": "Jane Goodall",
+    "details": {
+      "field": "Primatology/Anthropology/Conservation",
+      "reason": "British primatologist whose groundbreaking long-term study of wild chimpanzees in Tanzania challenged scientific orthodoxy about animal behavior, tool use, and the human-animal divide, advocating for conservation."
+    }
+  },
+  {
+    "imageName": "Paul Allen.png",
+    "name": "Paul Allen",
+    "details": {
+      "field": "Technology/Business/Philanthropy",
+      "reason": "Co-founder of Microsoft, playing a crucial role in the early development of personal computing software and later investing in diverse technological and philanthropic ventures, challenging established industries."
+    }
+  },
+  {
+    "imageName": "Thomas Edison.png",
+    "name": "Thomas Edison",
+    "details": {
+      "field": "Invention/Business",
+      "reason": "Prolific inventor (phonograph, practical incandescent light bulb, kinetoscope) who industrialized the process of invention and shaped modern electrical life, often aggressively challenging competitors."
+    }
+  },
+  {
+    "imageName": "Subrahmanyan Chandrasekhar.png",
+    "name": "Subrahmanyan Chandrasekhar",
+    "details": {
+      "field": "Science (Astrophysics)",
+      "reason": "His work on the structure and evolution of stars, including the Chandrasekhar limit for white dwarfs, challenged existing astrophysical theories and paved the way for understanding black holes."
+    }
+  },
+  {
+    "imageName": "Ashoka the Great.png",
+    "name": "Ashoka the Great",
+    "details": {
+      "field": "Politics/Leadership/Religion",
+      "reason": "Mauryan Emperor who, after brutal conquests, converted to Buddhism and promoted peace, tolerance, and social welfare, challenging traditional notions of imperial rule through non-violence and edicts."
+    }
+  },
+  {
+    "imageName": "Zaha Hadid.png",
+    "name": "Zaha Hadid",
+    "details": {
+      "field": "Architecture",
+      "reason": "Iraqi-British architect, the first woman to receive the Pritzker Architecture Prize, known for her radically deconstructivist, fluid, and futuristic designs that challenged conventional architectural geometry and expectations for female architects."
+    }
+  },
+  {
+    "imageName": "James Madison.png",
+    "name": "James Madison",
+    "details": {
+      "field": "Politics/Philosophy",
+      "reason": "Principal architect of the U.S. Constitution and Bill of Rights, challenging existing models of governance by championing republicanism, federalism, and individual liberties."
+    }
+  },
+  {
+    "imageName": "Bayard Rustin.png",
+    "name": "Bayard Rustin",
+    "details": {
+      "field": "Civil Rights Activism/Pacifism",
+      "reason": "African American civil rights leader, chief organizer of the 1963 March on Washington, and advisor to Martin Luther King Jr., whose pacifism, socialism, and open homosexuality challenged norms both within and outside the movement."
+    }
+  },
+  {
+    "imageName": "Elon Musk.png",
+    "name": "Elon Musk",
+    "details": {
+      "field": "Technology/Business (Space/Automotive/AI)",
+      "reason": "Entrepreneur (SpaceX, Tesla, Neuralink) known for pushing boundaries in electric vehicles, space exploration, and AI, challenging established industries and conventional technological limits with ambitious, often disruptive, goals."
+    }
+  },
+  {
+    "imageName": "Frida Kahlo.png",
+    "name": "Frida Kahlo",
+    "details": {
+      "field": "Arts (Painting)",
+      "reason": "Her deeply personal, symbolic, and often unsettling art challenged conventions of beauty, gender, the body, and Mexican identity, asserting a unique female voice."
+    }
+  },
+  {
+    "imageName": "Brahmagupta.png",
+    "name": "Brahmagupta",
+    "details": {
+      "field": "Mathematics/Astronomy",
+      "reason": "Indian mathematician and astronomer who introduced rules for computing with zero, negative numbers, and made significant advances in algebra and astronomy, challenging and expanding mathematical understanding."
+    }
+  },
+  {
+    "imageName": "Maurice Wilkins.png",
+    "name": "Maurice Wilkins",
+    "details": {
+      "field": "Physics/Molecular Biology",
+      "reason": "New Zealand-born British physicist whose X-ray diffraction work on DNA was crucial to Watson and Crick's discovery of its structure, challenging the limits of imaging biological molecules (Nobel with Watson & Crick)."
+    }
+  },
+  {
+    "imageName": "Karl Marx.png",
+    "name": "Karl Marx",
+    "details": {
+      "field": "Philosophy/Economics/Sociology",
+      "reason": "Philosopher, economist, and revolutionary socialist whose theories on capitalism, class struggle, and historical materialism (Marxism) profoundly influenced global politics, economics, and thought, challenging the capitalist order."
+    }
+  },
+  {
+    "imageName": "John Logie Baird.png",
+    "name": "John Logie Baird",
+    "details": {
+      "field": "Invention (Television)",
+      "reason": "Scottish engineer and inventor who demonstrated the world's first working electromechanical television system, challenging the limits of visual communication technology in the early 20th century."
+    }
+  },
+  {
+    "imageName": "J. Robert Oppenheimer.png",
+    "name": "J. Robert Oppenheimer",
+    "details": {
+      "field": "Physics (Theoretical)/Science Administration",
+      "reason": "American theoretical physicist, scientific director of the Manhattan Project, which developed the first atomic bombs. A profoundly transformative and ethically challenging figure who pushed the boundaries of destructive capability and later advocated for arms control."
+    }
+  },
+  {
+    "imageName": "Nikolaus Otto.png",
+    "name": "Nikolaus Otto",
+    "details": {
+      "field": "Engineering/Invention",
+      "reason": "German engineer who successfully developed the compressed charge internal combustion engine (Otto cycle), challenging existing power sources and paving the way for automobiles and other engine-powered machines."
+    }
+  },
+  {
+    "imageName": "Angela Davis.png",
+    "name": "Angela Davis",
+    "details": {
+      "field": "Activism/Academia/Philosophy",
+      "reason": "A radical political activist, scholar, and author who has challenged systemic racism, sexism, and the prison-industrial complex for decades, advocating for transformative social justice."
+    }
+  },
+  {
+    "imageName": "Aung San Suu Kyi.png",
+    "name": "Aung San Suu Kyi",
+    "details": {
+      "field": "Politics/Activism",
+      "reason": "Long-time symbol of Myanmar's pro-democracy movement, challenging military rule and advocating for human rights, enduring years of house arrest for her activism."
+    }
+  },
+  {
+    "imageName": "Claude Monet.png",
+    "name": "Claude Monet",
+    "details": {
+      "field": "Art (Impressionism)",
+      "reason": "A founder of French Impressionist painting, his focus on capturing fleeting moments and the subjective perception of light and color challenged the established hierarchy of academic art and its emphasis on meticulous detail."
+    }
+  },
+  {
+    "imageName": "Jim Morrison.png",
+    "name": "Jim Morrison",
+    "details": {
+      "field": "Music (Rock)/Poetry",
+      "reason": "American singer, songwriter, and poet, lead vocalist of The Doors, whose charismatic and controversial stage persona, poetic lyrics, and rebellious attitude challenged societal norms and artistic conventions in rock music."
+    }
+  },
+  {
+    "imageName": "Al-Khwarizmi (Muḥammad ibn Mūsā al-Khwārizmī).png",
+    "name": "Al-Khwarizmi (Muḥammad ibn Mūsā al-Khwārizmī)",
+    "details": {
+      "field": "Mathematics/Astronomy/Geography",
+      "reason": "Persian polymath whose works introduced Hindu-Arabic numerals and algebraic methods to Western mathematics (the term 'algebra' derives from his book's title), fundamentally challenging and advancing mathematical thought and problem-solving."
+    }
+  },
+  {
+    "imageName": "Richard Feynman.png",
+    "name": "Richard Feynman",
+    "details": {
+      "field": "Physics/Education",
+      "reason": "Nobel laureate theoretical physicist known for his work in quantum electrodynamics, iconoclastic teaching style (Feynman Diagrams, lectures), and challenging conventional thinking, making complex science accessible."
+    }
+  },
+  {
+    "imageName": "Louis Daguerre.png",
+    "name": "Louis Daguerre",
+    "details": {
+      "field": "Invention (Photography)",
+      "reason": "French artist and physicist who invented the daguerreotype process of photography, one of the first commercially successful photographic processes, challenging traditional methods of visual representation."
+    }
+  },
+  {
+    "imageName": "Oscar Wilde.png",
+    "name": "Oscar Wilde",
+    "details": {
+      "field": "Literature/Theatre",
+      "reason": "An Irish writer and wit who masterfully challenged Victorian hypocrisy, social conventions, and artistic norms through his plays, essays, and epigrams, eventually persecuted for his sexuality."
+    }
+  },
+  {
+    "imageName": "Albert Camus.png",
+    "name": "Albert Camus",
+    "details": {
+      "field": "Philosophy/Literature",
+      "reason": "French Nobel laureate whose works explored themes of absurdism, rebellion, and humanism, challenging nihilism, totalitarian ideologies, and advocating for moral integrity in a meaningless world."
+    }
+  },
+  {
+    "imageName": "Jacques Derrida.png",
+    "name": "Jacques Derrida",
+    "details": {
+      "field": "Philosophy (Deconstruction)",
+      "reason": "French philosopher, founder of deconstruction, whose work challenged Western metaphysical traditions by analyzing the instability of meaning in language and texts, profoundly influencing literary criticism, philosophy, and humanities."
+    }
+  },
+  {
+    "imageName": "Gabriel García Márquez.png",
+    "name": "Gabriel García Márquez",
+    "details": {
+      "field": "Literature",
+      "reason": "Colombian novelist who popularized magical realism, transforming Latin American literature and its global perception, and often critiquing power and oppression."
+    }
+  },
+  {
+    "imageName": "Cheikh Anta Diop.png",
+    "name": "Cheikh Anta Diop",
+    "details": {
+      "field": "History/Anthropology/Physics",
+      "reason": "Senegalese historian, anthropologist, and physicist who argued for the African (specifically Black Egyptian) origin of ancient Egyptian civilization, challenging Eurocentric historical narratives and promoting Afrocentrism."
+    }
+  },
+  {
+    "imageName": "Mao Zedong.png",
+    "name": "Mao Zedong",
+    "details": {
+      "field": "Politics/Revolutionary Leadership",
+      "reason": "Founding father of the People's Republic of China, led the Communist Party to victory in the Chinese Civil War, implemented sweeping and often catastrophic socio-political changes, profoundly challenging traditional Chinese society and global power dynamics."
+    }
+  },
+  {
+    "imageName": "Ho Chi Minh.png",
+    "name": "Ho Chi Minh",
+    "details": {
+      "field": "Politics/Leadership",
+      "reason": "Led Vietnam's independence movement against French colonialism and later the United States, a key figure in global anti-colonial struggles."
+    }
+  },
+  {
+    "imageName": "Gottlieb Daimler.png",
+    "name": "Gottlieb Daimler",
+    "details": {
+      "field": "Engineering/Invention (Automotive)",
+      "reason": "German engineer and pioneer of internal combustion engines and automobile development, he developed high-speed engines that challenged existing engine designs and were crucial for early automobiles."
+    }
+  },
+  {
+    "imageName": "Giordano Bruno.png",
+    "name": "Giordano Bruno",
+    "details": {
+      "field": "Philosophy/Cosmology",
+      "reason": "Dominican friar and philosopher who proposed an infinite universe, other stars with planets, and pantheism, challenging Aristotelian cosmology and Catholic doctrine, ultimately burned at the stake for heresy."
+    }
+  },
+  {
+    "imageName": "Benjamin Franklin.png",
+    "name": "Benjamin Franklin",
+    "details": {
+      "field": "Politics/Science/Invention/Diplomacy",
+      "reason": "Embodied Enlightenment ideals, challenged colonial rule through diplomacy and wit, made pioneering scientific discoveries, and promoted civic virtue, disrupting established norms in multiple fields."
+    }
+  },
+  {
+    "imageName": "Simón Bolívar.png",
+    "name": "Simón Bolívar",
+    "details": {
+      "field": "Politics/Leadership",
+      "reason": "Known as 'El Libertador,' he led revolutionary wars that liberated multiple South American countries from Spanish colonial rule."
+    }
+  },
+  {
+    "imageName": "J.C.R. Licklider.png",
+    "name": "J.C.R. Licklider",
+    "details": {
+      "field": "Psychology/Computer Science",
+      "reason": "American psychologist and computer scientist who envisioned networked computing (Intergalactic Computer Network), graphical computing, and user-friendly interfaces, challenging batch processing and shaping the vision for ARPANET/Internet."
+    }
+  },
+  {
+    "imageName": "Miles Davis.png",
+    "name": "Miles Davis",
+    "details": {
+      "field": "Music (Jazz)",
+      "reason": "An innovative and influential jazz trumpeter, bandleader, and composer who constantly reinvented his music, spearheading major stylistic developments and challenging the boundaries of jazz."
+    }
+  },
+  {
+    "imageName": "W.E.B. Du Bois.png",
+    "name": "W.E.B. Du Bois",
+    "details": {
+      "field": "Civil Rights Activism/Sociology",
+      "reason": "Co-founder of the NAACP, a sociologist and activist who challenged racial segregation, advocated for Pan-Africanism, and pushed for full civil rights."
+    }
+  },
+  {
+    "imageName": "George Carlin.png",
+    "name": "George Carlin",
+    "details": {
+      "field": "Comedy/Satire/Social Criticism",
+      "reason": "American stand-up comedian, social critic, and actor who expertly lampooned language, politics, religion, and societal absurdities, famously challenging censorship with his 'Seven Dirty Words' routine and pushing comedic boundaries."
+    }
+  },
+  {
+    "imageName": "Lise Meitner.png",
+    "name": "Lise Meitner",
+    "details": {
+      "field": "Physics",
+      "reason": "Austrian-Swedish physicist who, with Otto Hahn, discovered nuclear fission but was overlooked for the Nobel Prize, a woman who challenged gender barriers in a male-dominated scientific field."
+    }
+  },
+  {
+    "imageName": "Frank Lloyd Wright.png",
+    "name": "Frank Lloyd Wright",
+    "details": {
+      "field": "Architecture",
+      "reason": "An innovative American architect who developed organic architecture and the Prairie School style, challenging traditional architectural forms and advocating for harmony between human habitation and the natural world."
+    }
+  },
+  {
+    "imageName": "Frantz Fanon.png",
+    "name": "Frantz Fanon",
+    "details": {
+      "field": "Psychiatry/Philosophy/Post-colonial Studies",
+      "reason": "Martinican psychiatrist and political philosopher whose works, like 'Black Skin, White Masks' and 'The Wretched of the Earth,' critically analyzed colonialism, racism, and their psychological effects, challenging colonial power structures and advocating for decolonization."
+    }
+  },
+  {
+    "imageName": "Daniel David Palmer.png",
+    "name": "Daniel David Palmer",
+    "details": {
+      "field": "Medicine (Chiropractic)",
+      "reason": "Founder of chiropractic in 1895, based on the theory that spinal misalignments ('subluxations') cause disease, challenging mainstream medical understanding of disease etiology and treatment through spinal manipulation."
+    }
+  },
+  {
+    "imageName": "Reginald Fessenden.png",
+    "name": "Reginald Fessenden",
+    "details": {
+      "field": "Invention (Radio)",
+      "reason": "Canadian inventor who performed pioneering experiments in radio, including the first audio radio transmission (AM radio), challenging the limitations of spark-gap telegraphy and enabling voice and music broadcasting."
+    }
+  },
+  {
+    "imageName": "Bill Gates.png",
+    "name": "Bill Gates",
+    "details": {
+      "field": "Technology/Business/Philanthropy",
+      "reason": "Co-founder of Microsoft, who brought personal computing to the masses with MS-DOS and Windows, challenging the dominance of mainframe computing and later becoming a major philanthropist."
+    }
+  },
+  {
+    "imageName": "Sojourner Truth.png",
+    "name": "Sojourner Truth",
+    "details": {
+      "field": "Abolitionism/Women's Rights",
+      "reason": "An escaped slave who became a powerful and eloquent orator for abolition and women's rights, famously delivering the 'Ain't I a Woman?' speech, challenging both racism and sexism."
+    }
+  },
+  {
+    "imageName": "Aldo Leopold.png",
+    "name": "Aldo Leopold",
+    "details": {
+      "field": "Environmentalism/Ecology/Writing",
+      "reason": "Author of 'A Sand County Almanac,' he developed the 'land ethic,' calling for a moral responsibility to the natural world, challenging human-centered views and shaping modern environmental ethics."
+    }
+  },
+  {
+    "imageName": "Kathrine Switzer.png",
+    "name": "Kathrine Switzer",
+    "details": {
+      "field": "Sports (Marathon Running)/Activism",
+      "reason": "The first woman to officially run the Boston Marathon (1967) despite attempts by race officials to physically remove her, challenging the exclusion of women from long-distance running and paving the way for female participation."
+    }
+  },
+  {
+    "imageName": "Frank Zappa.png",
+    "name": "Frank Zappa",
+    "details": {
+      "field": "Music (Rock/Experimental)/Satire",
+      "reason": "American musician, composer, bandleader, and satirist whose complex, genre-defying music and outspoken criticism of censorship, conformity, and commercialism challenged both musical and societal norms."
+    }
+  },
+  {
+    "imageName": "Grace Lee Boggs.png",
+    "name": "Grace Lee Boggs",
+    "details": {
+      "field": "Activism/Philosophy/Feminism",
+      "reason": "Chinese American activist, writer, and philosopher involved in Black Power, civil rights, labor, and feminist movements, challenging traditional Marxist thought and advocating for community-based revolutionary change for over seven decades."
+    }
+  },
+  {
+    "imageName": "Sarah Vaughan.png",
+    "name": "Sarah Vaughan",
+    "details": {
+      "field": "Music (Jazz)",
+      "reason": "American jazz singer with an extraordinary vocal range and improvisational skill, challenging conventional singing styles and influencing generations of vocalists with her operatic power and harmonic sophistication."
+    }
+  },
+  {
+    "imageName": "Sitting Bull (Tȟatȟáŋka Íyotake).png",
+    "name": "Sitting Bull (Tȟatȟáŋka Íyotake)",
+    "details": {
+      "field": "Leadership/Indigenous Rights",
+      "reason": "Hunkpapa Lakota holy man and leader who united Sioux tribes in resistance against U.S. government policies and westward expansion, famously leading the victory at Little Bighorn, challenging colonial encroachment."
+    }
+  },
+  {
+    "imageName": "Kary Mullis.png",
+    "name": "Kary Mullis",
+    "details": {
+      "field": "Biochemistry/Biotechnology",
+      "reason": "American biochemist who invented the Polymerase Chain Reaction (PCR) technique, a revolutionary method for amplifying DNA that challenged previous limitations in genetics research and diagnostics (a colorful and controversial figure)."
+    }
+  },
+  {
+    "imageName": "Emma Goldman.png",
+    "name": "Emma Goldman",
+    "details": {
+      "field": "Anarchism/Activism/Writing",
+      "reason": "A radical anarchist who fiercely advocated for free speech, women's rights, birth control, and workers' rights, consistently challenging government authority, capitalism, and social conventions."
+    }
+  },
+  {
+    "imageName": "Gertrude Ederle.png",
+    "name": "Gertrude Ederle",
+    "details": {
+      "field": "Sports (Swimming)",
+      "reason": "American swimmer who, in 1926, became the first woman to swim the English Channel, shattering the existing men's record by two hours and challenging notions of female physical inferiority."
+    }
+  },
+  {
+    "imageName": "Leonardo da Vinci.png",
+    "name": "Leonardo da Vinci",
+    "details": {
+      "field": "Arts/Science/Invention",
+      "reason": "A true Renaissance polymath whose groundbreaking work in art, anatomy, engineering, and invention pushed the boundaries of knowledge and expression, challenging medieval constraints."
+    }
+  },
+  {
+    "imageName": "Pete Seeger.png",
+    "name": "Pete Seeger",
+    "details": {
+      "field": "Music (Folk)/Activism",
+      "reason": "American folk singer, songwriter, and activist who championed civil rights, environmentalism, and peace, using music to challenge injustice and mobilize social change, despite blacklisting and government scrutiny."
+    }
+  },
+  {
+    "imageName": "Muhammad Yunus.png",
+    "name": "Muhammad Yunus",
+    "details": {
+      "field": "Economics/Social Entrepreneurship",
+      "reason": "Bangladeshi economist and founder of Grameen Bank, he pioneered the concepts of microcredit and microfinance, empowering the poor by challenging traditional banking practices that excluded them."
+    }
+  },
+  {
+    "imageName": "Dorothy Hodgkin.png",
+    "name": "Dorothy Hodgkin",
+    "details": {
+      "field": "Science (Biochemistry/Crystallography)",
+      "reason": "Nobel laureate who developed X-ray crystallography to determine the structures of vital biomolecules like penicillin, vitamin B12, and insulin, challenging scientific complexity and advancing medicine."
+    }
+  },
+  {
+    "imageName": "Jack Dorsey.png",
+    "name": "Jack Dorsey",
+    "details": {
+      "field": "Technology/Business (Social Media/Fintech)",
+      "reason": "Co-founder of Twitter and Square, who created platforms that challenged traditional communication (microblogging) and financial transactions, respectively."
+    }
+  },
+  {
+    "imageName": "Mustafa Kemal Atatürk.png",
+    "name": "Mustafa Kemal Atatürk",
+    "details": {
+      "field": "Politics/Reform/Military Leadership",
+      "reason": "Founder and first President of the Republic of Turkey, he led the Turkish War of Independence and implemented sweeping secularizing and modernizing reforms, challenging centuries of Ottoman tradition and Islamic influence."
+    }
+  },
+  {
+    "imageName": "Mary Anning.png",
+    "name": "Mary Anning",
+    "details": {
+      "field": "Science (Paleontology)",
+      "reason": "A self-taught fossil collector and paleontologist in 19th-century England whose remarkable discoveries of marine reptile fossils challenged scientific understanding of prehistoric life and Earth's history, despite facing gender and class barriers. (Note: Anning was in Gen 2, this is a duplicate check test, should be removed if already present)."
+    }
+  },
+  {
+    "imageName": "Paracelsus (Theophrastus von Hohenheim).png",
+    "name": "Paracelsus (Theophrastus von Hohenheim)",
+    "details": {
+      "field": "Medicine/Alchemy/Philosophy",
+      "reason": "Swiss physician who rejected ancient Galenic medical orthodoxy, emphasizing observation, chemical remedies, and local folk medicine, challenging the medical establishment."
+    }
+  },
+  {
+    "imageName": "Count Basie.png",
+    "name": "Count Basie",
+    "details": {
+      "field": "Music (Jazz)",
+      "reason": "American jazz pianist, organist, bandleader, and composer, a key figure in the swing era, whose minimalist piano style and powerful big band sound challenged and shaped jazz rhythm and arrangement."
+    }
+  },
+  {
+    "imageName": "Artemisia Gentileschi.png",
+    "name": "Artemisia Gentileschi",
+    "details": {
+      "field": "Art (Painting)",
+      "reason": "An Italian Baroque painter, one of the most accomplished of her generation, who depicted strong female figures and challenged gender barriers in the art world, overcoming personal trauma and professional obstacles."
+    }
+  },
+  {
+    "imageName": "Florence Nightingale.png",
+    "name": "Florence Nightingale",
+    "details": {
+      "field": "Nursing/Social Reform/Statistics",
+      "reason": "Founder of modern nursing, she used statistics to advocate for sanitary reforms in hospitals during the Crimean War, drastically improving healthcare and challenging medical and military bureaucracy."
+    }
+  },
+  {
+    "imageName": "Dmitri Mendeleev.png",
+    "name": "Dmitri Mendeleev",
+    "details": {
+      "field": "Chemistry",
+      "reason": "Russian chemist who formulated the Periodic Table of elements, arranging them by atomic weight and predicting the properties of undiscovered elements, challenging existing chemical classification systems."
+    }
+  },
+  {
+    "imageName": "Charles Darwin.png",
+    "name": "Charles Darwin",
+    "details": {
+      "field": "Science (Biology)",
+      "reason": "Developed the theory of evolution by natural selection, revolutionizing biology and challenging prevailing religious and scientific orthodoxy about life's origins."
+    }
+  },
+  {
+    "imageName": "Ida B. Wells.png",
+    "name": "Ida B. Wells",
+    "details": {
+      "field": "Journalism/Activism/Sociology",
+      "reason": "African American investigative journalist, educator, and early civil rights leader who led an anti-lynching crusade in the US, challenging racial violence and systemic injustice through fearless reporting."
+    }
+  },
+  {
+    "imageName": "Spike Lee.png",
+    "name": "Spike Lee",
+    "details": {
+      "field": "Film Direction/Writing",
+      "reason": "An American film director, producer, writer, and actor whose films frequently explore race relations, urban life, and social issues, challenging Hollywood conventions and giving voice to Black experiences."
+    }
+  },
+  {
+    "imageName": "Cesar Chavez.png",
+    "name": "Cesar Chavez",
+    "details": {
+      "field": "Labor Activism",
+      "reason": "Co-founded the National Farm Workers Association (later UFW), using nonviolent tactics like boycotts and strikes to challenge the exploitation of farmworkers and improve their wages and conditions."
+    }
+  },
+  {
+    "imageName": "Benazir Bhutto.png",
+    "name": "Benazir Bhutto",
+    "details": {
+      "field": "Politics/Leadership",
+      "reason": "The first woman to head a democratic government in a Muslim-majority nation (Pakistan), she twice served as Prime Minister, challenging military dictatorships and traditional gender roles in politics."
+    }
+  },
+  {
+    "imageName": "Jane Jacobs.png",
+    "name": "Jane Jacobs",
+    "details": {
+      "field": "Urbanism/Writing/Activism",
+      "reason": "American-Canadian journalist and activist whose influential book 'The Death and Life of Great American Cities' critiqued modernist urban renewal policies, challenging top-down planning and advocating for community-based, organic city development."
+    }
+  },
+  {
+    "imageName": "Dorothea Dix.png",
+    "name": "Dorothea Dix",
+    "details": {
+      "field": "Social Reform/Advocacy",
+      "reason": "American activist who tirelessly lobbied for improved conditions and humane treatment for the mentally ill, challenging societal neglect and leading to the creation of the first generation of American mental asylums."
+    }
+  },
+  {
+    "imageName": "Thomas Jefferson.png",
+    "name": "Thomas Jefferson",
+    "details": {
+      "field": "Politics/Leadership",
+      "reason": "Authored the Declaration of Independence, championing radical ideas of liberty and self-governance that inspired global movements."
+    }
+  },
+  {
+    "imageName": "Steve Biko.png",
+    "name": "Steve Biko",
+    "details": {
+      "field": "Anti-Apartheid Activism/Philosophy",
+      "reason": "South African anti-apartheid activist and founder of the Black Consciousness Movement, which empowered Black South Africans to challenge the psychological and systemic oppression of apartheid, ultimately dying in police custody for his activism."
+    }
+  },
+  {
+    "imageName": "William Tyndale.png",
+    "name": "William Tyndale",
+    "details": {
+      "field": "Religious Reform/Translation",
+      "reason": "English scholar who translated the Bible into English, making scripture accessible to common people and challenging the authority of the Catholic Church and its Latin Vulgate. Executed for heresy, his translation heavily influenced the King James Version."
+    }
+  },
+  {
+    "imageName": "Sei Shōnagon.png",
+    "name": "Sei Shōnagon",
+    "details": {
+      "field": "Literature",
+      "reason": "Japanese court lady and author of 'The Pillow Book' (early 11th century), a collection of witty observations, lists, and anecdotes that provided a sharp, personal, and often humorous perspective on Heian period court life, challenging conventional historical narratives."
+    }
+  },
+  {
+    "imageName": "Jesse Owens.png",
+    "name": "Jesse Owens",
+    "details": {
+      "field": "Sports (Track & Field)",
+      "reason": "African American track and field athlete who won four gold medals at the 1936 Berlin Olympics, spectacularly challenging Hitler's Nazi ideology of Aryan supremacy on a global stage."
+    }
+  },
+  {
+    "imageName": "Rosa Luxemburg.png",
+    "name": "Rosa Luxemburg",
+    "details": {
+      "field": "Marxist Theory/Activism/Economics",
+      "reason": "Polish-German Marxist theorist, philosopher, and revolutionary socialist who co-founded the Spartacus League, challenging reformist socialism, capitalism, and militarism; executed for her activism."
+    }
+  },
+  {
+    "imageName": "Cicely Saunders.png",
+    "name": "Cicely Saunders",
+    "details": {
+      "field": "Medicine/Hospice Care/Social Work",
+      "reason": "English physician, nurse, and writer, founder of the modern hospice movement, who revolutionized palliative care by emphasizing holistic support (physical, emotional, spiritual) for the dying, challenging the medical focus solely on cure."
+    }
+  },
+  {
+    "imageName": "Jonas Salk.png",
+    "name": "Jonas Salk",
+    "details": {
+      "field": "Science (Virology)",
+      "reason": "Developed the first successful polio vaccine, challenging the devastating impact of the disease and offering hope to millions, choosing not to patent it for wider accessibility."
+    }
+  },
+  {
+    "imageName": "Malala Yousafzai.png",
+    "name": "Malala Yousafzai",
+    "details": {
+      "field": "Education Activism",
+      "reason": "Advocated for girls' education against Taliban opposition in Pakistan, surviving an assassination attempt to become a global symbol for human rights."
+    }
+  },
+  {
+    "imageName": "Jean-Jacques Rousseau.png",
+    "name": "Jean-Jacques Rousseau",
+    "details": {
+      "field": "Philosophy",
+      "reason": "Enlightenment philosopher whose radical ideas on the social contract, popular sovereignty, education, and inequality profoundly challenged existing political and social orders, influencing revolutions."
+    }
+  },
+  {
+    "imageName": "Nikola Tesla.png",
+    "name": "Nikola Tesla",
+    "details": {
+      "field": "Invention/Engineering",
+      "reason": "Pioneer of alternating current (AC) electrical systems, radio technology, and numerous other visionary inventions, often challenging the dominant direct current (DC) systems and established scientific thought."
+    }
+  },
+  {
+    "imageName": "Frederick Douglass.png",
+    "name": "Frederick Douglass",
+    "details": {
+      "field": "Abolitionism/Oratory",
+      "reason": "Escaped slave who became a powerful abolitionist orator, writer, and statesman, relentlessly challenging the institution of slavery and racial injustice."
+    }
+  },
+  {
+    "imageName": "George Eastman.png",
+    "name": "George Eastman",
+    "details": {
+      "field": "Invention/Business (Photography)",
+      "reason": "American entrepreneur who founded Eastman Kodak, popularized roll film, and brought photography to the masses with the Kodak camera ('You press the button, we do the rest'), challenging the exclusivity of early photography."
+    }
+  },
+  {
+    "imageName": "Zeno of Citium.png",
+    "name": "Zeno of Citium",
+    "details": {
+      "field": "Philosophy (Stoicism)",
+      "reason": "Founder of the Stoic school of philosophy in Athens, emphasizing virtue, reason, and living in accordance with nature, offering a challenging ethical framework that valued inner peace over external circumstances."
+    }
+  },
+  {
+    "imageName": "Thurgood Marshall.png",
+    "name": "Thurgood Marshall",
+    "details": {
+      "field": "Law/Civil Rights",
+      "reason": "A brilliant civil rights lawyer who successfully argued Brown v. Board of Education and became the first African American Supreme Court Justice, systematically challenging and dismantling legal segregation."
+    }
+  },
+  {
+    "imageName": "Jomo Kenyatta.png",
+    "name": "Jomo Kenyatta",
+    "details": {
+      "field": "Politics/Leadership",
+      "reason": "A leading figure in Kenya's independence movement against British colonial rule, becoming its first Prime Minister and President."
+    }
+  },
+  {
+    "imageName": "Eleanor Roosevelt.png",
+    "name": "Eleanor Roosevelt",
+    "details": {
+      "field": "Human Rights Advocacy",
+      "reason": "Transformed the role of First Lady, becoming a vocal champion for human rights, civil rights, and social justice globally, instrumental in drafting the Universal Declaration of Human Rights."
+    }
+  },
+  {
+    "imageName": "Eugene V. Debs.png",
+    "name": "Eugene V. Debs",
+    "details": {
+      "field": "Labor Activism/Socialism",
+      "reason": "A prominent American socialist, political activist, trade unionist, and five-time presidential candidate who challenged capitalism, war, and advocated for workers' rights."
+    }
+  },
+  {
+    "imageName": "Michel Foucault.png",
+    "name": "Michel Foucault",
+    "details": {
+      "field": "Philosophy/Social Theory/History",
+      "reason": "French philosopher whose influential work analyzed the relationships between power, knowledge, and discourse, challenging traditional historical narratives and understandings of social institutions like prisons and psychiatry."
+    }
+  },
+  {
+    "imageName": "Charlemagne.png",
+    "name": "Charlemagne",
+    "details": {
+      "field": "Politics/Leadership/Military",
+      "reason": "King of the Franks who united much of Western Europe, was crowned Emperor, and fostered the Carolingian Renaissance, challenging the post-Roman fragmentation and laying foundations for modern Europe."
+    }
+  },
+  {
+    "imageName": "Harriet Beecher Stowe.png",
+    "name": "Harriet Beecher Stowe",
+    "details": {
+      "field": "Literature/Abolitionism",
+      "reason": "Authored 'Uncle Tom's Cabin,' a novel that powerfully exposed the horrors of slavery, galvanized abolitionist sentiment, and profoundly challenged the moral foundations of a nation."
+    }
+  },
+  {
+    "imageName": "Larry Kramer.png",
+    "name": "Larry Kramer",
+    "details": {
+      "field": "Activism (LGBTQ+/AIDS)/Writing",
+      "reason": "Playwright, author, and fiery AIDS activist, co-founder of ACT UP, who relentlessly challenged government inaction and societal indifference during the AIDS crisis through confrontational advocacy."
+    }
+  },
+  {
+    "imageName": "Douglas Engelbart.png",
+    "name": "Douglas Engelbart",
+    "details": {
+      "field": "Computer Science/Invention (Human-Computer Interaction)",
+      "reason": "American engineer and inventor who pioneered human-computer interaction, inventing the computer mouse, hypertext, networked computers, and graphical user interfaces, challenging command-line interfaces and envisioning interactive computing."
+    }
+  },
+  {
+    "imageName": "Woody Guthrie.png",
+    "name": "Woody Guthrie",
+    "details": {
+      "field": "Music (Folk)/Activism",
+      "reason": "American folk singer-songwriter whose politically charged songs ('This Land Is Your Land') gave voice to working-class struggles and social injustices, challenging mainstream narratives and inspiring protest movements."
+    }
+  },
+  {
+    "imageName": "Emmy Noether.png",
+    "name": "Emmy Noether",
+    "details": {
+      "field": "Mathematics",
+      "reason": "Made landmark contributions to abstract algebra and theoretical physics (Noether's Theorem), revolutionizing these fields despite facing significant gender-based barriers in academia."
+    }
+  },
+  {
+    "imageName": "Ignaz Semmelweis.png",
+    "name": "Ignaz Semmelweis",
+    "details": {
+      "field": "Medicine",
+      "reason": "Pioneered antiseptic procedures by advocating for hand-washing in obstetrical clinics, drastically reducing mortality rates despite facing ridicule and opposition from the established medical community."
+    }
+  },
+  {
+    "imageName": "John Coltrane.png",
+    "name": "John Coltrane",
+    "details": {
+      "field": "Music (Jazz)",
+      "reason": "American jazz saxophonist and composer, a leading figure in modal jazz and later avant-garde jazz, whose relentless musical exploration and spiritual intensity challenged the conventions of jazz improvisation and composition."
+    }
+  },
+  {
+    "imageName": "Andreas Vesalius.png",
+    "name": "Andreas Vesalius",
+    "details": {
+      "field": "Anatomy/Medicine",
+      "reason": "Author of 'De humani corporis fabrica,' he revolutionized the study of anatomy through direct human dissection, correcting centuries of Galenic errors and challenging medical dogma."
+    }
+  },
+  {
+    "imageName": "Thomas Sankara.png",
+    "name": "Thomas Sankara",
+    "details": {
+      "field": "Politics/Revolutionary Leadership",
+      "reason": "Revolutionary leader of Burkina Faso, implemented radical social, economic, and environmental reforms, promoting self-sufficiency and challenging neocolonialism and corruption before his assassination."
+    }
+  },
+  {
+    "imageName": "Larry Ellison.png",
+    "name": "Larry Ellison",
+    "details": {
+      "field": "Technology/Business (Software)",
+      "reason": "Co-founder of Oracle Corporation, who built it into a software giant by pioneering relational database management systems, challenging existing data management methods and business models."
+    }
+  },
+  {
+    "imageName": "Robert Crumb.png",
+    "name": "Robert Crumb",
+    "details": {
+      "field": "Comics/Art (Underground Comix)",
+      "reason": "American cartoonist and musician, a seminal figure in the underground comix movement, whose satirical, often controversial and sexually explicit work challenged mainstream comics, censorship, and American cultural norms and hypocrisies."
+    }
+  },
+  {
+    "imageName": "Niels Bohr.png",
+    "name": "Niels Bohr",
+    "details": {
+      "field": "Science (Physics)",
+      "reason": "Made fundamental contributions to understanding atomic structure and quantum theory (Bohr model), challenging classical physics and leading to a new era of physics."
+    }
+  },
+  {
+    "imageName": "Maria Sibylla Merian.png",
+    "name": "Maria Sibylla Merian",
+    "details": {
+      "field": "Science (Entomology/Botany)/Art",
+      "reason": "Pioneering naturalist and scientific illustrator who conducted groundbreaking research on insect metamorphosis, undertaking expeditions to South America and challenging prevailing scientific methods and gender roles in 17th-18th century science. (Note: Merian was in Gen 2, this is a duplicate check test, should be removed if already present)."
+    }
+  },
+  {
+    "imageName": "Estée Lauder.png",
+    "name": "Estée Lauder",
+    "details": {
+      "field": "Business/Cosmetics/Entrepreneurship",
+      "reason": "American businesswoman who co-founded a global cosmetics empire, challenging established beauty companies with innovative marketing strategies (e.g., gift with purchase) and high-quality products, transforming the industry."
+    }
+  },
+  {
+    "imageName": "Arnold Schoenberg.png",
+    "name": "Arnold Schoenberg",
+    "details": {
+      "field": "Music Composition/Theory",
+      "reason": "Austrian composer who developed atonality and the twelve-tone technique, radically challenging and departing from centuries of Western traditional harmony and tonality, a major disruption in 20th-century music."
+    }
+  },
+  {
+    "imageName": "Elie Wiesel.png",
+    "name": "Elie Wiesel",
+    "details": {
+      "field": "Writing/Activism/Holocaust Remembrance",
+      "reason": "Holocaust survivor, Nobel laureate, and author whose writings and activism bore witness to the horrors of the Holocaust, challenging silence, indifference, and advocating for human rights globally."
+    }
+  },
+  {
+    "imageName": "Ferdinand Magellan.png",
+    "name": "Ferdinand Magellan",
+    "details": {
+      "field": "Exploration",
+      "reason": "Led the first European expedition to circumnavigate the Earth (completed by Juan Sebastián Elcano), proving the world was round and dramatically expanding geographical knowledge and challenging flat-Earth theories."
+    }
+  },
+  {
+    "imageName": "Flora Tristan.png",
+    "name": "Flora Tristan",
+    "details": {
+      "field": "Feminism/Socialism/Writing",
+      "reason": "French-Peruvian socialist writer and activist, an early pioneer of feminism who linked the oppression of women to the exploitation of the working class, challenging both patriarchal and capitalist structures."
+    }
+  },
+  {
+    "imageName": "Althea Gibson.png",
+    "name": "Althea Gibson",
+    "details": {
+      "field": "Sports (Tennis/Golf)",
+      "reason": "The first African American to win a Grand Slam tennis title (French Championships, 1956) and later the first Black player to compete on the Women's Professional Golf Tour, challenging racial segregation in elite sports."
+    }
+  },
+  {
+    "imageName": "Coco Chanel (Gabrielle Bonheur Chanel).png",
+    "name": "Coco Chanel (Gabrielle Bonheur Chanel)",
+    "details": {
+      "field": "Fashion Design/Business",
+      "reason": "Revolutionized women's fashion by liberating them from corsets and popularizing comfortable, casual chic designs (like the little black dress and Chanel suit), challenging restrictive Edwardian styles and redefining modern femininity."
+    }
+  },
+  {
+    "imageName": "Jackson Pollock.png",
+    "name": "Jackson Pollock",
+    "details": {
+      "field": "Art (Abstract Expressionism)",
+      "reason": "American painter, a major figure in the Abstract Expressionist movement, whose 'drip painting' technique radically challenged traditional notions of composition, brushwork, and artistic process."
+    }
+  },
+  {
+    "imageName": "Queen Boudica.png",
+    "name": "Queen Boudica",
+    "details": {
+      "field": "Politics/Leadership",
+      "reason": "Led a major uprising of Celtic Iceni tribes against the occupying forces of the Roman Empire in Britain, becoming a symbol of resistance."
+    }
+  },
+  {
+    "imageName": "Jack Kerouac.png",
+    "name": "Jack Kerouac",
+    "details": {
+      "field": "Literature/Writing",
+      "reason": "American novelist and poet, a leading figure of the Beat Generation, whose novel 'On the Road' with its spontaneous prose and themes of freedom and nonconformity challenged literary conventions and post-war American values."
+    }
+  },
+  {
+    "imageName": "Hannah Arendt.png",
+    "name": "Hannah Arendt",
+    "details": {
+      "field": "Political Theory/Philosophy",
+      "reason": "German-born political theorist whose works on totalitarianism, power, and the 'banality of evil' provided profound and often unsettling analyses of modern political life, challenging conventional understandings."
+    }
+  },
+  {
+    "imageName": "Leo Szilard.png",
+    "name": "Leo Szilard",
+    "details": {
+      "field": "Physics/Biophysics/Activism",
+      "reason": "Hungarian-American physicist who conceived the nuclear chain reaction, co-patented the nuclear reactor, and later became a vocal advocate for nuclear arms control, challenging the military applications of his own discoveries."
+    }
+  },
+  {
+    "imageName": "Gerty Cori (née Radnitz).png",
+    "name": "Gerty Cori (née Radnitz)",
+    "details": {
+      "field": "Biochemistry",
+      "reason": "Austrian-American biochemist who became the third woman—and first American woman—to win a Nobel Prize in science (Physiology or Medicine, 1947) for her discovery of glycogen metabolism (the Cori cycle), challenging gender barriers in scientific research."
+    }
+  },
+  {
+    "imageName": "Susan B. Anthony.png",
+    "name": "Susan B. Anthony",
+    "details": {
+      "field": "Suffragette Movement",
+      "reason": "A tireless and often controversial advocate for women's suffrage in the US, challenging legal and social barriers for decades."
+    }
+  },
+  {
+    "imageName": "Antoine Lavoisier.png",
+    "name": "Antoine Lavoisier",
+    "details": {
+      "field": "Chemistry",
+      "reason": "French chemist considered the 'father of modern chemistry,' he identified oxygen and hydrogen, disproved the phlogiston theory, and introduced chemical nomenclature, challenging and overthrowing outdated chemical theories."
+    }
+  },
+  {
+    "imageName": "James Joyce.png",
+    "name": "James Joyce",
+    "details": {
+      "field": "Literature",
+      "reason": "A groundbreaking modernist writer whose experimental novel 'Ulysses' pushed the boundaries of language, narrative structure, and censorship, forever changing literature."
+    }
+  },
+  {
+    "imageName": "Merce Cunningham.png",
+    "name": "Merce Cunningham",
+    "details": {
+      "field": "Dance/Choreography",
+      "reason": "American dancer and choreographer who revolutionized modern dance by embracing chance operations, separating dance from music, and challenging narrative and emotional expression in favor of pure movement."
+    }
+  },
+  {
+    "imageName": "Felix Guattari.png",
+    "name": "Felix Guattari",
+    "details": {
+      "field": "Psychoanalysis/Philosophy/Activism",
+      "reason": "French psychoanalyst, philosopher, and activist who, often in collaboration with Gilles Deleuze (e.g., 'Anti-Oedipus'), challenged traditional psychoanalysis, psychiatry, and capitalist structures, advocating for schizoanalysis and micropolitics."
+    }
+  },
+  {
+    "imageName": "Frank Gehry.png",
+    "name": "Frank Gehry",
+    "details": {
+      "field": "Architecture",
+      "reason": "Canadian-American architect renowned for his distinctive deconstructivist style (e.g., Guggenheim Museum Bilbao), using unconventional materials and sculptural forms that challenge traditional architectural aesthetics and engineering."
+    }
+  },
+  {
+    "imageName": "Marcel Duchamp.png",
+    "name": "Marcel Duchamp",
+    "details": {
+      "field": "Art (Dadaism/Conceptual Art)",
+      "reason": "A highly influential artist whose 'readymades' (like 'Fountain') and conceptual approach radically challenged established notions of art, authorship, and aesthetic value, paving the way for conceptual art."
+    }
+  },
+  {
+    "imageName": "Antonio Gramsci.png",
+    "name": "Antonio Gramsci",
+    "details": {
+      "field": "Marxist Philosophy/Political Theory",
+      "reason": "Italian Marxist philosopher and politician whose concept of cultural hegemony challenged economistic interpretations of Marxism, analyzing how ruling classes maintain power through consent and ideology; wrote 'Prison Notebooks' while imprisoned by fascists."
+    }
+  },
+  {
+    "imageName": "Linus Torvalds.png",
+    "name": "Linus Torvalds",
+    "details": {
+      "field": "Computer Science (Software Engineering)",
+      "reason": "Finnish-American software engineer who created the Linux kernel, a cornerstone of open-source software that challenged the dominance of proprietary operating systems like Windows and Unix."
+    }
+  },
+  {
+    "imageName": "John Maynard Keynes.png",
+    "name": "John Maynard Keynes",
+    "details": {
+      "field": "Economics",
+      "reason": "British economist whose theories (Keynesian economics) revolutionized macroeconomic thought by advocating for government intervention to mitigate recessions and depressions, fundamentally challenging the classical laissez-faire consensus during the Great Depression."
+    }
+  },
+  {
+    "imageName": "Vannevar Bush.png",
+    "name": "Vannevar Bush",
+    "details": {
+      "field": "Engineering/Science Administration/Invention",
+      "reason": "American engineer and science administrator who conceptualized the Memex (a forerunner to hypertext), headed U.S. scientific research during WWII (Manhattan Project oversight), and challenged how information could be accessed and organized."
+    }
+  },
+  {
+    "imageName": "Erasmus of Rotterdam.png",
+    "name": "Erasmus of Rotterdam",
+    "details": {
+      "field": "Humanism/Theology/Scholarship",
+      "reason": "Dutch humanist scholar whose critical editions of the New Testament and satirical writings ('In Praise of Folly') challenged Church corruption and scholasticism, advocating for reform."
+    }
+  },
+  {
+    "imageName": "George Stephenson.png",
+    "name": "George Stephenson",
+    "details": {
+      "field": "Engineering (Railways)",
+      "reason": "English civil and mechanical engineer, acclaimed as the 'Father of Railways,' who pioneered railway technology (e.g., Locomotion No. 1, Rocket), challenging existing transportation methods and ushering in the railway age."
+    }
+  },
+  {
+    "imageName": "Pussy Riot.png",
+    "name": "Pussy Riot",
+    "details": {
+      "field": "Art/Activism/Music (Punk Rock)",
+      "reason": "Russian feminist protest art collective whose provocative, unauthorized punk rock performances in public spaces challenge Vladimir Putin's government, the Orthodox Church's influence, and patriarchal norms, often resulting in arrests and imprisonment."
+    }
+  },
+  {
+    "imageName": "Stokely Carmichael (Kwame Ture).png",
+    "name": "Stokely Carmichael (Kwame Ture)",
+    "details": {
+      "field": "Civil Rights Activism",
+      "reason": "A prominent figure in the U.S. Civil Rights Movement and later the global Pan-African movement, he popularized the term 'Black Power,' challenging integrationist strategies and advocating for Black self-determination."
+    }
+  },
+  {
+    "imageName": "Le Corbusier (Charles-Édouard Jeanneret).png",
+    "name": "Le Corbusier (Charles-Édouard Jeanneret)",
+    "details": {
+      "field": "Architecture/Urban Planning/Design",
+      "reason": "Swiss-French architect, a pioneer of modern architecture, whose radical designs, urban planning theories ('Radiant City'), and influential writings profoundly challenged traditional architectural styles and urban forms, though often controversially."
+    }
+  },
+  {
+    "imageName": "George Washington Carver.png",
+    "name": "George Washington Carver",
+    "details": {
+      "field": "Agricultural Science/Invention",
+      "reason": "Promoted alternative crops to cotton and developed hundreds of uses for crops like peanuts and soybeans, challenging Southern agricultural dependence and promoting self-sufficiency for Black farmers."
+    }
+  },
+  {
+    "imageName": "Ludwig Wittgenstein.png",
+    "name": "Ludwig Wittgenstein",
+    "details": {
+      "field": "Philosophy",
+      "reason": "Austrian-British philosopher whose work, in both its early ('Tractatus Logico-Philosophicus') and later phases, revolutionized philosophy of language, logic, and mind, challenging traditional philosophical problems and methods."
+    }
+  },
+  {
+    "imageName": "Édouard Manet.png",
+    "name": "Édouard Manet",
+    "details": {
+      "field": "Art (Impressionism/Realism)",
+      "reason": "French modernist painter whose works like 'Le Déjeuner sur l'herbe' and 'Olympia' scandalized the art world by challenging traditional subject matter, techniques, and academic Salon standards, paving the way for Impressionism."
+    }
+  },
+  {
+    "imageName": "Martin Luther.png",
+    "name": "Martin Luther",
+    "details": {
+      "field": "Theology/Reformation",
+      "reason": "A German theologian whose 95 Theses sparked the Protestant Reformation, profoundly challenging the authority and doctrines of the Catholic Church and reshaping Western Christianity and society."
+    }
+  },
+  {
+    "imageName": "Wolfgang Pauli.png",
+    "name": "Wolfgang Pauli",
+    "details": {
+      "field": "Physics (Theoretical)",
+      "reason": "Austrian theoretical physicist, a pioneer of quantum physics, known for the Pauli exclusion principle and the hypothesis of the neutrino, challenging and refining the understanding of atomic structure and particle physics."
+    }
+  },
+  {
+    "imageName": "Wassily Kandinsky.png",
+    "name": "Wassily Kandinsky",
+    "details": {
+      "field": "Art (Abstract Art)",
+      "reason": "Russian painter and art theorist credited as a pioneer of abstract art, his work broke from representational traditions to explore the spiritual and emotional power of color and form, challenging the foundations of Western art."
+    }
+  },
+  {
+    "imageName": "James Baldwin.png",
+    "name": "James Baldwin",
+    "details": {
+      "field": "Literature/Activism",
+      "reason": "An essayist, novelist, and playwright whose eloquent and passionate writings explored race, sexuality, and class in America, challenging deeply ingrained prejudices and advocating for equality."
+    }
+  },
+  {
+    "imageName": "Pablo Picasso.png",
+    "name": "Pablo Picasso",
+    "details": {
+      "field": "Arts (Painting/Sculpture)",
+      "reason": "Co-founded Cubism, radically shattering traditional forms of artistic representation and profoundly influencing the course of 20th-century art."
+    }
+  },
+  {
+    "imageName": "Clara Zetkin.png",
+    "name": "Clara Zetkin",
+    "details": {
+      "field": "Feminism/Socialism/Activism",
+      "reason": "German Marxist theorist, activist, and advocate for women's rights, instrumental in establishing International Women's Day, challenging both capitalism and patriarchal structures within the socialist movement."
+    }
+  },
+  {
+    "imageName": "Toussaint Louverture.png",
+    "name": "Toussaint Louverture",
+    "details": {
+      "field": "Politics/Leadership",
+      "reason": "Led the Haitian Revolution, the only successful slave revolt leading to an independent nation, profoundly challenging slavery and colonialism."
+    }
+  },
+  {
+    "imageName": "Julian Assange.png",
+    "name": "Julian Assange",
+    "details": {
+      "field": "Journalism/Activism/Publishing (WikiLeaks)",
+      "reason": "Australian editor, publisher, and activist, founder of WikiLeaks, which published classified government and corporate documents, challenging state secrecy, promoting transparency, and becoming a highly controversial 'menace' to powerful institutions."
+    }
+  },
+  {
+    "imageName": "Ai Weiwei.png",
+    "name": "Ai Weiwei",
+    "details": {
+      "field": "Art/Activism",
+      "reason": "A contemporary Chinese artist and activist whose provocative works and outspoken criticism of the Chinese government challenge censorship, authoritarianism, and advocate for human rights and free expression."
+    }
+  },
+  {
+    "imageName": "John Brown.png",
+    "name": "John Brown",
+    "details": {
+      "field": "Abolitionism",
+      "reason": "A militant abolitionist who believed in armed insurrection to overthrow slavery, his raid on Harpers Ferry dramatically escalated tensions, challenging the institution of slavery through direct action."
+    }
+  },
+  {
+    "imageName": "Andrew Taylor Still.png",
+    "name": "Andrew Taylor Still",
+    "details": {
+      "field": "Medicine (Osteopathy)",
+      "reason": "American physician who founded osteopathy, emphasizing the musculoskeletal system's role in health and the body's inherent ability to heal, challenging conventional medical approaches and advocating for drugless, manipulative therapies."
+    }
+  },
+  {
+    "imageName": "Elizabeth Fry.png",
+    "name": "Elizabeth Fry",
+    "details": {
+      "field": "Prison Reform/Social Reform",
+      "reason": "English Quaker minister and social reformer who passionately advocated for more humane conditions for prisoners, especially women and children, challenging the brutal and neglectful prison systems of her time."
+    }
+  },
+  {
+    "imageName": "Vaclav Havel.png",
+    "name": "Vaclav Havel",
+    "details": {
+      "field": "Politics/Activism/Writing",
+      "reason": "A dissident playwright who became president, leading Czechoslovakia's non-violent Velvet Revolution against communist rule."
+    }
+  },
+  {
+    "imageName": "Andrei Tarkovsky.png",
+    "name": "Andrei Tarkovsky",
+    "details": {
+      "field": "Film Direction/Screenwriting",
+      "reason": "Soviet filmmaker renowned for his visually poetic, metaphysical films characterized by long takes, spiritual themes, and dreamlike atmospheres, challenging conventional narrative cinema and Soviet artistic constraints."
+    }
+  },
+  {
+    "imageName": "Olympe de Gouges.png",
+    "name": "Olympe de Gouges",
+    "details": {
+      "field": "Feminism/Writing/Activism",
+      "reason": "French playwright and political activist whose 'Declaration of the Rights of Woman and the Female Citizen' (1791) challenged male authority and gender inequality during the French Revolution, ultimately leading to her execution."
+    }
+  },
+  {
+    "imageName": "Nicolaus Copernicus.png",
+    "name": "Nicolaus Copernicus",
+    "details": {
+      "field": "Science (Astronomy)",
+      "reason": "Proposed the heliocentric model of the universe in his book 'De revolutionibus orbium coelestium,' fundamentally shifting humanity's understanding of its place in the cosmos and challenging centuries of dogma."
+    }
+  },
+  {
+    "imageName": "Steve Jobs.png",
+    "name": "Steve Jobs",
+    "details": {
+      "field": "Technology/Business/Innovation",
+      "reason": "Co-founder of Apple Inc., relentlessly challenged the status quo in personal computing, music, and mobile devices, transforming industries and user experience with visionary products."
+    }
+  },
+  {
+    "imageName": "Grace Hopper.png",
+    "name": "Grace Hopper",
+    "details": {
+      "field": "Computer Science/Military",
+      "reason": "A pioneering computer scientist and U.S. Navy rear admiral who developed the first compiler and was instrumental in creating COBOL, challenging early computing norms and making programming more accessible."
+    }
+  },
+  {
+    "imageName": "William Wilberforce.png",
+    "name": "William Wilberforce",
+    "details": {
+      "field": "Social Reform/Politics",
+      "reason": "Led the parliamentary campaign in Britain to abolish the slave trade and later slavery itself in the British Empire, challenging powerful economic interests and prevailing social norms."
+    }
+  },
+  {
+    "imageName": "Avicenna (Ibn Sina).png",
+    "name": "Avicenna (Ibn Sina)",
+    "details": {
+      "field": "Philosophy/Medicine/Science",
+      "reason": "Persian polymath whose 'The Canon of Medicine' was a standard medical text for centuries in Europe and the Islamic world, integrating and advancing medical knowledge and challenging earlier practices."
+    }
+  },
+  {
+    "imageName": "James McNeill Whistler.png",
+    "name": "James McNeill Whistler",
+    "details": {
+      "field": "Art (Painting)",
+      "reason": "American-born, British-based artist who championed 'art for art's sake,' famously challenging art critic John Ruskin in a libel suit, defending artistic freedom and challenging Victorian moralistic views of art."
+    }
+  },
+  {
+    "imageName": "George Orwell (Eric Blair).png",
+    "name": "George Orwell (Eric Blair)",
+    "details": {
+      "field": "Literature/Journalism",
+      "reason": "Author of dystopian novel 'Nineteen Eighty-Four' and allegorical novella 'Animal Farm,' his works are powerful critiques of totalitarianism, surveillance, and political deceit, challenging authoritarian tendencies."
+    }
+  },
+  {
+    "imageName": "David Hume.png",
+    "name": "David Hume",
+    "details": {
+      "field": "Philosophy/History",
+      "reason": "Scottish Enlightenment philosopher and historian whose empiricism and skepticism regarding induction, causality, and religious miracles profoundly challenged rationalism, religious dogma, and traditional metaphysics."
+    }
+  },
+  {
+    "imageName": "Zheng He.png",
+    "name": "Zheng He",
+    "details": {
+      "field": "Exploration/Diplomacy",
+      "reason": "Chinese admiral and explorer who led seven massive Ming treasure fleet voyages across the Indian Ocean, showcasing China's maritime power and expanding its influence, challenging regional power balances."
+    }
+  },
+  {
+    "imageName": "Hedy Lamarr.png",
+    "name": "Hedy Lamarr",
+    "details": {
+      "field": "Invention/Acting",
+      "reason": "Austrian-American actress and inventor who, during WWII, co-developed a frequency-hopping spread-spectrum communication system (a precursor to Wi-Fi and Bluetooth), challenging expectations for women in both Hollywood and technology."
+    }
+  },
+  {
+    "imageName": "Lech Wałęsa.png",
+    "name": "Lech Wałęsa",
+    "details": {
+      "field": "Politics/Activism",
+      "reason": "Co-founded and led the Solidarity movement in Poland, challenging communist authority and paving the way for democratic change in Eastern Europe."
+    }
+  },
+  {
+    "imageName": "Jane Addams.png",
+    "name": "Jane Addams",
+    "details": {
+      "field": "Social Reform/Activism/Sociology",
+      "reason": "Co-founder of Hull House in Chicago, a pioneer in social work, pacifism, and women's suffrage, challenging societal neglect of the urban poor, immigrants, and advocating for progressive reforms."
+    }
+  },
+  {
+    "imageName": "Geronimo (Goyaałé).png",
+    "name": "Geronimo (Goyaałé)",
+    "details": {
+      "field": "Leadership/Indigenous Resistance",
+      "reason": "Bedonkohe Apache leader who fiercely resisted U.S. and Mexican expansion into Apache lands for decades through guerrilla warfare, becoming a symbol of Native American defiance and challenging military forces."
+    }
+  },
+  {
+    "imageName": "Walter Benjamin.png",
+    "name": "Walter Benjamin",
+    "details": {
+      "field": "Philosophy/Cultural Criticism/Literary Theory",
+      "reason": "German Jewish philosopher and cultural critic associated with the Frankfurt School, whose eclectic writings on art, history, and modernity (e.g., 'The Work of Art in the Age of Mechanical Reproduction') challenged conventional historical narratives and understandings of culture."
+    }
+  },
+  {
+    "imageName": "Émile Durkheim.png",
+    "name": "Émile Durkheim",
+    "details": {
+      "field": "Sociology",
+      "reason": "French sociologist who formally established sociology as an academic discipline, his influential work on social facts, solidarity, anomie, and suicide challenged purely individualistic explanations of human behavior and social phenomena."
+    }
+  },
+  {
+    "imageName": "Shih-Liang Chien.png",
+    "name": "Shih-Liang Chien",
+    "details": {
+      "field": "Education/Science Administration",
+      "reason": "Influential Taiwanese chemist and educator who served as President of National Taiwan University and Academia Sinica, significantly shaping Taiwan's higher education and scientific development, challenging post-war limitations and fostering academic excellence."
+    }
+  },
+  {
+    "imageName": "Lucy Stone.png",
+    "name": "Lucy Stone",
+    "details": {
+      "field": "Abolitionism/Suffragist Movement",
+      "reason": "A prominent abolitionist and suffragist who defied convention by keeping her maiden name after marriage, challenging patriarchal naming customs and tirelessly advocating for equal rights."
+    }
+  },
+  {
+    "imageName": "Dian Fossey.png",
+    "name": "Dian Fossey",
+    "details": {
+      "field": "Primatology/Conservation",
+      "reason": "American primatologist whose extensive study of mountain gorillas in Rwanda and militant anti-poaching activism challenged indifference to their plight and conventional conservation methods, leading to her murder."
+    }
+  }
+]
