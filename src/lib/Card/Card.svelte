@@ -76,6 +76,10 @@
   ></div>
 
   <SvgTemplate />
+  <div
+    class="w-full h-full absolute"
+    style={`background: url("/people/Abdus Salam.png") 50% 0% / cover;`}
+  ></div>
 </div>
 
 <style>
