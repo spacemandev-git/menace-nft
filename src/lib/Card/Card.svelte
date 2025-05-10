@@ -8,8 +8,25 @@
   };
 </script>
 
-<div class="w-[500px] h-[700px] relative">
+<div class="w-[500px] h-[700px] relative font-jersey overflow-clip rounded-xl">
   <span class="absolute vertical-text"> GEORGE WASHINGTON</span>
+
+  <div
+    class="absolute top-[1.3rem] right-[2rem] w-fit h-[71px] flex justify-center text-white flex-col"
+  >
+    <span class="text-4xl"> menace </span>
+    <span>to society</span>
+  </div>
+  <div
+    class="absolute bottom-[1.3rem] left-[6rem] w-[294px] h-[71px] flex items-center"
+  >
+    <span class=" desc-text">
+      Led the American Revolution against colonial rule, establishing a new
+      nation based on republican ideals, challenging established monarchical
+      systems.
+    </span>
+  </div>
+
   <SvgTemplate />
 </div>
 
@@ -19,14 +36,19 @@
     text-orientation: sideways;
     display: flex;
     flex-direction: column;
-    justify-content: flex-end; /* Align last character to the bottom */
     height: 100%; /* or a fixed height like 300px */
-    font-family: "Jersey 10", sans-serif;
 
     top: 3.5rem;
     left: -0.9rem;
     font-size: 3.5rem;
     color: white;
     padding: 1rem 0;
+  }
+
+  .desc-text {
+    color: white;
+    bottom: 1rem;
+    width: 294px;
+    left: 6rem;
   }
 </style>
