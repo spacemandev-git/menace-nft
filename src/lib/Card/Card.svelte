@@ -70,7 +70,7 @@
   <div
     class="absolute bottom-[1.3rem] left-[6rem] w-[294px] h-[71px] flex items-center"
   >
-    <span class=" desc-text">
+    <span class="desc-text">
       {card.details?.reason}
     </span>
   </div>
