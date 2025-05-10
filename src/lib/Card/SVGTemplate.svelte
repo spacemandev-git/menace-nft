@@ -118,6 +118,7 @@
     <clipPath id="clip0_12_50">
       <rect width="500" height="700" fill="white" />
     </clipPath>
+    {#key imgUrl}
     <image
       id="image0_12_50"
       width="1024"
@@ -125,5 +126,6 @@
       preserveAspectRatio="none"
       xlink:href={imgUrl}
     />
+    {/key}
   </defs>
 </svg>
