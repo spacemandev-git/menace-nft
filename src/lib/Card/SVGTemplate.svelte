@@ -1,8 +1,9 @@
 <script lang="ts">
+  const yellow = "#FFDD35"
   const purple = "#B9019B";
 
   const options = {
-    color: purple,
+    color: yellow,
   };
 </script>
 

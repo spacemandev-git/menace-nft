@@ -1,6 +1,8 @@
 <script lang="ts">
   import VanillaTilt from "vanilla-tilt";
   import { onMount } from "svelte";
+  import SvgTemplate from "./SVGTemplate.svelte";
+  import CIconCrown from "$lib/card-icons/CIcon_Crown.svelte";
 
   let tiltRef: HTMLElement | null = $state(null);
 
@@ -14,19 +16,15 @@
       });
     }
   });
-  import SvgTemplate from "./SVGTemplate.svelte";
-
-  const purple = "#B9019B";
-
-  const options = {
-    color: purple,
-  };
 </script>
 
 <div
   bind:this={tiltRef}
   class="w-[500px] h-[700px] relative font-jersey overflow-clip rounded-xl scale-90 hover:scale-100 transition-all"
 >
+  <span class="absolute top-2 left-[0.5rem] w-[40px]">
+    <CIconCrown />
+  </span>
   <span class="absolute vertical-text"> GEORGE WASHINGTON</span>
 
   <div
