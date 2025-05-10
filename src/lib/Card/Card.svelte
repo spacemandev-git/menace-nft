@@ -3,6 +3,34 @@
   import { onMount } from "svelte";
   import SvgTemplate from "./SVGTemplate.svelte";
   import CIconCrown from "$lib/card-icons/CIcon_Crown.svelte";
+  import QRCodeStyling from "qr-code-styling";
+  import { base } from "$app/paths";
+
+  let qrCode;
+  let qrRef;
+
+  const qrCodeOptions = {
+    width: 90,
+    height: 90,
+    data: "https://menace.finance/claim/1",
+    image: base + "icons/gift.svg", // path to your center icon
+    dotsOptions: {
+      color: "#000",
+      type: "rounded",
+    },
+    backgroundOptions: {
+      color: "#fff",
+    },
+    imageOptions: {
+      crossOrigin: "anonymous",
+      margin: 5,
+    },
+  };
+
+  onMount(() => {
+    qrCode = new QRCodeStyling(qrCodeOptions);
+    qrCode.append(qrRef);
+  });
 
   let tiltRef: HTMLElement | null = $state(null);
 
@@ -42,6 +70,7 @@
       systems.
     </span>
   </div>
+  <div class="absolute bottom-[0.5rem] right-[0.85rem]" bind:this={qrRef}></div>
 
   <SvgTemplate />
 </div>
