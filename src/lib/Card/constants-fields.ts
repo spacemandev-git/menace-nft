@@ -6,170 +6,48 @@ export interface FieldCategory {
   label: string; // Display name for the category
 }
 
-// Main categories mapped to their visual representation
+// Main categories mapped to their visual representation - simplified to 6 main categories
 export const FIELD_CATEGORIES: Record<string, FieldCategory> = {
-  Art: { color: "#db2777", icon: "PaintBrushIcon", label: "Art" },
-  Dance: { color: "#f472b6", icon: "MusicalNoteIcon", label: "Dance" },
-  Film: { color: "#9d174d", icon: "FilmIcon", label: "Film" },
-  Music: { color: "#9333ea", icon: "MusicalNoteIcon", label: "Music" },
-  Photography: { color: "#f9a8d4", icon: "CameraIcon", label: "Photography" },
-  Theatre: { color: "#a21caf", icon: "TicketIcon", label: "Theatre" },
-  Literature: { color: "#4f46e5", icon: "BookOpenIcon", label: "Literature" },
-  Poetry: { color: "#818cf8", icon: "PencilIcon", label: "Poetry" },
-  Architecture: {
-    color: "#d97706",
-    icon: "HomeModernIcon",
-    label: "Architecture",
-  },
-  Design: { color: "#ec4899", icon: "SwatchIcon", label: "Design" },
-
-  Science: { color: "#0284c7", icon: "BeakerIcon", label: "Science" },
-  Astronomy: { color: "#0f172a", icon: "SparklesIcon", label: "Astronomy" },
-  Biology: { color: "#16a34a", icon: "LeafIcon", label: "Biology" },
-  Chemistry: { color: "#0d9488", icon: "BeakerIcon", label: "Chemistry" },
-  Physics: { color: "#1d4ed8", icon: "AtomIcon", label: "Physics" },
-  Mathematics: {
-    color: "#0e7490",
-    icon: "CalculatorIcon",
-    label: "Mathematics",
-  },
-  "Computer Science": {
-    color: "#0369a1",
-    icon: "ComputerDesktopIcon",
-    label: "Computer Science",
-  },
-  Technology: { color: "#2563eb", icon: "CpuChipIcon", label: "Technology" },
-  Engineering: {
-    color: "#ca8a04",
-    icon: "WrenchScrewdriverIcon",
-    label: "Engineering",
-  },
-  Invention: { color: "#f59e0b", icon: "LightBulbIcon", label: "Invention" },
-
-  Philosophy: {
-    color: "#3730a3",
-    icon: "AcademicCapIcon",
-    label: "Philosophy",
-  },
-  Psychology: { color: "#7c3aed", icon: "BrainIcon", label: "Psychology" },
-  Sociology: { color: "#6366f1", icon: "UsersIcon", label: "Sociology" },
-  Anthropology: {
-    color: "#b45309",
-    icon: "UserGroupIcon",
-    label: "Anthropology",
-  },
-  Economics: {
-    color: "#047857",
-    icon: "CurrencyDollarIcon",
-    label: "Economics",
-  },
-  "Political Science": {
-    color: "#1e40af",
-    icon: "BuildingLibraryIcon",
-    label: "Political Science",
-  },
-  History: { color: "#44403c", icon: "ClockIcon", label: "History" },
-  Archaeology: {
-    color: "#92400e",
-    icon: "ArchiveBoxIcon",
-    label: "Archaeology",
+  // Category 1: Arts & Humanities
+  "Arts & Humanities": {
+    color: "#4f46e5",
+    icon: "PaintBrushIcon",
+    label: "Arts & Humanities",
   },
 
-  Medicine: { color: "#dc2626", icon: "HeartIcon", label: "Medicine" },
-  Nursing: { color: "#f87171", icon: "UserIcon", label: "Nursing" },
-  Surgery: { color: "#991b1b", icon: "ScissorsIcon", label: "Surgery" },
-  Physiology: { color: "#ea580c", icon: "VariableIcon", label: "Physiology" },
-  Immunology: {
-    color: "#22c55e",
-    icon: "ShieldCheckIcon",
-    label: "Immunology",
+  // Category 2: Science & Technology
+  "Science & Technology": {
+    color: "#FB7D39",
+    icon: "BeakerIcon",
+    label: "Science & Technology",
   },
 
-  Politics: { color: "#1e3a8a", icon: "BuildingOfficeIcon", label: "Politics" },
-  Activism: { color: "#ef4444", icon: "MegaphoneIcon", label: "Activism" },
-  Leadership: { color: "#6b21a8", icon: "UserCircleIcon", label: "Leadership" },
-  "Civil Rights": {
-    color: "#6d28d9",
-    icon: "ScaleIcon",
-    label: "Civil Rights",
-  },
-  Labor: { color: "#c2410c", icon: "BriefcaseIcon", label: "Labor" },
-  "Social Reform": {
-    color: "#e11d48",
-    icon: "ArrowPathIcon",
-    label: "Social Reform",
-  },
-  Feminism: { color: "#c026d3", icon: "HeartIcon", label: "Feminism" },
-  "Indigenous Rights": {
-    color: "#9a3412",
-    icon: "GlobeAmericasIcon",
-    label: "Indigenous Rights",
+  // Category 3: Politics & Leadership
+  "Politics & Leadership": {
+    color: "#ECC30B",
+    icon: "BuildingOfficeIcon",
+    label: "Politics & Leadership",
   },
 
-  Religion: { color: "#7e22ce", icon: "BookmarkIcon", label: "Religion" },
-  Theology: { color: "#4338ca", icon: "BookOpenIcon", label: "Theology" },
-  "Spiritual Leadership": {
-    color: "#9333ea",
-    icon: "StarIcon",
-    label: "Spiritual Leadership",
-  },
-  "Religious Reform": {
-    color: "#5b21b6",
-    icon: "ArrowUturnRightIcon",
-    label: "Religious Reform",
-  },
-
-  Business: {
+  // Category 4: Business & Innovation
+  "Business & Innovation": {
     color: "#059669",
-    icon: "BuildingOffice2Icon",
-    label: "Business",
-  },
-  Industry: {
-    color: "#3f3f46",
-    icon: "BuildingStorefrontIcon",
-    label: "Industry",
-  },
-  Entrepreneurship: {
-    color: "#10b981",
-    icon: "RocketLaunchIcon",
-    label: "Entrepreneurship",
+    icon: "LightBulbIcon",
+    label: "Business & Innovation",
   },
 
-  Exploration: {
-    color: "#155e75",
+  // Category 5: Medicine & Health
+  "Medicine & Health": {
+    color: "#dc2626",
+    icon: "HeartIcon",
+    label: "Medicine & Health",
+  },
+
+  // Category 6: Exploration & Environment
+  "Exploration & Environment": {
+    color: "#0FA3B1",
     icon: "GlobeEuropeAfricaIcon",
-    label: "Exploration",
-  },
-  Conservation: { color: "#15803d", icon: "TreeIcon", label: "Conservation" },
-  Environmental: {
-    color: "#16a34a",
-    icon: "CloudIcon",
-    label: "Environmental",
-  },
-
-  Sports: { color: "#65a30d", icon: "TrophyIcon", label: "Sports" },
-
-  Military: {
-    color: "#374151",
-    icon: "ShieldExclamationIcon",
-    label: "Military",
-  },
-
-  Law: { color: "#1f2937", icon: "ScaleIcon", label: "Law" },
-  Education: { color: "#a16207", icon: "AcademicCapIcon", label: "Education" },
-  Journalism: { color: "#475569", icon: "NewspaperIcon", label: "Journalism" },
-  Writing: { color: "#6366f1", icon: "PencilSquareIcon", label: "Writing" },
-  Agriculture: { color: "#713f12", icon: "SunIcon", label: "Agriculture" },
-  Diplomacy: {
-    color: "#64748b",
-    icon: "ChatBubbleLeftRightIcon",
-    label: "Diplomacy",
-  },
-  Intelligence: { color: "#4b5563", icon: "EyeIcon", label: "Intelligence" },
-  Whistleblowing: {
-    color: "#b91c1c",
-    icon: "BellAlertIcon",
-    label: "Whistleblowing",
+    label: "Exploration & Environment",
   },
 };
 
@@ -181,7 +59,7 @@ export const FIELD_CATEGORIES: Record<string, FieldCategory> = {
 export function getFieldCategory(fieldArea: string): FieldCategory {
   // Default fallback category
   const defaultCategory: FieldCategory = {
-    color: "bg-gray-500",
+    color: "#808080",
     icon: "QuestionMarkCircleIcon",
     label: "Other",
   };
@@ -193,88 +71,150 @@ export function getFieldCategory(fieldArea: string): FieldCategory {
     return FIELD_CATEGORIES[fieldArea];
   }
 
-  // Split compound fields (e.g., "Philosophy/Mathematics")
-  const fields = fieldArea.split("/");
-
-  // Try to find the first part that matches a category
-  for (const field of fields) {
-    const cleanField = field.trim();
-    if (FIELD_CATEGORIES[cleanField]) {
-      return FIELD_CATEGORIES[cleanField];
-    }
-
-    // Look for a category that contains this field
-    for (const [key, value] of Object.entries(FIELD_CATEGORIES)) {
-      if (cleanField.includes(key) || key.includes(cleanField)) {
-        return value;
-      }
-    }
-  }
-
-  // If nothing specific was found, look for common keywords
+  // If nothing specific was found, categorize based on field
   const fieldLower = fieldArea.toLowerCase();
 
-  // Check for subcategories using partial matches
-  if (fieldLower.includes("art") || fieldLower.includes("paint")) {
-    return FIELD_CATEGORIES["Art"];
-  } else if (fieldLower.includes("music") || fieldLower.includes("compos")) {
-    return FIELD_CATEGORIES["Music"];
-  } else if (fieldLower.includes("film") || fieldLower.includes("cinema")) {
-    return FIELD_CATEGORIES["Film"];
-  } else if (
+  // Arts & Humanities
+  if (
+    fieldLower.includes("art") ||
+    fieldLower.includes("danc") ||
+    fieldLower.includes("film") ||
+    fieldLower.includes("music") ||
+    fieldLower.includes("photo") ||
+    fieldLower.includes("theatre") ||
+    fieldLower.includes("theater") ||
     fieldLower.includes("liter") ||
+    fieldLower.includes("poetry") ||
     fieldLower.includes("writ") ||
-    fieldLower.includes("poet")
+    fieldLower.includes("poet") ||
+    fieldLower.includes("philo") ||
+    fieldLower.includes("history") ||
+    fieldLower.includes("archaeolog") ||
+    fieldLower.includes("anthro") ||
+    fieldLower.includes("socio") ||
+    fieldLower.includes("religion") ||
+    fieldLower.includes("theol") ||
+    fieldLower.includes("cultur") ||
+    fieldLower.includes("design") ||
+    fieldLower.includes("architect") ||
+    fieldLower.includes("journal") ||
+    fieldLower.includes("educat")
   ) {
-    return FIELD_CATEGORIES["Literature"];
-  } else if (fieldLower.includes("philo")) {
-    return FIELD_CATEGORIES["Philosophy"];
-  } else if (fieldLower.includes("phys")) {
-    return FIELD_CATEGORIES["Physics"];
-  } else if (fieldLower.includes("math")) {
-    return FIELD_CATEGORIES["Mathematics"];
-  } else if (fieldLower.includes("bio")) {
-    return FIELD_CATEGORIES["Biology"];
-  } else if (fieldLower.includes("chem")) {
-    return FIELD_CATEGORIES["Chemistry"];
-  } else if (
+    return FIELD_CATEGORIES["Arts & Humanities"];
+  }
+
+  // Science & Technology
+  else if (
+    fieldLower.includes("science") ||
+    fieldLower.includes("tech") ||
+    fieldLower.includes("physics") ||
+    fieldLower.includes("phys") ||
+    fieldLower.includes("chem") ||
+    fieldLower.includes("bio") ||
+    fieldLower.includes("math") ||
+    fieldLower.includes("computer") ||
+    fieldLower.includes("program") ||
+    fieldLower.includes("engineer") ||
+    fieldLower.includes("invent") ||
+    fieldLower.includes("astronomy") ||
+    fieldLower.includes("space") ||
+    fieldLower.includes("quantum") ||
+    fieldLower.includes("ai") ||
+    fieldLower.includes("artificial intel")
+  ) {
+    return FIELD_CATEGORIES["Science & Technology"];
+  }
+
+  // Politics & Leadership
+  else if (
+    fieldLower.includes("polit") ||
+    fieldLower.includes("leader") ||
     fieldLower.includes("civil right") ||
-    fieldLower.includes("activism")
+    fieldLower.includes("activ") ||
+    fieldLower.includes("social reform") ||
+    fieldLower.includes("femin") ||
+    fieldLower.includes("indigenous") ||
+    fieldLower.includes("rights") ||
+    fieldLower.includes("law") ||
+    fieldLower.includes("diplomacy") ||
+    fieldLower.includes("military") ||
+    fieldLower.includes("war") ||
+    fieldLower.includes("intelligen") ||
+    fieldLower.includes("whistle") ||
+    fieldLower.includes("govern") ||
+    fieldLower.includes("presiden") ||
+    fieldLower.includes("revolu") ||
+    fieldLower.includes("protest") ||
+    fieldLower.includes("social justice")
   ) {
-    return FIELD_CATEGORIES["Activism"];
-  } else if (fieldLower.includes("med")) {
-    return FIELD_CATEGORIES["Medicine"];
-  } else if (fieldLower.includes("polit")) {
-    return FIELD_CATEGORIES["Politics"];
-  } else if (fieldLower.includes("tech")) {
-    return FIELD_CATEGORIES["Technology"];
-  } else if (fieldLower.includes("social") || fieldLower.includes("socio")) {
-    return FIELD_CATEGORIES["Sociology"];
-  } else if (fieldLower.includes("enviro") || fieldLower.includes("conserv")) {
-    return FIELD_CATEGORIES["Conservation"];
-  } else if (fieldLower.includes("psycho")) {
-    return FIELD_CATEGORIES["Psychology"];
-  } else if (fieldLower.includes("religion") || fieldLower.includes("theol")) {
-    return FIELD_CATEGORIES["Religion"];
-  } else if (fieldLower.includes("anthro")) {
-    return FIELD_CATEGORIES["Anthropology"];
-  } else if (fieldLower.includes("explor")) {
-    return FIELD_CATEGORIES["Exploration"];
-  } else if (
+    return FIELD_CATEGORIES["Politics & Leadership"];
+  }
+
+  // Business & Innovation
+  else if (
     fieldLower.includes("business") ||
-    fieldLower.includes("entrepreneur")
+    fieldLower.includes("industry") ||
+    fieldLower.includes("entrepre") ||
+    fieldLower.includes("econom") ||
+    fieldLower.includes("financ") ||
+    fieldLower.includes("innovat") ||
+    fieldLower.includes("startup") ||
+    fieldLower.includes("market") ||
+    fieldLower.includes("labor") ||
+    fieldLower.includes("trade") ||
+    fieldLower.includes("commerce")
   ) {
-    return FIELD_CATEGORIES["Business"];
-  } else if (fieldLower.includes("sport") || fieldLower.includes("athlet")) {
-    return FIELD_CATEGORIES["Sports"];
-  } else if (fieldLower.includes("law")) {
-    return FIELD_CATEGORIES["Law"];
-  } else if (fieldLower.includes("military") || fieldLower.includes("war")) {
-    return FIELD_CATEGORIES["Military"];
-  } else if (fieldLower.includes("educ")) {
-    return FIELD_CATEGORIES["Education"];
-  } else if (fieldLower.includes("agri")) {
-    return FIELD_CATEGORIES["Agriculture"];
+    return FIELD_CATEGORIES["Business & Innovation"];
+  }
+
+  // Medicine & Health
+  else if (
+    fieldLower.includes("medic") ||
+    fieldLower.includes("health") ||
+    fieldLower.includes("nurs") ||
+    fieldLower.includes("surg") ||
+    fieldLower.includes("physio") ||
+    fieldLower.includes("immun") ||
+    fieldLower.includes("psycho") ||
+    fieldLower.includes("pharma") ||
+    fieldLower.includes("therapy") ||
+    fieldLower.includes("mental health") ||
+    fieldLower.includes("doctor") ||
+    fieldLower.includes("patient") ||
+    fieldLower.includes("hospital") ||
+    fieldLower.includes("diagnosis") ||
+    fieldLower.includes("treat")
+  ) {
+    return FIELD_CATEGORIES["Medicine & Health"];
+  }
+
+  // Exploration & Environment
+  else if (
+    fieldLower.includes("explor") ||
+    fieldLower.includes("conserv") ||
+    fieldLower.includes("environ") ||
+    fieldLower.includes("natur") ||
+    fieldLower.includes("geograph") ||
+    fieldLower.includes("travel") ||
+    fieldLower.includes("expedition") ||
+    fieldLower.includes("discover") ||
+    fieldLower.includes("climate") ||
+    fieldLower.includes("ecolog") ||
+    fieldLower.includes("sustain") ||
+    fieldLower.includes("agricult") ||
+    fieldLower.includes("farming") ||
+    fieldLower.includes("ocean") ||
+    fieldLower.includes("sea") ||
+    fieldLower.includes("mountain") ||
+    fieldLower.includes("forest") ||
+    fieldLower.includes("desert") ||
+    fieldLower.includes("wild") ||
+    fieldLower.includes("animal") ||
+    fieldLower.includes("species") ||
+    fieldLower.includes("biodivers") ||
+    fieldLower.includes("sport")
+  ) {
+    return FIELD_CATEGORIES["Exploration & Environment"];
   }
 
   return defaultCategory;
