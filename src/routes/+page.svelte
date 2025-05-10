@@ -1,6 +1,6 @@
 <script lang="ts">
     import { onMount } from "svelte";
-    import menaces from "../../static/m2.json";
+    import menaces from "$lib/m2.json";
     // Define the type for our menaces data
     type Menace =
       | {
@@ -69,63 +69,73 @@
 .card-grid {
   display: flex;
   flex-wrap: wrap;
-  gap: 1rem;
+  gap: 2rem;
+  justify-content: center;
 }
 .card {
-  width: 2.5in;
-  height: 3.5in;
-  background: var(--card-bg, #bcd2e8);
-  border-radius: 18px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.18);
-  border: 3px solid #397fae;
+  width: 25in;
+  height: 35in;
+  background:
+    /* Texture pattern using CSS gradients */
+    repeating-linear-gradient(45deg, rgba(255,255,255,0.1), rgba(255,255,255,0.1) 20px, transparent 20px, transparent 80px),
+    radial-gradient(circle at 50% 25%, rgba(255,255,255,0.2) 0%, rgba(255,255,255,0) 60%),
+    linear-gradient(to bottom, rgba(255,255,255,0.2) 0%, rgba(0,0,0,0.1) 100%),
+    var(--card-bg, #bcd2e8);
+  background-blend-mode: overlay, screen, multiply, normal;
+  border-radius: 180px;
+  box-shadow: 0 20px 80px rgba(0,0,0,0.18), inset 0 10px 30px rgba(255,255,255,0.3);
+  border: 30px solid #397fae;
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 0.5rem 0.4rem;
+  padding: 5rem 4rem;
   box-sizing: border-box;
   font-family: 'Garamond', 'Times New Roman', serif;
   position: relative;
 }
 .card-title {
-  font-size: 1.1rem;
+  font-size: 11rem;
   font-weight: bold;
-  letter-spacing: 1px;
+  letter-spacing: 10px;
   background: rgba(190, 220, 240, 0.8);
-  border-radius: 8px;
-  padding: 0.25rem 0.5rem;
-  margin-bottom: 0.3rem;
+  border-radius: 80px;
+  padding: 2.5rem 5rem;
+  margin-bottom: 3rem;
   width: 90%;
   text-align: center;
-  border: 2px solid #397fae;
+  border: 20px solid #397fae;
 }
 .card-art {
-  flex: 1;
+  flex: 6; /* Make artwork take up 60% of available space */
   width: 90%;
   background: #e5e5e5;
-  border-radius: 12px;
-  margin-bottom: 0.3rem;
+  border-radius: 120px;
+  margin-bottom: 3rem;
   display: flex;
   align-items: center;
   justify-content: center;
   font-style: italic;
   color: #888;
-  font-size: 0.9rem;
-  border: 2px solid #397fae;
+  font-size: 9rem;
+  border: 20px solid #397fae;
 }
 .card-desc {
-  font-size: 0.85rem;
-  margin: 0.2rem 0.1rem 0.3rem 0.1rem;
+  font-size: 6rem; /* Reduced relative to other elements */
+  margin: 2rem 1rem 3rem 1rem;
   text-align: center;
   flex-shrink: 0;
+  line-height: 1.3;
+  max-height: 20%;
+  overflow-y: auto;
 }
 .card-type {
-  font-size: 0.8rem;
+  font-size: 8rem;
   font-style: italic;
   background: rgba(255,255,255,0.85);
-  border-radius: 6px;
-  padding: 0.1rem 0.4rem;
-  margin-bottom: 0.1rem;
-  border: 1.5px solid #397fae;
+  border-radius: 60px;
+  padding: 1rem 4rem;
+  margin-bottom: 1rem;
+  border: 15px solid #397fae;
 }
 </style>
 
