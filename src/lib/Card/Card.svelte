@@ -68,9 +68,7 @@
     class="absolute bottom-[1.3rem] left-[6rem] w-[294px] h-[71px] flex items-center"
   >
     <span class=" desc-text">
-      Led the American Revolution against colonial rule, establishing a new
-      nation based on republican ideals, challenging established monarchical
-      systems.
+      {card.details?.reason}
     </span>
   </div>
   <div
@@ -79,7 +77,7 @@
   ></div>
 
   {#key card.imageName}
-    <SvgTemplate imgUrl={"/people/" + card.imageName} />
+    <SvgTemplate imgUrl={"/people/" + card.imageName.replace(" ", "_")} />
   {/key}
   <!-- <div -->
   <!--   class="w-full h-full absolute" -->
