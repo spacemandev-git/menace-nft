@@ -1,7 +1,12 @@
 <script>
   import Card from "$lib/Card/Card.svelte";
+  import { DATA_CARDS } from "./data-cards";
+
+  const cards = DATA_CARDS;
 </script>
 
-<div class="w-screen h-screen grid grid-cols-3 p-2 bg-sky-200">
-  <Card />
+<div class="w-screen h-screen grid grid-cols-3 p-2">
+  {#each cards as card (card.imageName)}
+    <Card {card} />
+  {/each}
 </div>

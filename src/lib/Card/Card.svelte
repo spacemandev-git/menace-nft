@@ -5,6 +5,9 @@
   import CIconCrown from "$lib/card-icons/CIcon_Crown.svelte";
   import QRCodeStyling from "qr-code-styling";
   import { base } from "$app/paths";
+  import type { DATA_CARDS } from "../../routes/card/data-cards";
+
+  let { card }: { card: (typeof DATA_CARDS)[number] } = $props();
 
   let qrCode: QRCodeStyling | undefined = $state();
   let qrRef: HTMLElement | null = $state(null);
@@ -53,7 +56,7 @@
   <span class="absolute top-2 left-[0.5rem] w-[40px]">
     <CIconCrown />
   </span>
-  <span class="absolute vertical-text"> GEORGE WASHINGTON</span>
+  <span class="absolute vertical-text uppercase">{card.name}</span>
 
   <div
     class="absolute top-[1.3rem] right-[2rem] w-fit h-[71px] flex justify-center text-white flex-col"
@@ -75,7 +78,9 @@
     bind:this={qrRef}
   ></div>
 
-  <SvgTemplate imgUrl={"/people/Abdus Salam.png"} />
+  {#key card.imageName}
+    <SvgTemplate imgUrl={"/people/" + card.imageName} />
+  {/key}
   <!-- <div -->
   <!--   class="w-full h-full absolute" -->
   <!--   style={`background: url("/people/Abdus Salam.png") 50% 0% / cover;`} -->
