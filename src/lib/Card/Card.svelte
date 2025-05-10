@@ -51,7 +51,7 @@
 
 <div
   bind:this={tiltRef}
-  class="w-[500px] h-[700px] relative font-jersey overflow-clip rounded-xl scale-90 hover:scale-100 transition-all"
+  class="w-[500px] h-[700px] relative font-jersey overflow-clip rounded-xl scale-90 hover:scale-100 transition-all bg-red-200"
 >
   <span class="absolute top-2 left-[0.5rem] w-[40px]">
     <CIconCrown />
@@ -76,13 +76,12 @@
     bind:this={qrRef}
   ></div>
 
-  {#key card.imageName}
-    <SvgTemplate imgUrl={"/people/" + card.imageName.replace(" ", "_")} />
-  {/key}
-  <!-- <div -->
-  <!--   class="w-full h-full absolute" -->
-  <!--   style={`background: url("/people/Abdus Salam.png") 50% 0% / cover;`} -->
-  <!-- ></div> -->
+  <SvgTemplate imgUrl={"/people/" + card.imageName.replace(" ", "_")} />
+
+  <div
+    class="w-full h-full absolute top-0 z-[-1]"
+    style={`background: url("/people/${card.imageName.replace(" ", "_")}") 50% 0% / cover;`}
+  ></div>
 </div>
 
 <style>
