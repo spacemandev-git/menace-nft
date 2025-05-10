@@ -7,6 +7,8 @@
 
 <div class="w-screen h-screen grid grid-cols-3 p-2">
   {#each cards as card (card.imageName)}
-    <Card {card} />
+    {#key card.name}
+      <Card {card} />
+    {/key}
   {/each}
 </div>

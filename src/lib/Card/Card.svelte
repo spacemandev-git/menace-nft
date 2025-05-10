@@ -6,8 +6,11 @@
   import QRCodeStyling from "qr-code-styling";
   import { base } from "$app/paths";
   import type { DATA_CARDS } from "../../routes/card/data-cards";
+  import { getFieldCategory } from "./constants-fields";
 
   let { card }: { card: (typeof DATA_CARDS)[number] } = $props();
+  const { color, label } = getFieldCategory(card.details?.field ?? "");
+  console.log("FIELD", card.details?.field, label, color);
 
   let qrCode: QRCodeStyling | undefined = $state();
   let qrRef: HTMLElement | null = $state(null);
@@ -76,7 +79,7 @@
     bind:this={qrRef}
   ></div>
 
-  <SvgTemplate imgUrl={"/people/" + card.imageName.replace(" ", "_")} />
+  <SvgTemplate {color} imgUrl={"/people/" + card.imageName.replace(" ", "_")} />
 
   <div
     class="w-full h-full absolute top-0 z-[-1]"
