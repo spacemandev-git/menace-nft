@@ -6,8 +6,8 @@
   import QRCodeStyling from "qr-code-styling";
   import { base } from "$app/paths";
 
-  let qrCode;
-  let qrRef;
+  let qrCode: QRCodeStyling | undefined = $state();
+  let qrRef: HTMLElement | null = $state(null);
 
   const qrCodeOptions = {
     width: 90,
@@ -28,8 +28,8 @@
   };
 
   onMount(() => {
-    qrCode = new QRCodeStyling(qrCodeOptions);
-    qrCode.append(qrRef);
+    qrCode = new QRCodeStyling(qrCodeOptions as any);
+    qrCode.append(qrRef as HTMLElement);
   });
 
   let tiltRef: HTMLElement | null = $state(null);
@@ -59,7 +59,7 @@
     class="absolute top-[1.3rem] right-[2rem] w-fit h-[71px] flex justify-center text-white flex-col"
   >
     <span class="text-4xl"> menace </span>
-    <span>to society</span>
+    <span class="mt-[-8px]">to society</span>
   </div>
   <div
     class="absolute bottom-[1.3rem] left-[6rem] w-[294px] h-[71px] flex items-center"
@@ -70,7 +70,10 @@
       systems.
     </span>
   </div>
-  <div class="absolute bottom-[0.5rem] right-[0.85rem]" bind:this={qrRef}></div>
+  <div
+    class="absolute bottom-[0.5rem] right-[0.85rem] rounded overflow-clip"
+    bind:this={qrRef}
+  ></div>
 
   <SvgTemplate />
 </div>
