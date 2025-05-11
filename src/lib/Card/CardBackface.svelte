@@ -4,6 +4,7 @@
   import SvgTemplate from "./SVGTemplate.svelte";
   import type { DATA_CARDS } from "../../routes/card/data-cards";
   import { getFieldCategory } from "./constants-fields";
+  import { base } from "$app/paths";
 
   let { card }: { card: (typeof DATA_CARDS)[number] } = $props();
   const { color, label, icon } = getFieldCategory(card.details?.field ?? "");
@@ -37,6 +38,6 @@
 
   <div
     class="w-full h-full absolute top-0 z-[-1]"
-    style={`background: url("https://picsum.photos/700") 50% 0% / cover;`}
+    style={`background: url("${base}/backface.png") 50% 0% / cover;`}
   ></div>
 </div>
