@@ -82,9 +82,9 @@
     <span class="mt-[-8px]">to society</span>
   </div>
   <div
-    class="absolute bottom-[1.3rem] left-[6rem] w-[294px] h-[71px] flex items-center"
+    class="absolute bottom-[0.5rem] left-[4.25rem] h-[90px] flex items-center"
   >
-    <span class="desc-text">
+    <span class="desc-text line-clamp-4">
       {card.details?.reason}
     </span>
   </div>
@@ -118,8 +118,6 @@
 
   .desc-text {
     color: white;
-    bottom: 1rem;
-    width: 294px;
-    left: 6rem;
+    width: 325px;
   }
 </style>
