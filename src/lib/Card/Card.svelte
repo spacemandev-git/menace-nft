@@ -58,7 +58,7 @@
 
 <div
   bind:this={tiltRef}
-  class="w-[500px] h-[700px] relative font-jersey overflow-clip rounded-xl scale-90 hover:scale-100 transition-all bg-red-200"
+  class="card-group w-[500px] h-[700px] relative font-jersey overflow-clip rounded-xl scale-100 hover:scale-110 transition-all bg-red-200 hover:z-50"
 >
   <span class="absolute top-2 left-[0.5rem] w-[40px]" style="color: {color};">
     {#if icon === "BuildingOfficeIcon"}
