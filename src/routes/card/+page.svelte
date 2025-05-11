@@ -6,7 +6,7 @@
   const mod = 6;
   let place = $state(0);
   const cards = $derived(DATA_CARDS.slice(0 + place, mod + place));
-  
+
   // Scale settings for printing
   let cardScale = $state(0.5); // Default scale for printing
   let cardsPerRow = $state(3); // Default cards per row
@@ -18,18 +18,18 @@
 
   // Function to update print styles dynamically
   function updatePrintStyles(scale: number, cardsPerRow: number) {
-    const styleId = 'print-card-styles';
+    const styleId = "print-card-styles";
     let styleElement = document.getElementById(styleId);
-    
+
     if (!styleElement) {
-      styleElement = document.createElement('style');
+      styleElement = document.createElement("style");
       styleElement.id = styleId;
       document.head.appendChild(styleElement);
     }
-    
+
     const cardWidth = 500; // Base card width in px
     const cardHeight = 700; // Base card height in px
-    
+
     styleElement.textContent = `
       @media print {
         #card-grid {
@@ -74,29 +74,29 @@
   >
     Next ({place})
   </button>
-  
+
   <div class="print-options ml-8">
     <label for="print-scale" class="mr-2">Print Scale: {cardScale}</label>
-    <input 
+    <input
       id="print-scale"
-      type="range" 
-      min="0.2" 
-      max="1" 
-      step="0.05" 
+      type="range"
+      min="0.2"
+      max="1"
+      step="0.05"
       bind:value={cardScale}
     />
-    
+
     <label for="cards-per-row" class="mx-2">Cards Per Row: {cardsPerRow}</label>
-    <input 
+    <input
       id="cards-per-row"
-      type="range" 
-      min="1" 
-      max="5" 
-      step="1" 
+      type="range"
+      min="1"
+      max="5"
+      step="1"
       bind:value={cardsPerRow}
     />
-    
-    <button 
+
+    <button
       class="bg-green-500 text-white px-3 py-1 rounded ml-4"
       onclick={() => window.print()}
     >
@@ -133,7 +133,11 @@
     :root {
       --card-scale: 0.5; /* Adjust this value to fit more cards on a page */
     }
-    
+
+    .controls {
+      display: none;
+    }
+
     @page {
       size: landscape;
       margin: 0px;
@@ -142,7 +146,10 @@
 
     #card-grid {
       display: grid;
-      grid-template-columns: repeat(3, calc(var(--card-width) * var(--card-scale))); /* 3 columns, adjust as needed */
+      grid-template-columns: repeat(
+        3,
+        calc(var(--card-width) * var(--card-scale))
+      ); /* 3 columns, adjust as needed */
       gap: 4px; /* Remove gaps for clean cuts */
       grid-template-rows: auto;
       justify-content: center;
