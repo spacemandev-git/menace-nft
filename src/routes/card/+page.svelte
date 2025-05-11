@@ -58,6 +58,20 @@
           top: 0 !important;
           left: 0 !important;
         }
+        
+        /* Fix for QR code spacing and margin */
+        .print-card-wrapper {
+          padding-bottom: ${20 * scale}px !important; /* Add padding to the bottom of each card wrapper */
+        }
+        
+        /* Ensure QR code has proper spacing */
+        .card-group div[class*="bottom-"][class*="right-"] {
+          bottom: ${26 * scale}px !important; /* Move QR code up by 30px (scaled) */
+          outline: ${4 * scale}px solid black !important; /* Add a thick black border all around QR code */
+          background-color: black !important;
+          border-radius: ${4 * scale}px !important;
+          overflow: visible !important;
+        }
       }
     `;
   }
