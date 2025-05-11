@@ -1,4 +1,5 @@
 <script lang="ts">
+  import { goto } from "$app/navigation";
   import { page } from "$app/state";
   import Card from "$lib/Card/Card.svelte";
   import { DATA_CARDS } from "./data-cards";
@@ -133,7 +134,13 @@ border-width:  0 2px;
 
     <button
       class="bg-green-500 text-white px-3 py-1 rounded ml-4"
-      onclick={() => window.print()}
+      onclick={() => {
+        page.url.searchParams.set("scale", cardScale.toString());
+        page.url.searchParams.set("mod", mod.toString());
+        page.url.searchParams.set("perrow", cardsPerRow.toString());
+        goto(`?${page.url.searchParams.toString()}`);
+        window.print();
+      }}
     >
       Print Cards
     </button>
