@@ -13,43 +13,43 @@ export const FIELD_CATEGORIES: Record<string, FieldCategory> = {
     color: "#4f46e5",
     icon: "PaintBrushIcon",
     label: "Arts & Humanities",
-  },
+  } as const,
 
   // Category 2: Science & Technology
   "Science & Technology": {
     color: "#FB7D39",
     icon: "BeakerIcon",
     label: "Science & Technology",
-  },
+  } as const,
 
   // Category 3: Politics & Leadership
   "Politics & Leadership": {
     color: "#ECC30B",
     icon: "BuildingOfficeIcon",
     label: "Politics & Leadership",
-  },
+  } as const,
 
   // Category 4: Business & Innovation
   "Business & Innovation": {
     color: "#059669",
     icon: "LightBulbIcon",
     label: "Business & Innovation",
-  },
+  } as const,
 
   // Category 5: Medicine & Health
   "Medicine & Health": {
     color: "#dc2626",
     icon: "HeartIcon",
     label: "Medicine & Health",
-  },
+  } as const,
 
   // Category 6: Exploration & Environment
   "Exploration & Environment": {
     color: "#0FA3B1",
     icon: "GlobeEuropeAfricaIcon",
     label: "Exploration & Environment",
-  },
-};
+  } as const,
+} as const;
 
 /**
  * Maps a field/area string from the data to a category in our constant map.

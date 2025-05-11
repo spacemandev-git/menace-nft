@@ -7,9 +7,13 @@
   import { base } from "$app/paths";
   import type { DATA_CARDS } from "../../routes/card/data-cards";
   import { getFieldCategory } from "./constants-fields";
+  import CIconArt from "$lib/card-icons/CIcon_Art.svelte";
+  import CIconHealth from "$lib/card-icons/CIcon_Health.svelte";
+  import CIconExplore from "$lib/card-icons/CIcon_Explore.svelte";
+  import CIconScience from "$lib/card-icons/CIcon_Science.svelte";
 
   let { card }: { card: (typeof DATA_CARDS)[number] } = $props();
-  const { color, label } = getFieldCategory(card.details?.field ?? "");
+  const { color, label, icon } = getFieldCategory(card.details?.field ?? "");
   console.log("FIELD", card.details?.field, label, color);
 
   let qrCode: QRCodeStyling | undefined = $state();
@@ -57,7 +61,17 @@
   class="w-[500px] h-[700px] relative font-jersey overflow-clip rounded-xl scale-90 hover:scale-100 transition-all bg-red-200"
 >
   <span class="absolute top-2 left-[0.5rem] w-[40px]">
-    <CIconCrown />
+    {#if icon === "BuildingOfficeIcon"}
+      <CIconCrown />
+    {:else if icon === "PaintBrushIcon"}
+      <CIconArt />
+    {:else if icon === "HeartIcon"}
+      <CIconHealth />
+    {:else if icon === "GlobeEuropeAfricaIcon"}
+      <CIconExplore />
+    {:else if icon === "BeakerIcon"}
+      <CIconScience />
+    {/if}
   </span>
   <span class="absolute vertical-text uppercase">{card.name}</span>
 
