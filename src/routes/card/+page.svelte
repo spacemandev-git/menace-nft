@@ -158,11 +158,10 @@ border-width:  0 2px;
   {#each cards as card (card.imageName)}
     <div class="print-card-wrapper">
       {#if showBackFace}
-        <img
-          alt="backface"
-          src="https://picsum.photos/200"
-          class="w-[500px] h-[700px] object-cover"
-        />
+        <div
+          class="card-group w-[500px] h-[700px] aspect-[5:7]"
+          style={`background: url("https://picsum.photos/700"); background-size: cover;`}
+        ></div>
       {:else}
         <Card {card} />
       {/if}
