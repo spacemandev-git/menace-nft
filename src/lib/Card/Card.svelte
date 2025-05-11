@@ -60,7 +60,7 @@
   bind:this={tiltRef}
   class="w-[500px] h-[700px] relative font-jersey overflow-clip rounded-xl scale-90 hover:scale-100 transition-all bg-red-200"
 >
-  <span class="absolute top-2 left-[0.5rem] w-[40px]">
+  <span class="absolute top-2 left-[0.5rem] w-[40px]" style="color: {color};">
     {#if icon === "BuildingOfficeIcon"}
       <CIconCrown />
     {:else if icon === "PaintBrushIcon"}
@@ -99,7 +99,7 @@
 
   <div
     class="w-full h-full absolute top-0 z-[-1]"
-    style={`background: url("/people/${card.imageName.replace(" ", "_")}") 50% 0% / cover;`}
+    style={`background: url("/people/${card.imageName.replaceAll(" ", "_")}") 50% 0% / cover;`}
   ></div>
 </div>
 
