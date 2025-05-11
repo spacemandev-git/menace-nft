@@ -2,6 +2,7 @@
   import { goto } from "$app/navigation";
   import { page } from "$app/state";
   import Card from "$lib/Card/Card.svelte";
+  import CardBackface from "$lib/Card/CardBackface.svelte";
   import { DATA_CARDS } from "./data-cards";
 
   const params = {
@@ -158,10 +159,7 @@ border-width:  0 2px;
   {#each cards as card (card.imageName)}
     <div class="print-card-wrapper">
       {#if showBackFace}
-        <div
-          class="card-group w-[500px] h-[700px] aspect-[5:7]"
-          style={`background: url("https://picsum.photos/700"); background-size: cover;`}
-        ></div>
+        <CardBackface {card} />
       {:else}
         <Card {card} />
       {/if}
