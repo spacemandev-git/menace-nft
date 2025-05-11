@@ -36,8 +36,8 @@
           display: grid !important;
           grid-template-columns: repeat(${cardsPerRow}, ${cardWidth * scale}px) !important;
           grid-auto-rows: ${cardHeight * scale}px !important;
-          row-gap: 0 !important;
-          column-gap: 0 !important;
+          row-gap: 0px !important;
+          column-gap: 1px !important;
           justify-content: center !important;
         }
         
@@ -49,13 +49,15 @@
           page-break-inside: avoid !important;
           break-inside: avoid !important;
           overflow: hidden !important;
+border: solid black;
+border-width:  0 2px;
         }
         
         .card-group {
           transform: scale(${scale}) !important;
           transform-origin: top left !important;
           position: absolute !important;
-          top: 0 !important;
+          top: -3px !important;
           left: 0 !important;
         }
         
@@ -66,7 +68,7 @@
         
         /* Ensure QR code has proper spacing */
         .card-group div[class*="bottom-"][class*="right-"] {
-          bottom: ${26 * scale}px !important; /* Move QR code up by 30px (scaled) */
+          bottom: ${24 * scale}px !important; /* Move QR code up by 30px (scaled) */
           outline: ${4 * scale}px solid black !important; /* Add a thick black border all around QR code */
           background-color: black !important;
           border-radius: ${4 * scale}px !important;
