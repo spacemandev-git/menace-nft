@@ -14,7 +14,8 @@
   let mod = $state(params.mod ? Number(params.mod) : 9);
   let place = $state(0);
   let showBackFace = $state(false);
-  const cards = $derived(DATA_CARDS.slice(0 + place, mod + place));
+  // const cards = $derived(DATA_CARDS.slice(0 + place, mod + place));
+  const cards = DATA_CARDS;
 
   // Scale settings for printing
   let cardScale = $state(params.scale ? Number(params.scale) : 0.5); // Default scale for printing
@@ -129,7 +130,7 @@ border-width:  0 2px;
       id="cards-per-row"
       type="range"
       min="1"
-      max="5"
+      max="10"
       step="1"
       bind:value={cardsPerRow}
     />

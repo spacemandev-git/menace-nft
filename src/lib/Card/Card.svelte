@@ -85,7 +85,7 @@
     class="absolute top-[1.3rem] right-[2rem] w-fit h-[71px] flex justify-center text-white flex-col"
   >
     <span class="text-4xl"> menace </span>
-    <span class="mt-[-8px]">to society</span>
+    <span class="mt-[-8px]">to {card.details?.field}</span>
   </div>
   <div
     class="absolute bottom-[0.5rem] left-[4.25rem] h-[90px] flex items-center"
