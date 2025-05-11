@@ -3,7 +3,7 @@
   import { DATA_CARDS } from "./data-cards";
   import { onMount } from "svelte";
 
-  const mod = 6;
+  let mod = $state(9);
   let place = $state(0);
   const cards = $derived(DATA_CARDS.slice(0 + place, mod + place));
 
@@ -35,7 +35,9 @@
         #card-grid {
           display: grid !important;
           grid-template-columns: repeat(${cardsPerRow}, ${cardWidth * scale}px) !important;
-          gap: 4px !important;
+          grid-auto-rows: ${cardHeight * scale}px !important;
+          row-gap: 0 !important;
+          column-gap: 0 !important;
           justify-content: center !important;
         }
         
@@ -68,6 +70,7 @@
   >
     Prev
   </button>
+
   <button
     class="bg-blue-300 px-3 py-1 rounded"
     onclick={() => (place = place + mod)}
@@ -76,6 +79,16 @@
   </button>
 
   <div class="print-options ml-8">
+    <label for="card-amount" class="mr-2">Cards per page: {mod}</label>
+    <input
+      id="card-amount"
+      type="range"
+      min="6"
+      max="36"
+      step="1"
+      bind:value={mod}
+    />
+
     <label for="print-scale" class="mr-2">Print Scale: {cardScale}</label>
     <input
       id="print-scale"
