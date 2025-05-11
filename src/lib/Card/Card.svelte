@@ -50,6 +50,7 @@
         max: 25,
         speed: 400,
         glare: true,
+        transition: true,
         "max-glare": 0.5,
       });
     }

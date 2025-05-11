@@ -2,7 +2,7 @@
   import Card from "$lib/Card/Card.svelte";
   import { DATA_CARDS } from "./data-cards";
 
-  const mod = 12;
+  const mod = 6;
   let place = $state(0);
   const cards = $derived(DATA_CARDS.slice(0 + place, mod + place));
 </script>
