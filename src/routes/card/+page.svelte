@@ -12,6 +12,7 @@
 
   let mod = $state(params.mod ? Number(params.mod) : 9);
   let place = $state(0);
+  let showBackFace = $state(false);
   const cards = $derived(DATA_CARDS.slice(0 + place, mod + place));
 
   // Scale settings for printing
@@ -132,6 +133,9 @@ border-width:  0 2px;
       bind:value={cardsPerRow}
     />
 
+    <label for="backface" class="mx-2">Show backface</label>
+    <input id="backface" type="checkbox" bind:checked={showBackFace} />
+
     <button
       class="bg-green-500 text-white px-3 py-1 rounded ml-4"
       onclick={() => {
@@ -153,7 +157,15 @@ border-width:  0 2px;
 >
   {#each cards as card (card.imageName)}
     <div class="print-card-wrapper">
-      <Card {card} />
+      {#if showBackFace}
+        <img
+          alt="backface"
+          src="https://picsum.photos/200"
+          class="w-[500px] h-[700px] object-cover"
+        />
+      {:else}
+        <Card {card} />
+      {/if}
     </div>
   {/each}
 </div>
