@@ -11,6 +11,7 @@
   import CIconHealth from "$lib/card-icons/CIcon_Health.svelte";
   import CIconExplore from "$lib/card-icons/CIcon_Explore.svelte";
   import CIconScience from "$lib/card-icons/CIcon_Science.svelte";
+  import CIconWheel from "$lib/card-icons/CIcon_Wheel.svelte";
 
   let { card }: { card: (typeof DATA_CARDS)[number] } = $props();
   const { color, label, icon } = getFieldCategory(card.details?.field ?? "");
@@ -72,6 +73,8 @@
       <CIconExplore />
     {:else if icon === "BeakerIcon"}
       <CIconScience />
+    {:else if icon === "LightBulbIcon"}
+      <CIconWheel />
     {/if}
   </span>
   <span class="absolute vertical-text uppercase line-clamp-1 tracking-wide"
