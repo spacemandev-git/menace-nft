@@ -103,7 +103,7 @@
 
   <div
     class="w-full h-full absolute top-0 z-[-1]"
-    style={`background: url("/people/${card.imageName.replaceAll(" ", "_")}") 50% 0% / cover;`}
+    style={`background: url("${base}/people/${card.imageName.replaceAll(" ", "_")}") 50% 0% / cover;`}
   ></div>
 </div>
 
