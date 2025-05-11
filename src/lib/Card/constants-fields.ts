@@ -12,42 +12,42 @@ export const FIELD_CATEGORIES: Record<string, FieldCategory> = {
   "Arts & Humanities": {
     color: "#4f46e5",
     icon: "PaintBrushIcon",
-    label: "Arts & Humanities",
+    label: "the Arts",
   } as const,
 
   // Category 2: Science & Technology
   "Science & Technology": {
     color: "#FB7D39",
     icon: "BeakerIcon",
-    label: "Science & Technology",
+    label: "Science",
   } as const,
 
   // Category 3: Politics & Leadership
   "Politics & Leadership": {
     color: "#ECC30B",
     icon: "BuildingOfficeIcon",
-    label: "Politics & Leadership",
+    label: "Leadership",
   } as const,
 
   // Category 4: Business & Innovation
   "Business & Innovation": {
     color: "#059669",
     icon: "LightBulbIcon",
-    label: "Business & Innovation",
+    label: "Innovation",
   } as const,
 
   // Category 5: Medicine & Health
   "Medicine & Health": {
     color: "#dc2626",
     icon: "HeartIcon",
-    label: "Medicine & Health",
+    label: "Medicine",
   } as const,
 
   // Category 6: Exploration & Environment
   "Exploration & Environment": {
     color: "#0FA3B1",
     icon: "GlobeEuropeAfricaIcon",
-    label: "Exploration & Environment",
+    label: "Exploration",
   } as const,
 } as const;
 
