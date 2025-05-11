@@ -73,7 +73,9 @@
       <CIconScience />
     {/if}
   </span>
-  <span class="absolute vertical-text uppercase">{card.name}</span>
+  <span class="absolute vertical-text uppercase line-clamp-1 tracking-wide"
+    >{card.name}</span
+  >
 
   <div
     class="absolute top-[1.3rem] right-[2rem] w-fit h-[71px] flex justify-center text-white flex-col"
@@ -108,6 +110,7 @@
     display: flex;
     flex-direction: column;
     height: 100%; /* or a fixed height like 300px */
+    width: 5.15rem;
 
     top: 3.5rem;
     left: -0.9rem;

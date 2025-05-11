@@ -98,7 +98,8 @@ export function getFieldCategory(fieldArea: string): FieldCategory {
     fieldLower.includes("design") ||
     fieldLower.includes("architect") ||
     fieldLower.includes("journal") ||
-    fieldLower.includes("educat")
+    fieldLower.includes("educat") ||
+    fieldLower.includes("entertainment")
   ) {
     return FIELD_CATEGORIES["Arts & Humanities"];
   }
