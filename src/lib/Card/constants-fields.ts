@@ -74,38 +74,8 @@ export function getFieldCategory(fieldArea: string): FieldCategory {
   // If nothing specific was found, categorize based on field
   const fieldLower = fieldArea.toLowerCase();
 
-  // Arts & Humanities
-  if (
-    fieldLower.includes("art") ||
-    fieldLower.includes("danc") ||
-    fieldLower.includes("film") ||
-    fieldLower.includes("music") ||
-    fieldLower.includes("photo") ||
-    fieldLower.includes("theatre") ||
-    fieldLower.includes("theater") ||
-    fieldLower.includes("liter") ||
-    fieldLower.includes("poetry") ||
-    fieldLower.includes("writ") ||
-    fieldLower.includes("poet") ||
-    fieldLower.includes("philo") ||
-    fieldLower.includes("history") ||
-    fieldLower.includes("archaeolog") ||
-    fieldLower.includes("anthro") ||
-    fieldLower.includes("socio") ||
-    fieldLower.includes("religion") ||
-    fieldLower.includes("theol") ||
-    fieldLower.includes("cultur") ||
-    fieldLower.includes("design") ||
-    fieldLower.includes("architect") ||
-    fieldLower.includes("journal") ||
-    fieldLower.includes("educat") ||
-    fieldLower.includes("entertainment")
-  ) {
-    return FIELD_CATEGORIES["Arts & Humanities"];
-  }
-
   // Science & Technology
-  else if (
+  if (
     fieldLower.includes("science") ||
     fieldLower.includes("tech") ||
     fieldLower.includes("physics") ||
@@ -124,6 +94,35 @@ export function getFieldCategory(fieldArea: string): FieldCategory {
     fieldLower.includes("artificial intel")
   ) {
     return FIELD_CATEGORIES["Science & Technology"];
+  }
+
+  // Exploration & Environment
+  else if (
+    fieldLower.includes("explor") ||
+    fieldLower.includes("conserv") ||
+    fieldLower.includes("environ") ||
+    fieldLower.includes("natur") ||
+    fieldLower.includes("geograph") ||
+    fieldLower.includes("travel") ||
+    fieldLower.includes("expedition") ||
+    fieldLower.includes("discover") ||
+    fieldLower.includes("climate") ||
+    fieldLower.includes("ecolog") ||
+    fieldLower.includes("sustain") ||
+    fieldLower.includes("agricult") ||
+    fieldLower.includes("farming") ||
+    fieldLower.includes("ocean") ||
+    fieldLower.includes("sea") ||
+    fieldLower.includes("mountain") ||
+    fieldLower.includes("forest") ||
+    fieldLower.includes("desert") ||
+    fieldLower.includes("wild") ||
+    fieldLower.includes("animal") ||
+    fieldLower.includes("species") ||
+    fieldLower.includes("biodivers") ||
+    fieldLower.includes("sport")
+  ) {
+    return FIELD_CATEGORIES["Exploration & Environment"];
   }
 
   // Politics & Leadership
@@ -189,33 +188,34 @@ export function getFieldCategory(fieldArea: string): FieldCategory {
     return FIELD_CATEGORIES["Medicine & Health"];
   }
 
-  // Exploration & Environment
+  // Arts & Humanities
   else if (
-    fieldLower.includes("explor") ||
-    fieldLower.includes("conserv") ||
-    fieldLower.includes("environ") ||
-    fieldLower.includes("natur") ||
-    fieldLower.includes("geograph") ||
-    fieldLower.includes("travel") ||
-    fieldLower.includes("expedition") ||
-    fieldLower.includes("discover") ||
-    fieldLower.includes("climate") ||
-    fieldLower.includes("ecolog") ||
-    fieldLower.includes("sustain") ||
-    fieldLower.includes("agricult") ||
-    fieldLower.includes("farming") ||
-    fieldLower.includes("ocean") ||
-    fieldLower.includes("sea") ||
-    fieldLower.includes("mountain") ||
-    fieldLower.includes("forest") ||
-    fieldLower.includes("desert") ||
-    fieldLower.includes("wild") ||
-    fieldLower.includes("animal") ||
-    fieldLower.includes("species") ||
-    fieldLower.includes("biodivers") ||
-    fieldLower.includes("sport")
+    fieldLower.includes("art") ||
+    fieldLower.includes("danc") ||
+    fieldLower.includes("film") ||
+    fieldLower.includes("music") ||
+    fieldLower.includes("photo") ||
+    fieldLower.includes("theatre") ||
+    fieldLower.includes("theater") ||
+    fieldLower.includes("liter") ||
+    fieldLower.includes("poetry") ||
+    fieldLower.includes("writ") ||
+    fieldLower.includes("poet") ||
+    fieldLower.includes("philo") ||
+    fieldLower.includes("history") ||
+    fieldLower.includes("archaeolog") ||
+    fieldLower.includes("anthro") ||
+    fieldLower.includes("socio") ||
+    fieldLower.includes("religion") ||
+    fieldLower.includes("theol") ||
+    fieldLower.includes("cultur") ||
+    fieldLower.includes("design") ||
+    fieldLower.includes("architect") ||
+    fieldLower.includes("journal") ||
+    fieldLower.includes("educat") ||
+    fieldLower.includes("entertainment")
   ) {
-    return FIELD_CATEGORIES["Exploration & Environment"];
+    return FIELD_CATEGORIES["Arts & Humanities"];
   }
 
   return defaultCategory;
