@@ -1,15 +1,21 @@
 <script lang="ts">
+  import { page } from "$app/state";
   import Card from "$lib/Card/Card.svelte";
   import { DATA_CARDS } from "./data-cards";
-  import { onMount } from "svelte";
 
-  let mod = $state(9);
+  const params = {
+    mod: page.url.searchParams.get("mod"),
+    scale: page.url.searchParams.get("scale"),
+    perrow: page.url.searchParams.get("perrow"),
+  };
+
+  let mod = $state(params.mod ? Number(params.mod) : 9);
   let place = $state(0);
   const cards = $derived(DATA_CARDS.slice(0 + place, mod + place));
 
   // Scale settings for printing
-  let cardScale = $state(0.5); // Default scale for printing
-  let cardsPerRow = $state(3); // Default cards per row
+  let cardScale = $state(params.scale ? Number(params.scale) : 0.5); // Default scale for printing
+  let cardsPerRow = $state(params.perrow ? Number(params.perrow) : 3); // Default cards per row
 
   // Update print stylesheet when scale or cardsPerRow changes
   $effect(() => {
