@@ -24,7 +24,7 @@
     width: 90,
     height: 90,
     data: "https://menace.finance",
-    image: base + "icons/gift.svg", // path to your center icon
+    // image: base + "icons/gift.svg", // path to your center icon
     dotsOptions: {
       color: "#000",
       type: "rounded",
