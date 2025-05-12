@@ -23,7 +23,7 @@
   const qrCodeOptions = {
     width: 90,
     height: 90,
-    data: "https://menace.finance/claim/1",
+    data: "https://menace.finance",
     image: base + "icons/gift.svg", // path to your center icon
     dotsOptions: {
       color: "#000",
@@ -85,10 +85,10 @@
     class="absolute top-[1.3rem] right-[2rem] w-fit h-[71px] flex justify-center text-white flex-col"
   >
     <span class="text-4xl"> menace </span>
-    <span class="mt-[-8px]">to {card.details?.field}</span>
+    <span class="mt-[-8px]">to <span class="text-2xl">{label}</span></span>
   </div>
   <div
-    class="absolute bottom-[0.5rem] left-[4.25rem] h-[90px] flex items-center"
+    class="absolute bottom-[0.75rem] left-[4.25rem] h-[90px] flex items-center"
   >
     <span class="desc-text line-clamp-4">
       {card.details?.reason}
@@ -124,6 +124,7 @@
   }
 
   .desc-text {
+    line-height: 1rem;
     color: white;
     width: 325px;
   }

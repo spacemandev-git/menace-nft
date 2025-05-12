@@ -15,10 +15,11 @@
   let place = $state(0);
   let showBackFace = $state(false);
   // const cards = $derived(DATA_CARDS.slice(0 + place, mod + place));
-  const cards = DATA_CARDS;
+  const cards = DATA_CARDS.slice(108 * 0, 108 * 1);
 
   // Scale settings for printing
-  let cardScale = $state(params.scale ? Number(params.scale) : 0.5); // Default scale for printing
+  // let cardScale = $state(params.scale ? Number(params.scale) : 0.5); // Default scale for printing
+  let cardScale = 1; // Default scale for printing
   let cardsPerRow = $state(params.perrow ? Number(params.perrow) : 3); // Default cards per row
 
   // Update print stylesheet when scale or cardsPerRow changes
@@ -60,7 +61,7 @@
           break-inside: avoid !important;
           overflow: hidden !important;
 border: solid black;
-border-width:  0 2px;
+border-width:  4px;
         }
         
         .card-group {
@@ -78,7 +79,7 @@ border-width:  0 2px;
         
         /* Ensure QR code has proper spacing */
         .card-group div[class*="bottom-"][class*="right-"] {
-          bottom: ${24 * scale}px !important; /* Move QR code up by 30px (scaled) */
+          bottom: ${12 * scale}px !important; /* Move QR code up by 30px (scaled) */
           outline: ${4 * scale}px solid black !important; /* Add a thick black border all around QR code */
           background-color: black !important;
           border-radius: ${4 * scale}px !important;
@@ -109,7 +110,7 @@ border-width:  0 2px;
     <input
       id="card-amount"
       type="range"
-      min="6"
+      min="1"
       max="36"
       step="1"
       bind:value={mod}
@@ -191,9 +192,9 @@ border-width:  0 2px;
     }
 
     @page {
-      size: landscape;
+      size: 500px 700px;
       margin: 0px;
-      padding: 1rem;
+      padding: 0rem;
     }
 
     #card-grid {
