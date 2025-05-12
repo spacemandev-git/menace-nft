@@ -23,7 +23,7 @@
   const qrCodeOptions = {
     width: 90,
     height: 90,
-    data: "https://menace.finance/claim/1",
+    data: "https://menace.finance",
     image: base + "icons/gift.svg", // path to your center icon
     dotsOptions: {
       color: "#000",
