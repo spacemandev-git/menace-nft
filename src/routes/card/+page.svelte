@@ -14,8 +14,8 @@
   let mod = $state(params.mod ? Number(params.mod) : 9);
   let place = $state(0);
   let showBackFace = $state(false);
-  const cards = $derived(DATA_CARDS.slice(0 + place, mod + place));
-  // const cards = DATA_CARDS.slice(108 * 5, 108 * 6);
+  // const cards = $derived(DATA_CARDS.slice(0 + place, mod + place));
+  const cards = DATA_CARDS.slice(108 * 0, 108 * 1);
 
   // Scale settings for printing
   // let cardScale = $state(params.scale ? Number(params.scale) : 0.5); // Default scale for printing
